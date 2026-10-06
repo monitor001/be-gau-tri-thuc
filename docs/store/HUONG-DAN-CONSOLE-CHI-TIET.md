@@ -16,8 +16,8 @@ Làm lần lượt từng mục có dấu mũi tên `>` cho đến khi tất c�
 Play **không** nhận file trên máy — cần link mở được bằng trình duyệt.
 
 1. Mở file trong project: `docs/store/privacy-policy.html`
-2. Sửa dòng email `support@example.com` → **email thật của bạn**
-3. Đưa file lên internet (một trong các cách):
+2. Email liên hệ đã đặt: **nguyenthanhvc@gmail.com** (trong `docs/privacy-policy.html`)
+3. Đã host trên GitHub Pages (hoặc tự host lại nếu cần):
 
 | Cách | Việc làm |
 |------|----------|
@@ -96,7 +96,7 @@ Ghi âm micro chỉ trong Cài đặt người lớn.
 
 **Menu:** App content → **Mức phân loại nội dung** → Bắt đầu bảng câu hỏi IARC
 
-1. Email liên hệ: email thật của bạn  
+1. Email liên hệ: **nguyenthanhvc@gmail.com**  
 2. **Category:** chọn **Education** / Giáo dục (hoặc Utility nếu không thấy Education — ưu tiên Education)  
 3. Trả lời bảng câu hỏi — với Bé Gấu dùng khung sau:
 
