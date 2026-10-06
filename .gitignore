@@ -1,0 +1,20 @@
+node_modules/
+www/
+android/.gradle/
+android/app/build/
+android/build/
+android/captures/
+android/local.properties
+*.iml
+.idea/
+.DS_Store
+dist-apk/
+dist-aab/
+# Play signing secrets — NEVER commit
+android/keystore.properties
+android/release/
+*.jks
+*.keystore
+PLAY-SIGNING-SECRET.txt
+.env
+.env.*

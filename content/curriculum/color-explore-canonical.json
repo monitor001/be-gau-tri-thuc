@@ -1,0 +1,362 @@
+{
+  "_meta": {
+    "version": 7,
+    "approvedAt": "2026-10-05",
+    "council": "Chuyen-gia-giao-duc-tham-dinh + Hoi-dong-kiem-duyet-noi-dung",
+    "note": "Explore 8 bài màu dùng ảnh AI JPG (kiểm duyệt TD-VIS). Không fallback emoji lệch màu.",
+    "exploreSvgGenerated": "2026-10-05",
+    "imagePipeline": "ai-jpg"
+  },
+  "mau-do": [
+    {
+      "emoji": "🍎",
+      "label": "Quả táo",
+      "speakLine": "Quả táo màu đỏ",
+      "img": "assets/explore/mau/mau-do-qua-tao.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🍓",
+      "label": "Quả dâu",
+      "speakLine": "Quả dâu màu đỏ",
+      "img": "assets/explore/mau/mau-do-qua-dau.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🍅",
+      "label": "Cà chua",
+      "speakLine": "Cà chua màu đỏ",
+      "img": "assets/explore/mau/mau-do-ca-chua.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🚒",
+      "label": "Xe cứu hỏa",
+      "speakLine": "Xe cứu hỏa màu đỏ",
+      "img": "assets/explore/mau/mau-do-xe-cuu-hoa.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🐞",
+      "label": "Bọ rùa",
+      "speakLine": "Bọ rùa màu đỏ",
+      "img": "assets/explore/mau/mau-do-bo-rua.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🌹",
+      "label": "Hoa hồng",
+      "speakLine": "Hoa hồng màu đỏ",
+      "img": "assets/explore/mau/mau-do-hoa-hong.jpg",
+      "source": "ai-gen"
+    }
+  ],
+  "mau-vang": [
+    {
+      "emoji": "🍌",
+      "label": "Quả chuối",
+      "speakLine": "Quả chuối màu vàng",
+      "img": "assets/explore/mau/mau-vang-qua-chuoi.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🐥",
+      "label": "Gà con",
+      "speakLine": "Gà con màu vàng",
+      "img": "assets/explore/mau/mau-vang-ga-con.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🌻",
+      "label": "Hoa hướng dương",
+      "speakLine": "Hoa hướng dương màu vàng",
+      "img": "assets/explore/mau/mau-vang-hoa-huong-duong.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🥭",
+      "label": "Quả xoài chín",
+      "speakLine": "Quả xoài chín màu vàng",
+      "img": "assets/explore/mau/mau-vang-qua-xoai-chin.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🌼",
+      "label": "Hoa mai",
+      "speakLine": "Hoa mai màu vàng",
+      "img": "assets/explore/mau/mau-vang-hoa-mai.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🐤",
+      "label": "Vịt con",
+      "speakLine": "Vịt con màu vàng",
+      "img": "assets/explore/mau/mau-vang-vit-con.jpg",
+      "source": "ai-gen"
+    }
+  ],
+  "mau-xanh-duong": [
+    {
+      "emoji": "🌊",
+      "label": "Sóng biển",
+      "speakLine": "Sóng biển màu xanh dương",
+      "img": "assets/explore/mau/mau-xanh-duong-song-bien.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🐋",
+      "label": "Cá voi",
+      "speakLine": "Cá voi màu xanh dương",
+      "img": "assets/explore/mau/mau-xanh-duong-ca-voi.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🫐",
+      "label": "Việt quất",
+      "speakLine": "Việt quất màu xanh dương",
+      "img": "assets/explore/mau/mau-xanh-duong-viet-quat.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "👖",
+      "label": "Quần jean",
+      "speakLine": "Quần jean màu xanh dương",
+      "img": "assets/explore/mau/mau-xanh-duong-quan-jean.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "📘",
+      "label": "Quyển sách",
+      "speakLine": "Quyển sách màu xanh dương",
+      "img": "assets/explore/mau/mau-xanh-duong-quyen-sach.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🚙",
+      "label": "Xe xanh dương",
+      "speakLine": "Xe màu xanh dương",
+      "img": "assets/explore/mau/mau-xanh-duong-xe-xanh-duong.jpg",
+      "source": "ai-gen"
+    }
+  ],
+  "mau-xanh-la": [
+    {
+      "emoji": "🐸",
+      "label": "Con ếch",
+      "speakLine": "Con ếch màu xanh lá",
+      "img": "assets/explore/mau/mau-xanh-la-con-ech.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🍃",
+      "label": "Lá cây",
+      "speakLine": "Lá cây màu xanh lá",
+      "img": "assets/explore/mau/mau-xanh-la-la-cay.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🥒",
+      "label": "Dưa chuột",
+      "speakLine": "Dưa chuột màu xanh lá",
+      "img": "assets/explore/mau/mau-xanh-la-dua-chuot.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🥦",
+      "label": "Bông cải",
+      "speakLine": "Bông cải màu xanh lá",
+      "img": "assets/explore/mau/mau-xanh-la-bong-cai.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🌳",
+      "label": "Cây xanh",
+      "speakLine": "Cây xanh màu xanh lá",
+      "img": "assets/explore/mau/mau-xanh-la-cay-xanh.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🥬",
+      "label": "Rau xanh",
+      "speakLine": "Rau xanh màu xanh lá",
+      "img": "assets/explore/mau/mau-xanh-la-rau-xanh.jpg",
+      "source": "ai-gen"
+    }
+  ],
+  "mau-cam": [
+    {
+      "emoji": "🍊",
+      "label": "Quả cam",
+      "speakLine": "Quả cam màu cam",
+      "img": "assets/explore/mau/mau-cam-qua-cam.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🥕",
+      "label": "Cà rốt",
+      "speakLine": "Cà rốt màu cam",
+      "img": "assets/explore/mau/mau-cam-ca-rot.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🦊",
+      "label": "Con cáo",
+      "speakLine": "Con cáo màu cam",
+      "img": "assets/explore/mau/mau-cam-con-cao.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🏀",
+      "label": "Bóng rổ",
+      "speakLine": "Bóng rổ màu cam",
+      "img": "assets/explore/mau/mau-cam-bong-ro.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🔶",
+      "label": "Hình cam",
+      "speakLine": "Hình này màu cam",
+      "img": "assets/explore/mau/mau-cam-hinh-cam.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🟧",
+      "label": "Ô vuông cam",
+      "speakLine": "Ô vuông màu cam",
+      "img": "assets/explore/mau/mau-cam-o-vuong-cam.jpg",
+      "source": "ai-gen"
+    }
+  ],
+  "mau-tim": [
+    {
+      "emoji": "🍇",
+      "label": "Quả nho",
+      "speakLine": "Quả nho màu tím",
+      "img": "assets/explore/mau/mau-tim-qua-nho.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🍆",
+      "label": "Cà tím",
+      "speakLine": "Cà tím màu tím",
+      "img": "assets/explore/mau/mau-tim-ca-tim.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "💜",
+      "label": "Trái tim tím",
+      "speakLine": "Trái tim màu tím",
+      "img": "assets/explore/mau/mau-tim-trai-tim-tim.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🟣",
+      "label": "Bóng tím",
+      "speakLine": "Bóng màu tím",
+      "img": "assets/explore/mau/mau-tim-bong-tim.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "👚",
+      "label": "Áo tím",
+      "speakLine": "Áo màu tím",
+      "img": "assets/explore/mau/mau-tim-ao-tim.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "☂️",
+      "label": "Ô tím",
+      "speakLine": "Cái ô màu tím",
+      "img": "assets/explore/mau/mau-tim-o-tim.jpg",
+      "source": "ai-gen"
+    }
+  ],
+  "mau-hong": [
+    {
+      "emoji": "🐷",
+      "label": "Con heo",
+      "speakLine": "Con heo màu hồng",
+      "img": "assets/explore/mau/mau-hong-con-heo.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🌸",
+      "label": "Bông hoa",
+      "speakLine": "Bông hoa màu hồng",
+      "img": "assets/explore/mau/mau-hong-bong-hoa.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🎀",
+      "label": "Chiếc nơ",
+      "speakLine": "Chiếc nơ màu hồng",
+      "img": "assets/explore/mau/mau-hong-chiec-no.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "💗",
+      "label": "Trái tim hồng",
+      "speakLine": "Trái tim màu hồng",
+      "img": "assets/explore/mau/mau-hong-trai-tim-hong.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🍩",
+      "label": "Bánh vòng",
+      "speakLine": "Bánh vòng màu hồng",
+      "img": "assets/explore/mau/mau-hong-banh-vong.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "👚",
+      "label": "Áo hồng",
+      "speakLine": "Áo màu hồng",
+      "img": "assets/explore/mau/mau-hong-ao-hong.jpg",
+      "source": "ai-gen"
+    }
+  ],
+  "mau-nau": [
+    {
+      "emoji": "🐻",
+      "label": "Gấu nâu",
+      "speakLine": "Gấu màu nâu",
+      "img": "assets/explore/mau/mau-nau-gau-nau.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🍫",
+      "label": "Sô cô la",
+      "speakLine": "Sô cô la màu nâu",
+      "img": "assets/explore/mau/mau-nau-so-co-la.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "📦",
+      "label": "Hộp nâu",
+      "speakLine": "Hộp màu nâu",
+      "img": "assets/explore/mau/mau-nau-hop-nau.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🥔",
+      "label": "Khoai tây",
+      "speakLine": "Khoai tây màu nâu",
+      "img": "assets/explore/mau/mau-nau-khoai-tay.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🍪",
+      "label": "Bánh quy",
+      "speakLine": "Bánh quy màu nâu",
+      "img": "assets/explore/mau/mau-nau-banh-quy.jpg",
+      "source": "ai-gen"
+    },
+    {
+      "emoji": "🌰",
+      "label": "Hạt dẻ",
+      "speakLine": "Hạt dẻ màu nâu",
+      "img": "assets/explore/mau/mau-nau-hat-de.jpg",
+      "source": "ai-gen"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "_meta": {
+    "version": 2,
+    "alphabet": "latin-A-Z",
+    "approvedAt": "2026-10-05",
+    "council": "TD-PEDA + TD-CURR",
+    "note": "Chỉ chữ Latin A–Z (26). Không dùng Ă Â Đ Ê Ô Ơ Ư."
+  },
+  "chu-a": {
+    "letter": "A",
+    "word": "áo",
+    "emoji": "👕",
+    "teachText": "Đây là chữ A. Áo bắt đầu bằng chữ A!",
+    "speakText": "Chữ A"
+  },
+  "chu-b": {
+    "letter": "B",
+    "word": "bò",
+    "emoji": "🐮",
+    "teachText": "Đây là chữ B. Bò bắt đầu bằng chữ B!",
+    "speakText": "Chữ B"
+  },
+  "chu-c": {
+    "letter": "C",
+    "word": "cá",
+    "emoji": "🐟",
+    "teachText": "Đây là chữ C. Cá bắt đầu bằng chữ C!",
+    "speakText": "Chữ C"
+  },
+  "chu-d": {
+    "letter": "D",
+    "word": "dê",
+    "emoji": "🐐",
+    "teachText": "Đây là chữ D. Dê bắt đầu bằng chữ D!",
+    "speakText": "Chữ D"
+  },
+  "chu-e": {
+    "letter": "E",
+    "word": "em",
+    "emoji": "👶",
+    "teachText": "Đây là chữ E. Em bắt đầu bằng chữ E!",
+    "speakText": "Chữ E"
+  },
+  "chu-f": {
+    "letter": "F",
+    "word": "fan",
+    "emoji": "🌀",
+    "teachText": "Đây là chữ F. Fan bắt đầu bằng chữ F!",
+    "speakText": "Chữ F"
+  },
+  "chu-g": {
+    "letter": "G",
+    "word": "gấu",
+    "emoji": "🐻",
+    "teachText": "Đây là chữ G. Gấu bắt đầu bằng chữ G!",
+    "speakText": "Chữ G"
+  },
+  "chu-h": {
+    "letter": "H",
+    "word": "hoa",
+    "emoji": "🌸",
+    "teachText": "Đây là chữ H. Hoa bắt đầu bằng chữ H!",
+    "speakText": "Chữ H"
+  },
+  "chu-i": {
+    "letter": "I",
+    "word": "i tờ",
+    "emoji": "🔤",
+    "teachText": "Đây là chữ I. Bé nhìn chữ I tờ nhé!",
+    "speakText": "Chữ I"
+  },
+  "chu-j": {
+    "letter": "J",
+    "word": "juice",
+    "emoji": "🧃",
+    "teachText": "Đây là chữ J. Juice bắt đầu bằng chữ J!",
+    "speakText": "Chữ J"
+  },
+  "chu-k": {
+    "letter": "K",
+    "word": "kem",
+    "emoji": "🍦",
+    "teachText": "Đây là chữ K. Kem bắt đầu bằng chữ K!",
+    "speakText": "Chữ K"
+  },
+  "chu-l": {
+    "letter": "L",
+    "word": "lá",
+    "emoji": "🍃",
+    "teachText": "Đây là chữ L. Lá bắt đầu bằng chữ L!",
+    "speakText": "Chữ L"
+  },
+  "chu-m": {
+    "letter": "M",
+    "word": "mèo",
+    "emoji": "🐱",
+    "teachText": "Đây là chữ M. Mèo bắt đầu bằng chữ M!",
+    "speakText": "Chữ M"
+  },
+  "chu-n": {
+    "letter": "N",
+    "word": "nón",
+    "emoji": "👒",
+    "teachText": "Đây là chữ N. Nón bắt đầu bằng chữ N!",
+    "speakText": "Chữ N"
+  },
+  "chu-o": {
+    "letter": "O",
+    "word": "ong",
+    "emoji": "🐝",
+    "teachText": "Đây là chữ O. Ong bắt đầu bằng chữ O!",
+    "speakText": "Chữ O"
+  },
+  "chu-p": {
+    "letter": "P",
+    "word": "pin",
+    "emoji": "🔋",
+    "teachText": "Đây là chữ P. Pin bắt đầu bằng chữ P!",
+    "speakText": "Chữ P"
+  },
+  "chu-q": {
+    "letter": "Q",
+    "word": "quạt",
+    "emoji": "🌀",
+    "teachText": "Đây là chữ Q. Quạt bắt đầu bằng chữ Q!",
+    "speakText": "Chữ Q"
+  },
+  "chu-r": {
+    "letter": "R",
+    "word": "rùa",
+    "emoji": "🐢",
+    "teachText": "Đây là chữ R. Rùa bắt đầu bằng chữ R!",
+    "speakText": "Chữ R"
+  },
+  "chu-s": {
+    "letter": "S",
+    "word": "sách",
+    "emoji": "📚",
+    "teachText": "Đây là chữ S. Sách bắt đầu bằng chữ S!",
+    "speakText": "Chữ S"
+  },
+  "chu-t": {
+    "letter": "T",
+    "word": "táo",
+    "emoji": "🍎",
+    "teachText": "Đây là chữ T. Táo bắt đầu bằng chữ T!",
+    "speakText": "Chữ T"
+  },
+  "chu-u": {
+    "letter": "U",
+    "word": "uống",
+    "emoji": "🥤",
+    "teachText": "Đây là chữ U. Uống bắt đầu bằng chữ U!",
+    "speakText": "Chữ U"
+  },
+  "chu-v": {
+    "letter": "V",
+    "word": "voi",
+    "emoji": "🐘",
+    "teachText": "Đây là chữ V. Voi bắt đầu bằng chữ V!",
+    "speakText": "Chữ V"
+  },
+  "chu-w": {
+    "letter": "W",
+    "word": "watermelon",
+    "emoji": "🍉",
+    "teachText": "Đây là chữ W. Watermelon bắt đầu bằng chữ W!",
+    "speakText": "Chữ W"
+  },
+  "chu-x": {
+    "letter": "X",
+    "word": "xe",
+    "emoji": "🚲",
+    "teachText": "Đây là chữ X. Xe bắt đầu bằng chữ X!",
+    "speakText": "Chữ X"
+  },
+  "chu-y": {
+    "letter": "Y",
+    "word": "yêu",
+    "emoji": "💛",
+    "teachText": "Đây là chữ Y. Yêu bắt đầu bằng chữ Y!",
+    "speakText": "Chữ Y"
+  },
+  "chu-z": {
+    "letter": "Z",
+    "word": "zebra",
+    "emoji": "🦓",
+    "teachText": "Đây là chữ Z. Zebra bắt đầu bằng chữ Z!",
+    "speakText": "Chữ Z"
+  }
+}

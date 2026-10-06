@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "color-do",
+      "type": "color",
+      "labelVi": "Đỏ",
+      "speakText": "Màu đỏ",
+      "assetHint": "quả táo đỏ / bóng đỏ sáng"
+    },
+    {
+      "id": "color-vang",
+      "type": "color",
+      "labelVi": "Vàng",
+      "speakText": "Màu vàng",
+      "assetHint": "mặt trời / quả chuối vàng"
+    },
+    {
+      "id": "color-xanh-duong",
+      "type": "color",
+      "labelVi": "Xanh dương",
+      "speakText": "Màu xanh dương",
+      "assetHint": "bầu trời / sóng biển xanh"
+    },
+    {
+      "id": "color-xanh-la",
+      "type": "color",
+      "labelVi": "Xanh lá",
+      "speakText": "Màu xanh lá",
+      "assetHint": "lá cây / cỏ xanh"
+    },
+    {
+      "id": "color-cam",
+      "type": "color",
+      "labelVi": "Cam",
+      "speakText": "Màu cam",
+      "assetHint": "quả cam tròn"
+    },
+    {
+      "id": "color-tim",
+      "type": "color",
+      "labelVi": "Tím",
+      "speakText": "Màu tím",
+      "assetHint": "hoa tím / quả nho"
+    },
+    {
+      "id": "color-hong",
+      "type": "color",
+      "labelVi": "Hồng",
+      "speakText": "Màu hồng",
+      "assetHint": "hoa hồng pastel / kẹo hồng"
+    },
+    {
+      "id": "color-nau",
+      "type": "color",
+      "labelVi": "Nâu",
+      "speakText": "Màu nâu",
+      "assetHint": "gấu nâu / thân cây"
+    },
+
+    {
+      "id": "shape-tron",
+      "type": "shape",
+      "labelVi": "Tròn",
+      "speakText": "Hình tròn",
+      "assetHint": "bóng tròn / bánh quy tròn"
+    },
+    {
+      "id": "shape-vuong",
+      "type": "shape",
+      "labelVi": "Vuông",
+      "speakText": "Hình vuông",
+      "assetHint": "hộp vuông / cửa sổ vuông"
+    },
+    {
+      "id": "shape-tam-giac",
+      "type": "shape",
+      "labelVi": "Tam giác",
+      "speakText": "Hình tam giác",
+      "assetHint": "mái nhà tam giác / miếng pizza"
+    },
+    {
+      "id": "shape-chu-nhat",
+      "type": "shape",
+      "labelVi": "Chữ nhật",
+      "speakText": "Hình chữ nhật",
+      "assetHint": "cửa chữ nhật / quyển sách"
+    },
+    {
+      "id": "shape-ngoi-sao",
+      "type": "shape",
+      "labelVi": "Ngôi sao",
+      "speakText": "Hình ngôi sao",
+      "assetHint": "sao vàng năm cánh"
+    },
+
+    {
+      "id": "number-1",
+      "type": "number",
+      "labelVi": "1",
+      "speakText": "Một",
+      "assetHint": "một quả táo"
+    },
+    {
+      "id": "number-2",
+      "type": "number",
+      "labelVi": "2",
+      "speakText": "Hai",
+      "assetHint": "hai quả bóng"
+    },
+    {
+      "id": "number-3",
+      "type": "number",
+      "labelVi": "3",
+      "speakText": "Ba",
+      "assetHint": "ba bông hoa"
+    },
+    {
+      "id": "number-4",
+      "type": "number",
+      "labelVi": "4",
+      "speakText": "Bốn",
+      "assetHint": "bốn ngôi sao nhỏ"
+    },
+    {
+      "id": "number-5",
+      "type": "number",
+      "labelVi": "5",
+      "speakText": "Năm",
+      "assetHint": "năm ngón tay"
+    },
+    {
+      "id": "number-6",
+      "type": "number",
+      "labelVi": "6",
+      "speakText": "Sáu",
+      "assetHint": "sáu quả dâu"
+    },
+    {
+      "id": "number-7",
+      "type": "number",
+      "labelVi": "7",
+      "speakText": "Bảy",
+      "assetHint": "bảy chú ong"
+    },
+    {
+      "id": "number-8",
+      "type": "number",
+      "labelVi": "8",
+      "speakText": "Tám",
+      "assetHint": "tám viên kẹo"
+    },
+    {
+      "id": "number-9",
+      "type": "number",
+      "labelVi": "9",
+      "speakText": "Chín",
+      "assetHint": "chín lá cây"
+    },
+    {
+      "id": "number-10",
+      "type": "number",
+      "labelVi": "10",
+      "speakText": "Mười",
+      "assetHint": "mười chấm tròn"
+    },
+
+    {
+      "id": "letter-a",
+      "type": "letter",
+      "labelVi": "A",
+      "speakText": "A như áo",
+      "assetHint": "áo thun màu sắc / chữ A lớn",
+      "exampleWord": "áo"
+    },
+    {
+      "id": "letter-a-breve",
+      "type": "letter",
+      "labelVi": "Ă",
+      "speakText": "Ă như ăn",
+      "assetHint": "bát cơm / thìa ăn",
+      "exampleWord": "ăn"
+    },
+    {
+      "id": "letter-a-circumflex",
+      "type": "letter",
+      "labelVi": "Â",
+      "speakText": "Â như ấm",
+      "assetHint": "cốc sữa ấm / khăn ấm",
+      "exampleWord": "ấm"
+    },
+    {
+      "id": "letter-b",
+      "type": "letter",
+      "labelVi": "B",
+      "speakText": "B như bò",
+      "assetHint": "con bò dễ thương",
+      "exampleWord": "bò"
+    },
+    {
+      "id": "letter-c",
+      "type": "letter",
+      "labelVi": "C",
+      "speakText": "C như cá",
+      "assetHint": "con cá vui",
+      "exampleWord": "cá"
+    },
+    {
+      "id": "letter-d",
+      "type": "letter",
+      "labelVi": "D",
+      "speakText": "D như dê",
+      "assetHint": "con dê nhỏ",
+      "exampleWord": "dê"
+    },
+    {
+      "id": "letter-d-stroke",
+      "type": "letter",
+      "labelVi": "Đ",
+      "speakText": "Đ như đèn",
+      "assetHint": "đèn bàn sáng",
+      "exampleWord": "đèn"
+    },
+    {
+      "id": "letter-e",
+      "type": "letter",
+      "labelVi": "E",
+      "speakText": "E như em",
+      "assetHint": "em bé cười",
+      "exampleWord": "em"
+    },
+    {
+      "id": "letter-e-circumflex",
+      "type": "letter",
+      "labelVi": "Ê",
+      "speakText": "Ê như êm",
+      "assetHint": "gối êm / giường ngủ",
+      "exampleWord": "êm"
+    },
+    {
+      "id": "letter-g",
+      "type": "letter",
+      "labelVi": "G",
+      "speakText": "G như gấu",
+      "assetHint": "bé Gấu đội mũ",
+      "exampleWord": "gấu"
+    },
+
+    {
+      "id": "animal-meo",
+      "type": "animal",
+      "labelVi": "Mèo",
+      "speakText": "Meo meo",
+      "assetHint": "mèo con ngồi"
+    },
+    {
+      "id": "animal-cho",
+      "type": "animal",
+      "labelVi": "Chó",
+      "speakText": "Gâu gâu",
+      "assetHint": "cún con vẫy đuôi"
+    },
+    {
+      "id": "animal-ga",
+      "type": "animal",
+      "labelVi": "Gà",
+      "speakText": "Cục tác",
+      "assetHint": "gà mẹ và trứng"
+    },
+    {
+      "id": "animal-bo",
+      "type": "animal",
+      "labelVi": "Bò",
+      "speakText": "Ụm bò",
+      "assetHint": "bò sữa trên đồng"
+    },
+    {
+      "id": "emotion-vui",
+      "type": "emotion",
+      "labelVi": "Vui",
+      "speakText": "Bé vui",
+      "assetHint": "mặt cười / bé Gấu cười"
+    },
+    {
+      "id": "emotion-buon",
+      "type": "emotion",
+      "labelVi": "Buồn",
+      "speakText": "Bé buồn",
+      "assetHint": "mặt hơi buồn dịu dàng, không đáng sợ"
+    },
+    {
+      "id": "emotion-ngac-nhien",
+      "type": "emotion",
+      "labelVi": "Ngạc nhiên",
+      "speakText": "Ồ ngạc nhiên",
+      "assetHint": "mắt tròn há miệng nhẹ"
+    },
+    {
+      "id": "emotion-yeu",
+      "type": "emotion",
+      "labelVi": "Yêu thương",
+      "speakText": "Bé yêu thương",
+      "assetHint": "ôm / trái tim mềm"
+    }
+  ]
+}

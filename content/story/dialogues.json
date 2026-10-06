@@ -1,0 +1,84 @@
+{
+  "intro": [
+    "Ồ! Các ngôi sao đi chơi lạc rồi.",
+    "Đừng sợ nhé — bé Gấu sẽ tìm các bạn!",
+    "Đom Đóm Lấp dẫn đường, Sóc Bản Đồ giữ bản đồ.",
+    "Cùng nắm tay, bắt đầu hành trình dịu dàng nào!"
+  ],
+  "regions": [
+    {
+      "id": "rung-mau-sac",
+      "name": "Rừng Màu Sắc",
+      "dialogues": [
+        "Chào Rừng Màu! Bé Gấu đến tìm ngôi sao rồi.",
+        "Màu đỏ đâu rồi? Chạm vào màu đỏ nhé!",
+        "Vàng như nắng! Giỏi quá bé ơi!",
+        "Xanh lá — xanh như lá cây. Cùng tìm tiếp nào!",
+        "Ngôi sao Màu sáng rồi! Cảm ơn bé đã giúp!"
+      ]
+    },
+    {
+      "id": "doi-hinh-khoi",
+      "name": "Đồi Hình Khối",
+      "dialogues": [
+        "Đồi Hình Khối đây rồi! Nhìn kìa — tròn, vuông, tam giác!",
+        "Hình tròn lăn lăn… kéo vào lỗ tròn nhé.",
+        "Hình vuông ngồi ngay ngắn. Đúng rồi!",
+        "Tam giác nhọn nhẹ như mũ nhỏ. Bé giỏi lắm!",
+        "Ngôi sao Hình về nhà rồi. Bé Gấu vui quá!"
+      ]
+    },
+    {
+      "id": "suoi-dem-so",
+      "name": "Suối Đếm Số",
+      "dialogues": [
+        "Suối Đếm Số mát quá! Cùng đếm với bé Gấu nào.",
+        "Một… hai… ba! Giỏi quá!",
+        "Có mấy quả táo? Đếm chậm thôi, không vội.",
+        "Tám, chín, mười! Ngôi sao Số cười toe!",
+        "Cảm ơn bé đã đếm cùng mình. Đi tiếp nhé!"
+      ]
+    },
+    {
+      "id": "hang-chu-cai",
+      "name": "Hang Chữ Cái",
+      "dialogues": [
+        "Hang Chữ Cái ấm ơi là ấm. Chào các chữ cái!",
+        "Chữ A… a a a! Bé nghe thấy không?",
+        "Tranh con mèo — chọn chữ bắt đầu nào!",
+        "Đúng rồi! Chữ cái vui quá, nhảy tung tăng.",
+        "Ngôi sao Chữ sáng rồi. Bé đọc giỏi lắm!"
+      ]
+    },
+    {
+      "id": "vuon-ban-be",
+      "name": "Vườn Bạn Bè",
+      "dialogues": [
+        "Vườn Bạn Bè thơm quá! Chào các bạn động vật!",
+        "Thỏ vui — mặt cười toe. Chim buồn — mình an ủi nhé.",
+        "Chia sẻ hoa với bạn nào. Yêu thương là ấm áp.",
+        "Ngôi sao Bạn Bè tìm thấy rồi! Ôm nhau nào!",
+        "Năm ngôi sao đủ rồi. Về bầu trời thôi!"
+      ]
+    }
+  ],
+  "ending": [
+    "Năm ngôi sao bay lên — bầu trời sáng lại rồi!",
+    "Tri thức không cần đánh nhau. Chỉ cần… chơi cùng nhau!",
+    "Cảm ơn bé đã đi cùng bé Gấu. Mai mình chơi tiếp nhé!"
+  ],
+  "npcs": [
+    {
+      "id": "dom-dom-lap",
+      "name": "Đom Đóm Lấp",
+      "role": "Dẫn đường bằng ánh sáng ấm",
+      "catchphrase": "Lấp lấp đây!"
+    },
+    {
+      "id": "soc-ban-do",
+      "name": "Sóc Bản Đồ",
+      "role": "Giữ bản đồ mềm, chỉ đường bằng hạt dẻ",
+      "catchphrase": "Bản đồ đây, đi nào!"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "dv-meo": {
+    "do": "assets/explore/tint/dv-meo-do.svg",
+    "vang": "assets/explore/tint/dv-meo-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-meo-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-meo-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-meo-cam.svg",
+    "tim": "assets/explore/tint/dv-meo-tim.svg"
+  },
+  "dv-cho": {
+    "do": "assets/explore/tint/dv-cho-do.svg",
+    "vang": "assets/explore/tint/dv-cho-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-cho-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-cho-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-cho-cam.svg",
+    "tim": "assets/explore/tint/dv-cho-tim.svg"
+  },
+  "dv-ga": {
+    "do": "assets/explore/tint/dv-ga-do.svg",
+    "vang": "assets/explore/tint/dv-ga-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-ga-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-ga-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-ga-cam.svg",
+    "tim": "assets/explore/tint/dv-ga-tim.svg"
+  },
+  "dv-bo": {
+    "do": "assets/explore/tint/dv-bo-do.svg",
+    "vang": "assets/explore/tint/dv-bo-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-bo-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-bo-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-bo-cam.svg",
+    "tim": "assets/explore/tint/dv-bo-tim.svg"
+  },
+  "dv-heo": {
+    "do": "assets/explore/tint/dv-heo-do.svg",
+    "vang": "assets/explore/tint/dv-heo-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-heo-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-heo-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-heo-cam.svg",
+    "tim": "assets/explore/tint/dv-heo-tim.svg"
+  },
+  "dv-vit": {
+    "do": "assets/explore/tint/dv-vit-do.svg",
+    "vang": "assets/explore/tint/dv-vit-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-vit-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-vit-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-vit-cam.svg",
+    "tim": "assets/explore/tint/dv-vit-tim.svg"
+  },
+  "dv-tho": {
+    "do": "assets/explore/tint/dv-tho-do.svg",
+    "vang": "assets/explore/tint/dv-tho-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-tho-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-tho-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-tho-cam.svg",
+    "tim": "assets/explore/tint/dv-tho-tim.svg"
+  },
+  "dv-ca": {
+    "do": "assets/explore/tint/dv-ca-do.svg",
+    "vang": "assets/explore/tint/dv-ca-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-ca-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-ca-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-ca-cam.svg",
+    "tim": "assets/explore/tint/dv-ca-tim.svg"
+  },
+  "dv-chim": {
+    "do": "assets/explore/tint/dv-chim-do.svg",
+    "vang": "assets/explore/tint/dv-chim-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-chim-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-chim-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-chim-cam.svg",
+    "tim": "assets/explore/tint/dv-chim-tim.svg"
+  },
+  "dv-ho": {
+    "do": "assets/explore/tint/dv-ho-do.svg",
+    "vang": "assets/explore/tint/dv-ho-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-ho-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-ho-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-ho-cam.svg",
+    "tim": "assets/explore/tint/dv-ho-tim.svg"
+  },
+  "dv-voi": {
+    "do": "assets/explore/tint/dv-voi-do.svg",
+    "vang": "assets/explore/tint/dv-voi-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-voi-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-voi-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-voi-cam.svg",
+    "tim": "assets/explore/tint/dv-voi-tim.svg"
+  },
+  "dv-khi": {
+    "do": "assets/explore/tint/dv-khi-do.svg",
+    "vang": "assets/explore/tint/dv-khi-vang.svg",
+    "xanh-duong": "assets/explore/tint/dv-khi-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dv-khi-xanh-la.svg",
+    "cam": "assets/explore/tint/dv-khi-cam.svg",
+    "tim": "assets/explore/tint/dv-khi-tim.svg"
+  },
+  "tc-tao": {
+    "do": "assets/explore/tint/tc-tao-do.svg",
+    "vang": "assets/explore/tint/tc-tao-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-tao-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-tao-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-tao-cam.svg",
+    "tim": "assets/explore/tint/tc-tao-tim.svg"
+  },
+  "tc-chuoi": {
+    "do": "assets/explore/tint/tc-chuoi-do.svg",
+    "vang": "assets/explore/tint/tc-chuoi-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-chuoi-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-chuoi-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-chuoi-cam.svg",
+    "tim": "assets/explore/tint/tc-chuoi-tim.svg"
+  },
+  "tc-cam": {
+    "do": "assets/explore/tint/tc-cam-do.svg",
+    "vang": "assets/explore/tint/tc-cam-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-cam-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-cam-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-cam-cam.svg",
+    "tim": "assets/explore/tint/tc-cam-tim.svg"
+  },
+  "tc-xoai": {
+    "do": "assets/explore/tint/tc-xoai-do.svg",
+    "vang": "assets/explore/tint/tc-xoai-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-xoai-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-xoai-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-xoai-cam.svg",
+    "tim": "assets/explore/tint/tc-xoai-tim.svg"
+  },
+  "tc-dua-hau": {
+    "do": "assets/explore/tint/tc-dua-hau-do.svg",
+    "vang": "assets/explore/tint/tc-dua-hau-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-dua-hau-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-dua-hau-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-dua-hau-cam.svg",
+    "tim": "assets/explore/tint/tc-dua-hau-tim.svg"
+  },
+  "tc-nho": {
+    "do": "assets/explore/tint/tc-nho-do.svg",
+    "vang": "assets/explore/tint/tc-nho-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-nho-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-nho-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-nho-cam.svg",
+    "tim": "assets/explore/tint/tc-nho-tim.svg"
+  },
+  "tc-dau": {
+    "do": "assets/explore/tint/tc-dau-do.svg",
+    "vang": "assets/explore/tint/tc-dau-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-dau-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-dau-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-dau-cam.svg",
+    "tim": "assets/explore/tint/tc-dau-tim.svg"
+  },
+  "tc-dua": {
+    "do": "assets/explore/tint/tc-dua-do.svg",
+    "vang": "assets/explore/tint/tc-dua-vang.svg",
+    "xanh-duong": "assets/explore/tint/tc-dua-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/tc-dua-xanh-la.svg",
+    "cam": "assets/explore/tint/tc-dua-cam.svg",
+    "tim": "assets/explore/tint/tc-dua-tim.svg"
+  },
+  "dvat-bong": {
+    "do": "assets/explore/tint/dvat-bong-do.svg",
+    "vang": "assets/explore/tint/dvat-bong-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-bong-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-bong-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-bong-cam.svg",
+    "tim": "assets/explore/tint/dvat-bong-tim.svg"
+  },
+  "dvat-sach": {
+    "do": "assets/explore/tint/dvat-sach-do.svg",
+    "vang": "assets/explore/tint/dvat-sach-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-sach-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-sach-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-sach-cam.svg",
+    "tim": "assets/explore/tint/dvat-sach-tim.svg"
+  },
+  "dvat-coc": {
+    "do": "assets/explore/tint/dvat-coc-do.svg",
+    "vang": "assets/explore/tint/dvat-coc-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-coc-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-coc-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-coc-cam.svg",
+    "tim": "assets/explore/tint/dvat-coc-tim.svg"
+  },
+  "dvat-thia": {
+    "do": "assets/explore/tint/dvat-thia-do.svg",
+    "vang": "assets/explore/tint/dvat-thia-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-thia-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-thia-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-thia-cam.svg",
+    "tim": "assets/explore/tint/dvat-thia-tim.svg"
+  },
+  "dvat-mu": {
+    "do": "assets/explore/tint/dvat-mu-do.svg",
+    "vang": "assets/explore/tint/dvat-mu-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-mu-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-mu-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-mu-cam.svg",
+    "tim": "assets/explore/tint/dvat-mu-tim.svg"
+  },
+  "dvat-giay": {
+    "do": "assets/explore/tint/dvat-giay-do.svg",
+    "vang": "assets/explore/tint/dvat-giay-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-giay-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-giay-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-giay-cam.svg",
+    "tim": "assets/explore/tint/dvat-giay-tim.svg"
+  },
+  "dvat-xe-hoi": {
+    "do": "assets/explore/tint/dvat-xe-hoi-do.svg",
+    "vang": "assets/explore/tint/dvat-xe-hoi-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-xe-hoi-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-xe-hoi-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-xe-hoi-cam.svg",
+    "tim": "assets/explore/tint/dvat-xe-hoi-tim.svg"
+  },
+  "dvat-xe-dap": {
+    "do": "assets/explore/tint/dvat-xe-dap-do.svg",
+    "vang": "assets/explore/tint/dvat-xe-dap-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-xe-dap-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-xe-dap-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-xe-dap-cam.svg",
+    "tim": "assets/explore/tint/dvat-xe-dap-tim.svg"
+  },
+  "dvat-tui": {
+    "do": "assets/explore/tint/dvat-tui-do.svg",
+    "vang": "assets/explore/tint/dvat-tui-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-tui-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-tui-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-tui-cam.svg",
+    "tim": "assets/explore/tint/dvat-tui-tim.svg"
+  },
+  "dvat-ghe": {
+    "do": "assets/explore/tint/dvat-ghe-do.svg",
+    "vang": "assets/explore/tint/dvat-ghe-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-ghe-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-ghe-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-ghe-cam.svg",
+    "tim": "assets/explore/tint/dvat-ghe-tim.svg"
+  },
+  "dvat-giuong": {
+    "do": "assets/explore/tint/dvat-giuong-do.svg",
+    "vang": "assets/explore/tint/dvat-giuong-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-giuong-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-giuong-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-giuong-cam.svg",
+    "tim": "assets/explore/tint/dvat-giuong-tim.svg"
+  },
+  "dvat-ban-chai": {
+    "do": "assets/explore/tint/dvat-ban-chai-do.svg",
+    "vang": "assets/explore/tint/dvat-ban-chai-vang.svg",
+    "xanh-duong": "assets/explore/tint/dvat-ban-chai-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/dvat-ban-chai-xanh-la.svg",
+    "cam": "assets/explore/tint/dvat-ban-chai-cam.svg",
+    "tim": "assets/explore/tint/dvat-ban-chai-tim.svg"
+  },
+  "pt-xe-buyt": {
+    "do": "assets/explore/tint/pt-xe-buyt-do.svg",
+    "vang": "assets/explore/tint/pt-xe-buyt-vang.svg",
+    "xanh-duong": "assets/explore/tint/pt-xe-buyt-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/pt-xe-buyt-xanh-la.svg",
+    "cam": "assets/explore/tint/pt-xe-buyt-cam.svg",
+    "tim": "assets/explore/tint/pt-xe-buyt-tim.svg"
+  },
+  "pt-may-bay": {
+    "do": "assets/explore/tint/pt-may-bay-do.svg",
+    "vang": "assets/explore/tint/pt-may-bay-vang.svg",
+    "xanh-duong": "assets/explore/tint/pt-may-bay-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/pt-may-bay-xanh-la.svg",
+    "cam": "assets/explore/tint/pt-may-bay-cam.svg",
+    "tim": "assets/explore/tint/pt-may-bay-tim.svg"
+  },
+  "pt-tau-lua": {
+    "do": "assets/explore/tint/pt-tau-lua-do.svg",
+    "vang": "assets/explore/tint/pt-tau-lua-vang.svg",
+    "xanh-duong": "assets/explore/tint/pt-tau-lua-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/pt-tau-lua-xanh-la.svg",
+    "cam": "assets/explore/tint/pt-tau-lua-cam.svg",
+    "tim": "assets/explore/tint/pt-tau-lua-tim.svg"
+  },
+  "pt-thuyen": {
+    "do": "assets/explore/tint/pt-thuyen-do.svg",
+    "vang": "assets/explore/tint/pt-thuyen-vang.svg",
+    "xanh-duong": "assets/explore/tint/pt-thuyen-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/pt-thuyen-xanh-la.svg",
+    "cam": "assets/explore/tint/pt-thuyen-cam.svg",
+    "tim": "assets/explore/tint/pt-thuyen-tim.svg"
+  },
+  "pt-xe-may": {
+    "do": "assets/explore/tint/pt-xe-may-do.svg",
+    "vang": "assets/explore/tint/pt-xe-may-vang.svg",
+    "xanh-duong": "assets/explore/tint/pt-xe-may-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/pt-xe-may-xanh-la.svg",
+    "cam": "assets/explore/tint/pt-xe-may-cam.svg",
+    "tim": "assets/explore/tint/pt-xe-may-tim.svg"
+  },
+  "pt-truc-thang": {
+    "do": "assets/explore/tint/pt-truc-thang-do.svg",
+    "vang": "assets/explore/tint/pt-truc-thang-vang.svg",
+    "xanh-duong": "assets/explore/tint/pt-truc-thang-xanh-duong.svg",
+    "xanh-la": "assets/explore/tint/pt-truc-thang-xanh-la.svg",
+    "cam": "assets/explore/tint/pt-truc-thang-cam.svg",
+    "tim": "assets/explore/tint/pt-truc-thang-tim.svg"
+  }
+}

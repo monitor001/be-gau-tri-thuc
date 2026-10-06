@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Dưa hấu cam">
+  <circle cx="64" cy="64" r="60" fill="#FFE8CC"/>
+  
+    <ellipse cx="64" cy="70" rx="40" ry="34" fill="#2F9E44"/>
+    <path d="M64 40 L64 100" stroke="#1B5E20" stroke-width="3"/>
+    <path d="M40 55 Q64 48 88 55" stroke="#1B5E20" stroke-width="2" fill="none"/>
+    <path d="M64 70 L100 50 L100 90 Z" fill="#e03131"/>
+</svg>

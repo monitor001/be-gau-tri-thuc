@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Qu� xo�i v�ng">
+  <circle cx="64" cy="64" r="60" fill="#FFF6C2"/>
+  <!-- th�n xo�i v�ng -->
+  <path d="M48 28 C28 48 26 78 42 98 C52 110 72 112 86 98 C104 78 102 48 84 30 C72 20 58 20 48 28 Z" fill="#FFD43B"/>
+  <path d="M52 36 C40 52 38 76 50 94 C58 104 72 104 82 92 C96 76 96 52 84 38 C74 28 60 28 52 36 Z" fill="#FFE066" opacity="0.85"/>
+  <!-- cu�ng -->
+  <path d="M62 26 Q58 14 66 10" stroke="#5C4033" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <ellipse cx="70" cy="12" rx="10" ry="5" fill="#2F9E44" transform="rotate(-20 70 12)"/>
+</svg>

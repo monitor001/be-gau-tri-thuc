@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Chó tím">
+  <circle cx="64" cy="64" r="60" fill="#F3D9FA"/>
+  
+    <circle cx="64" cy="64" r="42" fill="#9c36b5"/>
+    <circle cx="64" cy="64" r="42" fill="none" stroke="#852e9a" stroke-width="3"/>
+    <ellipse cx="50" cy="48" rx="12" ry="8" fill="#c990d6" opacity="0.55"/>
+    <text x="64" y="78" text-anchor="middle" font-size="44">🐶</text>
+</svg>

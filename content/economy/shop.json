@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "sticker-sao",
+      "name": "Sticker sao",
+      "emoji": "⭐",
+      "cost": 10
+    },
+    {
+      "id": "sticker-tim",
+      "name": "Sticker tim",
+      "emoji": "❤️",
+      "cost": 10
+    },
+    {
+      "id": "mu-gau",
+      "name": "Mũ bé Gấu",
+      "emoji": "🎩",
+      "cost": 20
+    },
+    {
+      "id": "bong-mau",
+      "name": "Bóng màu",
+      "emoji": "🏀",
+      "cost": 15
+    },
+    {
+      "id": "dom-dom-den",
+      "name": "Đèn Đom Đóm",
+      "emoji": "💡",
+      "cost": 25
+    },
+    {
+      "id": "soc-mu",
+      "name": "Mũ Sóc",
+      "emoji": "🧢",
+      "cost": 20
+    },
+    {
+      "id": "hoa-rung",
+      "name": "Hoa rừng",
+      "emoji": "🌸",
+      "cost": 12
+    },
+    {
+      "id": "xe-do-choi",
+      "name": "Xe đồ chơi",
+      "emoji": "🧸",
+      "cost": 30
+    }
+  ],
+  "currencyName": "Xu Gấu"
+}

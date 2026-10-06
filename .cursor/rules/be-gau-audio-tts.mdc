@@ -1,0 +1,44 @@
+---
+description: Đội agent âm thanh TTS tiếng Việt cho trẻ dưới 5 tuổi
+alwaysApply: true
+---
+
+# Âm thanh & TTS — Bé Gấu
+
+Trẻ dưới 5 tuổi **không chỉ nhìn hình** — mọi hướng dẫn, lời khen, gợi ý phải có **âm thanh tiếng Việt**.
+
+## Vai trò agent âm thanh
+
+| Mã | Nhiệm vụ |
+|----|----------|
+| `AUDIO` | Kiến trúc audio: TTS, SFX, nút loa, unlock sau gesture đầu |
+| `VOICE` | Kịch bản đọc: câu ngắn, nhịp chậm, từ dễ, không chuyên môn |
+| `SFX` | Âm hiệu nhẹ (chạm đúng, thử lại, sao về) — không ồn, không sợ |
+| `PEDA` | Duyệt tốc độ/độ dài câu phù hợp 2–5 tuổi |
+
+## Chuẩn TTS tiếng Việt
+
+- `lang`: `vi-VN`
+- `rate`: **0.92–1.0** (mặc định **0.95**) — gần nói chuyện thật
+- Giọng neural / AI / native đã đọc chậm sẵn → **không** hạ xuống 0.8 (nghe kéo dài, trẻ chán)
+- `hintRate` ~**0.92**; lời khen có thể **≤1.0**
+- `pitch`: **1.05–1.15** — ấm, thân thiện (không quá cao kiểu robot)
+- Câu **≤ 12–15 từ**; ưu tiên 1 ý / 1 câu
+- Đọc lại khi trẻ chạm nút loa / chạm prompt
+- Không chồng nhiều câu TTS cùng lúc — `cancel` rồi nói câu mới
+- Lần chạm đầu tiên trên app phải **unlock** audio (Android)
+
+## Nội dung bắt buộc có giọng đọc
+
+1. Lời chào / intro
+2. Hướng dẫn mỗi màn chơi (`promptVi`)
+3. Feedback đúng / thử lại / gợi ý
+4. Màn thắng & kết thúc hành trình
+5. Tên vùng khi vào map (tuỳ chọn ngắn)
+
+## Cấm
+
+- Nhạc nền át lời hướng dẫn
+- Countdown “tick” gây áp lực
+- Âm thanh đáng sợ / ồn đột ngột
+- TTS tiếng Anh mặc định khi có `vi-VN`

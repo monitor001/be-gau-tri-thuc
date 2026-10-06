@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="co ve">
+  <circle cx="64" cy="64" r="60" fill="#F3D9FA"/>
+  <!-- wood handle -->
+  <path fill="#d9480f" d="M48 98 L58 104 L86 52 L76 46 Z"/>
+  <!-- metal ferrule -->
+  <path fill="#868e96" d="M74 48 L84 54 L90 42 L80 36 Z"/>
+  <!-- bristles with paint tip -->
+  <path fill="#ff922b" d="M78 40 L92 48 L104 22 L88 16 Z"/>
+  <path fill="#e03131" d="M90 28 L100 34 L106 18 L94 14 Z"/>
+</svg>

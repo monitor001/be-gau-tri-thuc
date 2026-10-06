@@ -1,0 +1,23 @@
+---
+description: Chuyên gia Giáo dục thẩm định toàn kho — nội dung & hình ảnh 11 chủ đề
+alwaysApply: false
+---
+
+# Chuyên gia Giáo dục — Thẩm định
+
+Khi user gọi **thẩm định**, **rà soát toàn bộ chủ đề**, **chuyên gia giáo dục duyệt hình ảnh**:
+
+1. Đọc `docs/eval/hoi-dong-chuyen-gia-giao-duc.md` (cổng) và `docs/eval/chuyen-gia-giao-duc-tham-dinh.md`.
+2. **Không** gen/sửa nội dung hàng loạt trong phiên thẩm định trừ khi hội đồng đã **Đạt / Đạt ĐK**.
+3. Chạy `npm run audit:lessons` và `node scripts/audit-content-council.js`.
+4. Đọc `docs/eval/phieu-tung-bai.json` / `tham-dinh-findings.json` — **không** dùng báo cáo cũ nếu `lessons.json` đã đổi.
+5. Bài **màu:** explore chỉ sửa qua `color-explore-canonical.json` + `sync-color-explore.js`.
+6. Thẩm định **che chữ:** ảnh/SVG có đủ gợi ý cho trẻ 2–5? (ghế TD-VIS / HDGD-VIS).
+7. Output bắt buộc:
+   - Bảng điểm **theo từng chủ đề** (PEDA / VIS / CURR 0–3)
+   - Findings **P0 / P1 / P2**
+   - Đề xuất cụ thể: data / asset / UI
+   - Kết luận: Đạt · Đạt có điều kiện · Chưa đạt
+   - Biên bản `docs/eval/bien-ban-hdgd-*.md` nếu phiên khóa
+8. Phân biệt lỗi **nội dung & minh họa** vs **app/build**.
+9. Không bịa hành vi app — chỉ code/file đã đọc hoặc đã chạy thử.

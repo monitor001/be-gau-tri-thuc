@@ -1,0 +1,20 @@
+---
+description: Hội đồng Thẩm định Từng Bài — 1 phiếu/1 lesson, bắt buộc audit máy trước khi Đạt
+alwaysApply: false
+---
+
+# Hội đồng Thẩm định Từng Bài Học
+
+Khi user gọi **thẩm định từng bài**, **hội đồng thẩm định nội dung cho từng bài**, hoặc phàn nàn **vẫn sai sau nhiều lần duyệt**:
+
+1. Đọc `docs/eval/hoi-dong-tham-dinh-tung-bai.md`.
+2. **Bắt buộc** chạy `node scripts/audit-lesson-by-lesson.js` trên `lessons.json` hiện tại.
+3. Mọi kết luận phải theo **`lesson.id`** — không suy mẫu từ 1–2 bài.
+4. Còn **Mức 1 / P0** → kết luận **KHÔNG ĐẠT**; sửa rồi chạy lại audit đến khi sạch Mức 1.
+5. Kiểm quy tắc đã học: táo vàng≠đỏ · N cá phải có `count:N` · cấm filler giỏ quả · chữ Latin A–Z.
+6. Output:
+   - Bảng / danh sách findings theo bài
+   - Số bài Đạt / Không đạt
+   - Việc sửa cụ thể (data / SVG / renderer)
+7. Không tuyên bố “đã thẩm định xong” nếu script exit ≠ 0.
+8. Phân biệt lỗi data vs cache/APK cũ (nhắc hard refresh / build lại).

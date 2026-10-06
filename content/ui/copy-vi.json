@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "lang": "vi",
+    "appName": "Bé Gấu Giải Cứu Tri Thức",
+    "character": "bé Gấu",
+    "notes": "Chuỗi ngắn cho UI trẻ 2–5 tuổi. Ưu tiên TTS. Không dùng thuật ngữ kỹ thuật."
+  },
+  "common": {
+    "play": "Chơi nào!",
+    "continue": "Tiếp tục",
+    "playAgain": "Chơi lại",
+    "backToMap": "Về bản đồ",
+    "backHome": "Về nhà",
+    "exit": "Thoát",
+    "yes": "Có",
+    "no": "Không",
+    "soundOn": "Bật tiếng",
+    "soundOff": "Tắt tiếng",
+    "musicOn": "Bật nhạc",
+    "musicOff": "Tắt nhạc",
+    "tryAgain": "Thử lại cùng bé Gấu!",
+    "almost": "Suýt được rồi!",
+    "hintTap": "Chạm vào đây nhé",
+    "hintDrag": "Kéo thả nhẹ thôi",
+    "hintListen": "Nghe bé Gấu nói nhé",
+    "loading": "Chờ một chút…"
+  },
+  "home": {
+    "title": "Bé Gấu Giải Cứu Tri Thức",
+    "greeting": "Xin chào! Cùng bé Gấu đi tìm ngôi sao nhé!",
+    "ctaPlay": "Chơi nào!",
+    "ctaMap": "Xem bản đồ",
+    "parentEntry": "Người lớn",
+    "tagline": "Học vui — cứu sao tri thức"
+  },
+  "map": {
+    "title": "Bản đồ tri thức",
+    "prompt": "Bé chọn một vùng nào!",
+    "starsSaved": "Sao đã cứu: {count}",
+    "zoneLocked": "Chơi vùng này trước nhé",
+    "zoneReady": "Đi thôi!",
+    "hintNext": "Bé Gấu gợi ý: sang vùng tiếp theo nè",
+    "backHome": "Về nhà bé Gấu"
+  },
+  "zones": {
+    "colorForest": {
+      "id": "rung-mau-sac",
+      "name": "Rừng Màu Sắc",
+      "shortName": "Màu sắc",
+      "enter": "Vào Rừng Màu Sắc!",
+      "prompt": "Chạm đúng màu bé Gấu hỏi nhé",
+      "hint": "Tìm màu giống nhau",
+      "praise": "Màu đẹp quá!"
+    },
+    "shapeHill": {
+      "id": "doi-hinh-khoi",
+      "name": "Đồi Hình Khối",
+      "shortName": "Hình khối",
+      "enter": "Lên Đồi Hình Khối!",
+      "prompt": "Ghép hình vào đúng chỗ",
+      "hint": "Hình nào vừa khít?",
+      "praise": "Ghép giỏi lắm!"
+    },
+    "numberStream": {
+      "id": "suoi-dem-so",
+      "name": "Suối Đếm Số",
+      "shortName": "Đếm số",
+      "enter": "Ra Suối Đếm Số!",
+      "prompt": "Đếm cùng bé Gấu nào",
+      "hint": "Đếm từng cái một",
+      "praise": "Đếm hay quá!"
+    },
+    "letterCave": {
+      "id": "hang-chu-cai",
+      "name": "Hang Chữ Cái",
+      "shortName": "Chữ cái",
+      "enter": "Vào Hang Chữ Cái!",
+      "prompt": "Chọn chữ cái đầu của tranh",
+      "hint": "Nghe tiếng rồi chọn chữ",
+      "praise": "Chữ cái tuyệt vời!"
+    },
+    "friendGarden": {
+      "id": "vuon-ban-be",
+      "name": "Vườn Bạn Bè",
+      "shortName": "Bạn bè",
+      "enter": "Tới Vườn Bạn Bè!",
+      "prompt": "Ghép bạn với nhà hoặc cảm xúc",
+      "hint": "Ai vui? Ai cần ôm?",
+      "praise": "Bạn tốt quá!"
+    }
+  },
+  "game": {
+    "bearReady": "Bé Gấu sẵn sàng!",
+    "yourTurn": "Tới lượt bé!",
+    "goodJob": "Giỏi lắm!",
+    "soClose": "Gần đúng rồi!",
+    "oneMore": "Thêm một lần nữa nhé",
+    "foundIt": "Tìm thấy rồi!",
+    "niceTry": "Cố lên, bé làm được!"
+  },
+  "win": {
+    "title": "Yay! Sao về rồi!",
+    "starSaved": "Ngôi sao tri thức đã về nhà!",
+    "sticker": "Bé nhận một sticker!",
+    "praise": [
+      "Bé giỏi quá!",
+      "Bé Gấu tự hào về bé!",
+      "Chơi vui và học được điều mới!",
+      "Sao sáng nhờ bé đó!",
+      "Tuyệt vời lắm!"
+    ],
+    "ctaContinue": "Chơi tiếp",
+    "ctaMap": "Về bản đồ",
+    "ctaAgain": "Chơi lại"
+  },
+  "parent": {
+    "gateTitle": "Dành cho người lớn",
+    "gatePrompt": "Kết quả bằng mấy?",
+    "gateCancel": "Quay lại",
+    "panelTitle": "Góc phụ huynh",
+    "progress": "Tiến độ của bé",
+    "tip": "Chơi cùng con 5–10 phút mỗi ngày sẽ rất vui!",
+    "sound": "Âm thanh",
+    "music": "Nhạc nền",
+    "tts": "Giọng đọc",
+    "done": "Xong"
+  },
+  "a11y": {
+    "playButton": "Nút chơi",
+    "mapZone": "Vùng {name}",
+    "starCount": "{count} sao",
+    "close": "Đóng",
+    "parentGate": "Xác nhận người lớn"
+  }
+}

@@ -1,0 +1,27 @@
+---
+description: Tổ hợp subagent giáo dục app Bé Gấu (trẻ dưới 5 tuổi)
+alwaysApply: true
+---
+
+# Bé Gấu — Giải cứu Tri thức
+
+Bạn đang làm việc trên app giáo dục cho trẻ dưới 5 tuổi. Nhân vật: **bé Gấu**. Chủ đề: hành trình tìm hiểu / giải cứu tri thức qua mini-game nhẹ.
+
+## Khi được giao vai trò
+
+- **PEDA**: Chỉ đề xuất nội dung phù hợp 2–5 tuổi; ưu tiên học qua chơi; feedback luôn khích lệ.
+- **STORY**: Giữ bé Gấu dễ thương, dũng cảm, dịu dàng; “chiến đấu” = cứu giúp tri thức, không bạo lực.
+- **GAME**: Tap, kéo-thả, match-3 đơn giản (2–4 lựa chọn), không reflex nhanh, không fail-state nặng.
+- **UX**: Target lớn (≥44–48px cảm ứng thực tế nên lớn hơn nhiều cho toddler), ít text, icon rõ, màu vui.
+- **CURR**: Bám 5 vùng: Màu → Hình → Số → Chữ → Bạn bè/động vật.
+- **SAFE**: Không nội dung đáng sợ, không thu thập PII trẻ, không link ngoài trong luồng chơi của trẻ.
+
+## Ngôn ngữ & giọng điệu
+
+Tiếng Việt thân thiện. Câu ngắn. Gọi trẻ là “bé” hoặc tên nhân vật. Không dùng thuật ngữ kỹ thuật trong UI trẻ.
+
+## Ưu tiên kỹ thuật
+
+- Ưu tiên web app đơn giản (HTML/CSS/JS hoặc React nhẹ) chạy được trên tablet/điện thoại.
+- Âm thanh/hình minh họa có thể placeholder trước; giữ cấu trúc sẵn sàng gắn asset.
+- Mỗi màn chơi là module tách biệt, dễ thêm level.

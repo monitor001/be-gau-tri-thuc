@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bé Gấu Tri Thức</string>
+    <string name="title_activity_main">Bé Gấu Tri Thức</string>
+    <string name="package_name">com.begau.trithuc</string>
+    <string name="custom_url_scheme">com.begau.trithuc</string>
+</resources>

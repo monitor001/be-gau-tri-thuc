@@ -1,0 +1,24 @@
+---
+description: Hội đồng Chuyên gia Giáo dục — cổng bắt buộc; đánh giá ẢNH là trọng tâm chính
+alwaysApply: true
+---
+
+# Hội đồng Chuyên gia Giáo dục (cổng nội dung — ảnh là chính)
+
+**Luôn áp dụng.** Chương trình Bé Gấu **chủ yếu là ảnh** (che chữ + TTS). Mọi duyệt nội dung phải **mở và xem file ảnh**, không chỉ đọc `lessons.json` / audit máy.
+
+Khi user yêu cầu tạo/sửa/gen/duyệt **bài học, explore, minh họa**:
+
+1. Đọc `docs/eval/hoi-dong-chuyen-gia-giao-duc.md` và báo cáo ảnh mới nhất trong `docs/eval/`.
+2. **Ghế HDGD-VIS là ghế quyết định chính** cho explore/friend/mapImg:
+   - Che chữ: chỉ nhìn ảnh có biết khái niệm không?
+   - Nhãn ↔ màu ↔ số lượng ↔ hình dạng phải khớp **trên pixel**, không tin đường dẫn file.
+   - Ảnh sai kiến thức (vd. “hình tròn” = gấu) = **P0**, dù audit máy M1=0.
+3. **Trước khi** gen AI hàng loạt / `apply-ai-*` / `rebuild-*`:
+   - Brief PEDA + **mẫu ảnh đạt / ảnh cấm** (VIS).
+   - Hội đồng Đạt / Đạt ĐK mới thực thi.
+4. **Cấm:** kết luận “Đạt” chỉ dựa script; gen ảnh không đối chiếu mắt; suy mẫu 1 ảnh sang cả chủ đề.
+5. **Sau sửa ảnh:** đọc lại file ảnh mới (tool Read image) → `npm run audit:lessons` → ghi biên bản VIS.
+6. Output khi duyệt: bảng **theo chủ đề** cột VIS-ảnh · P0/P1 danh sách **đường dẫn file** · kết luận.
+
+Nếu user nói “chuyên gia đánh giá ảnh” / “chương trình chủ yếu là ảnh” → mở phiên **HDGD-VIS** trước, không nhảy sang sửa text.

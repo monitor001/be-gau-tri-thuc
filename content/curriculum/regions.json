@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "rung-mau-sac",
+      "title": "Rừng Màu Sắc",
+      "starId": "sao-mau",
+      "order": 1,
+      "skills": [
+        "nhan-biet-mau",
+        "goi-ten-mau",
+        "ghep-mau-doi"
+      ],
+      "recommendedAge": {
+        "min": 2,
+        "max": 4
+      },
+      "itemTypes": ["color"],
+      "unlock": {
+        "requiresRegionId": null,
+        "requiresStar": false
+      }
+    },
+    {
+      "id": "doi-hinh-khoi",
+      "title": "Đồi Hình Khối",
+      "starId": "sao-hinh",
+      "order": 2,
+      "skills": [
+        "nhan-biet-hinh",
+        "ghep-hinh-vao-lo",
+        "phan-biet-hinh-co-ban"
+      ],
+      "recommendedAge": {
+        "min": 2,
+        "max": 4
+      },
+      "itemTypes": ["shape"],
+      "unlock": {
+        "requiresRegionId": "rung-mau-sac",
+        "requiresStar": true
+      }
+    },
+    {
+      "id": "suoi-dem-so",
+      "title": "Suối Đếm Số",
+      "starId": "sao-so",
+      "order": 3,
+      "skills": [
+        "dem-1-den-5",
+        "dem-1-den-10",
+        "nhan-biet-chu-so"
+      ],
+      "recommendedAge": {
+        "min": 2.5,
+        "max": 5
+      },
+      "itemTypes": ["number"],
+      "unlock": {
+        "requiresRegionId": "doi-hinh-khoi",
+        "requiresStar": true
+      }
+    },
+    {
+      "id": "hang-chu-cai",
+      "title": "Hang Chữ Cái",
+      "starId": "sao-chu",
+      "order": 4,
+      "skills": [
+        "nhan-chu-cai-dau",
+        "am-don-gian",
+        "ghep-chu-voi-tranh"
+      ],
+      "recommendedAge": {
+        "min": 3,
+        "max": 5
+      },
+      "itemTypes": ["letter"],
+      "unlock": {
+        "requiresRegionId": "suoi-dem-so",
+        "requiresStar": true
+      }
+    },
+    {
+      "id": "vuon-ban-be",
+      "title": "Vườn Bạn Bè",
+      "starId": "sao-ban-be",
+      "order": 5,
+      "skills": [
+        "tieng-dong-vat",
+        "nhan-biet-cam-xuc",
+        "chia-se-va-ban-be"
+      ],
+      "recommendedAge": {
+        "min": 2,
+        "max": 5
+      },
+      "itemTypes": ["animal", "emotion"],
+      "unlock": {
+        "requiresRegionId": "hang-chu-cai",
+        "requiresStar": true
+      }
+    }
+  ]
+}

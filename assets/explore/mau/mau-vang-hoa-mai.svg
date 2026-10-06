@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Hoa mai vàng">
+  <circle cx="64" cy="64" r="60" fill="#FFF6C2"/>
+  <!-- 5 cánh mai tròn vàng (Tết) -->
+  <circle cx="64" cy="36" r="16" fill="#FFD43B"/>
+  <circle cx="90" cy="54" r="16" fill="#FFD43B"/>
+  <circle cx="80" cy="86" r="16" fill="#FCC419"/>
+  <circle cx="48" cy="86" r="16" fill="#FCC419"/>
+  <circle cx="38" cy="54" r="16" fill="#FFD43B"/>
+  <circle cx="64" cy="64" r="14" fill="#F08C00"/>
+  <circle cx="64" cy="64" r="6" fill="#FFEC99"/>
+</svg>

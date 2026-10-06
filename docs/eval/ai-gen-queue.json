@@ -1,0 +1,822 @@
+{
+  "generated": "2026-10-05T07:48:23.686Z",
+  "count": 102,
+  "targets": [
+    {
+      "id": "hinh-circle",
+      "topic": "hinh",
+      "title": "Hình Tròn",
+      "label": "Hình Tròn",
+      "emoji": "⭕",
+      "focus": "hero"
+    },
+    {
+      "id": "hinh-square",
+      "topic": "hinh",
+      "title": "Hình Vuông",
+      "label": "Hình Vuông",
+      "emoji": "⬛",
+      "focus": "hero"
+    },
+    {
+      "id": "hinh-triangle",
+      "topic": "hinh",
+      "title": "Hình Tam giác",
+      "label": "Hình Tam giác",
+      "emoji": "🔺",
+      "focus": "hero"
+    },
+    {
+      "id": "hinh-rect",
+      "topic": "hinh",
+      "title": "Hình Chữ nhật",
+      "label": "Hình Chữ nhật",
+      "emoji": "▬",
+      "focus": "hero"
+    },
+    {
+      "id": "hinh-star",
+      "topic": "hinh",
+      "title": "Hình Sao",
+      "label": "Hình Sao",
+      "emoji": "⭐",
+      "focus": "hero"
+    },
+    {
+      "id": "hinh-heart",
+      "topic": "hinh",
+      "title": "Hình Tim",
+      "label": "Hình Tim",
+      "emoji": "❤️",
+      "focus": "hero"
+    },
+    {
+      "id": "hinh-oval",
+      "topic": "hinh",
+      "title": "Hình Bầu dục",
+      "label": "Hình Bầu dục",
+      "emoji": "⬭",
+      "focus": "hero"
+    },
+    {
+      "id": "so-1",
+      "topic": "so",
+      "title": "Số 1 — Một",
+      "label": "Số 1",
+      "emoji": "1️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-2",
+      "topic": "so",
+      "title": "Số 2 — Hai",
+      "label": "Số 2",
+      "emoji": "2️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-3",
+      "topic": "so",
+      "title": "Số 3 — Ba",
+      "label": "Số 3",
+      "emoji": "3️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-4",
+      "topic": "so",
+      "title": "Số 4 — Bốn",
+      "label": "Số 4",
+      "emoji": "4️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-5",
+      "topic": "so",
+      "title": "Số 5 — Năm",
+      "label": "Số 5",
+      "emoji": "5️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-6",
+      "topic": "so",
+      "title": "Số 6 — Sáu",
+      "label": "Số 6",
+      "emoji": "6️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-7",
+      "topic": "so",
+      "title": "Số 7 — Bảy",
+      "label": "Số 7",
+      "emoji": "7️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-8",
+      "topic": "so",
+      "title": "Số 8 — Tám",
+      "label": "Số 8",
+      "emoji": "8️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-9",
+      "topic": "so",
+      "title": "Số 9 — Chín",
+      "label": "Số 9",
+      "emoji": "9️⃣",
+      "focus": "hero"
+    },
+    {
+      "id": "so-10",
+      "topic": "so",
+      "title": "Số 10 — Mười",
+      "label": "Số 10",
+      "emoji": "🔟",
+      "focus": "hero"
+    },
+    {
+      "id": "chu-a",
+      "topic": "chu",
+      "title": "Chữ A",
+      "label": "Áo",
+      "emoji": "👕",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-ab",
+      "topic": "chu",
+      "title": "Chữ Ă",
+      "label": "Ăn",
+      "emoji": "🍽️",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-ac",
+      "topic": "chu",
+      "title": "Chữ Â",
+      "label": "Ấm",
+      "emoji": "🧣",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-b",
+      "topic": "chu",
+      "title": "Chữ B",
+      "label": "Bò",
+      "emoji": "🐮",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-c",
+      "topic": "chu",
+      "title": "Chữ C",
+      "label": "Cá",
+      "emoji": "🐟",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-d",
+      "topic": "chu",
+      "title": "Chữ D",
+      "label": "Dê",
+      "emoji": "🐐",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-dd",
+      "topic": "chu",
+      "title": "Chữ Đ",
+      "label": "Đèn",
+      "emoji": "💡",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-e",
+      "topic": "chu",
+      "title": "Chữ E",
+      "label": "Em",
+      "emoji": "👶",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-ec",
+      "topic": "chu",
+      "title": "Chữ Ê",
+      "label": "Ếch",
+      "emoji": "🐸",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-g",
+      "topic": "chu",
+      "title": "Chữ G",
+      "label": "Gấu",
+      "emoji": "🐻",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-h",
+      "topic": "chu",
+      "title": "Chữ H",
+      "label": "Hoa",
+      "emoji": "🌸",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-i",
+      "topic": "chu",
+      "title": "Chữ I",
+      "label": "I tờ",
+      "emoji": "🔤",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-k",
+      "topic": "chu",
+      "title": "Chữ K",
+      "label": "Kem",
+      "emoji": "🍦",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-l",
+      "topic": "chu",
+      "title": "Chữ L",
+      "label": "Lá",
+      "emoji": "🍃",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-m",
+      "topic": "chu",
+      "title": "Chữ M",
+      "label": "Mèo",
+      "emoji": "🐱",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-n",
+      "topic": "chu",
+      "title": "Chữ N",
+      "label": "Nón",
+      "emoji": "👒",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-o",
+      "topic": "chu",
+      "title": "Chữ O",
+      "label": "Ong",
+      "emoji": "🐝",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-om",
+      "topic": "chu",
+      "title": "Chữ Ô",
+      "label": "Ô tô",
+      "emoji": "🚗",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-ox",
+      "topic": "chu",
+      "title": "Chữ Ơ",
+      "label": "Ớt",
+      "emoji": "🌶️",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-p",
+      "topic": "chu",
+      "title": "Chữ P",
+      "label": "Pin",
+      "emoji": "🔋",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-q",
+      "topic": "chu",
+      "title": "Chữ Q",
+      "label": "Quạt",
+      "emoji": "🌀",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-r",
+      "topic": "chu",
+      "title": "Chữ R",
+      "label": "Rùa",
+      "emoji": "🐢",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-s",
+      "topic": "chu",
+      "title": "Chữ S",
+      "label": "Sách",
+      "emoji": "📚",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-t",
+      "topic": "chu",
+      "title": "Chữ T",
+      "label": "Táo",
+      "emoji": "🍎",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-u",
+      "topic": "chu",
+      "title": "Chữ U",
+      "label": "Uống",
+      "emoji": "🥤",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-uw",
+      "topic": "chu",
+      "title": "Chữ Ư",
+      "label": "Bưởi",
+      "emoji": "🍈",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-v",
+      "topic": "chu",
+      "title": "Chữ V",
+      "label": "Voi",
+      "emoji": "🐘",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-x",
+      "topic": "chu",
+      "title": "Chữ X",
+      "label": "Xe",
+      "emoji": "🚲",
+      "focus": "chu-word"
+    },
+    {
+      "id": "chu-y",
+      "topic": "chu",
+      "title": "Chữ Y",
+      "label": "Yêu",
+      "emoji": "💛",
+      "focus": "chu-word"
+    },
+    {
+      "id": "dv-meo",
+      "topic": "dong-vat",
+      "title": "Mèo",
+      "label": "Mèo",
+      "emoji": "🐱",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-cho",
+      "topic": "dong-vat",
+      "title": "Chó",
+      "label": "Chó",
+      "emoji": "🐶",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-ga",
+      "topic": "dong-vat",
+      "title": "Gà",
+      "label": "Gà",
+      "emoji": "🐔",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-bo",
+      "topic": "dong-vat",
+      "title": "Bò",
+      "label": "Bò",
+      "emoji": "🐮",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-heo",
+      "topic": "dong-vat",
+      "title": "Heo",
+      "label": "Heo",
+      "emoji": "🐷",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-vit",
+      "topic": "dong-vat",
+      "title": "Vịt",
+      "label": "Vịt",
+      "emoji": "🦆",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-tho",
+      "topic": "dong-vat",
+      "title": "Thỏ",
+      "label": "Thỏ",
+      "emoji": "🐰",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-ca",
+      "topic": "dong-vat",
+      "title": "Cá",
+      "label": "Cá",
+      "emoji": "🐟",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-chim",
+      "topic": "dong-vat",
+      "title": "Chim",
+      "label": "Chim",
+      "emoji": "🐦",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-ho",
+      "topic": "dong-vat",
+      "title": "Hổ",
+      "label": "Hổ",
+      "emoji": "🐯",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-voi",
+      "topic": "dong-vat",
+      "title": "Voi",
+      "label": "Voi",
+      "emoji": "🐘",
+      "focus": "hero"
+    },
+    {
+      "id": "dv-khi",
+      "topic": "dong-vat",
+      "title": "Khỉ",
+      "label": "Khỉ",
+      "emoji": "🐵",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-tao",
+      "topic": "trai-cay",
+      "title": "Táo",
+      "label": "Táo",
+      "emoji": "🍎",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-chuoi",
+      "topic": "trai-cay",
+      "title": "Chuối",
+      "label": "Chuối",
+      "emoji": "🍌",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-cam",
+      "topic": "trai-cay",
+      "title": "Cam",
+      "label": "Cam",
+      "emoji": "🍊",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-xoai",
+      "topic": "trai-cay",
+      "title": "Xoài",
+      "label": "Xoài",
+      "emoji": "🥭",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-dua-hau",
+      "topic": "trai-cay",
+      "title": "Dưa hấu",
+      "label": "Dưa hấu",
+      "emoji": "🍉",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-nho",
+      "topic": "trai-cay",
+      "title": "Nho",
+      "label": "Nho",
+      "emoji": "🍇",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-dau",
+      "topic": "trai-cay",
+      "title": "Dâu",
+      "label": "Dâu",
+      "emoji": "🍓",
+      "focus": "hero"
+    },
+    {
+      "id": "tc-dua",
+      "topic": "trai-cay",
+      "title": "Dừa",
+      "label": "Dừa",
+      "emoji": "🥥",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-bong",
+      "topic": "do-vat",
+      "title": "Bóng",
+      "label": "Bóng",
+      "emoji": "⚽",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-sach",
+      "topic": "do-vat",
+      "title": "Sách",
+      "label": "Sách",
+      "emoji": "📚",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-coc",
+      "topic": "do-vat",
+      "title": "Cốc",
+      "label": "Cốc",
+      "emoji": "🥛",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-thia",
+      "topic": "do-vat",
+      "title": "Thìa",
+      "label": "Thìa",
+      "emoji": "🥄",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-mu",
+      "topic": "do-vat",
+      "title": "Mũ",
+      "label": "Mũ",
+      "emoji": "🎩",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-giay",
+      "topic": "do-vat",
+      "title": "Giày",
+      "label": "Giày",
+      "emoji": "👟",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-xe-hoi",
+      "topic": "do-vat",
+      "title": "Xe hơi",
+      "label": "Xe hơi",
+      "emoji": "🚗",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-xe-dap",
+      "topic": "do-vat",
+      "title": "Xe đạp",
+      "label": "Xe đạp",
+      "emoji": "🚲",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-tui",
+      "topic": "do-vat",
+      "title": "Túi",
+      "label": "Túi",
+      "emoji": "🎒",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-ghe",
+      "topic": "do-vat",
+      "title": "Ghế",
+      "label": "Ghế",
+      "emoji": "🪑",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-giuong",
+      "topic": "do-vat",
+      "title": "Giường",
+      "label": "Giường",
+      "emoji": "🛏️",
+      "focus": "hero"
+    },
+    {
+      "id": "dvat-ban-chai",
+      "topic": "do-vat",
+      "title": "Bàn chải",
+      "label": "Bàn chải",
+      "emoji": "🪥",
+      "focus": "hero"
+    },
+    {
+      "id": "cx-vui",
+      "topic": "cam-xuc",
+      "title": "Vui",
+      "label": "Vui",
+      "emoji": "😊",
+      "focus": "hero"
+    },
+    {
+      "id": "cx-buon",
+      "topic": "cam-xuc",
+      "title": "Buồn",
+      "label": "Buồn",
+      "emoji": "😢",
+      "focus": "hero"
+    },
+    {
+      "id": "cx-ngac-nhien",
+      "topic": "cam-xuc",
+      "title": "Ngạc nhiên",
+      "label": "Ngạc nhiên",
+      "emoji": "😮",
+      "focus": "hero"
+    },
+    {
+      "id": "cx-yeu-thuong",
+      "topic": "cam-xuc",
+      "title": "Yêu thương",
+      "label": "Yêu thương",
+      "emoji": "🤗",
+      "focus": "hero"
+    },
+    {
+      "id": "cx-gian-nhe",
+      "topic": "cam-xuc",
+      "title": "Giận nhẹ",
+      "label": "Giận nhẹ",
+      "emoji": "😠",
+      "focus": "hero"
+    },
+    {
+      "id": "cx-met",
+      "topic": "cam-xuc",
+      "title": "Mệt",
+      "label": "Mệt",
+      "emoji": "😴",
+      "focus": "hero"
+    },
+    {
+      "id": "pt-xe-buyt",
+      "topic": "phuong-tien",
+      "title": "Xe buýt",
+      "label": "Xe buýt",
+      "emoji": "🚌",
+      "focus": "hero"
+    },
+    {
+      "id": "pt-may-bay",
+      "topic": "phuong-tien",
+      "title": "Máy bay",
+      "label": "Máy bay",
+      "emoji": "✈️",
+      "focus": "hero"
+    },
+    {
+      "id": "pt-tau-lua",
+      "topic": "phuong-tien",
+      "title": "Tàu lửa",
+      "label": "Tàu lửa",
+      "emoji": "🚂",
+      "focus": "hero"
+    },
+    {
+      "id": "pt-thuyen",
+      "topic": "phuong-tien",
+      "title": "Thuyền",
+      "label": "Thuyền",
+      "emoji": "⛵",
+      "focus": "hero"
+    },
+    {
+      "id": "pt-xe-may",
+      "topic": "phuong-tien",
+      "title": "Xe máy",
+      "label": "Xe máy",
+      "emoji": "🛵",
+      "focus": "hero"
+    },
+    {
+      "id": "pt-truc-thang",
+      "topic": "phuong-tien",
+      "title": "Trực thăng",
+      "label": "Trực thăng",
+      "emoji": "🚁",
+      "focus": "hero"
+    },
+    {
+      "id": "nm-vo-tay",
+      "topic": "nhay-mua",
+      "title": "Vỗ tay",
+      "label": "Vỗ tay",
+      "emoji": "👏",
+      "focus": "hero"
+    },
+    {
+      "id": "nm-nhun-chan",
+      "topic": "nhay-mua",
+      "title": "Nhún chân",
+      "label": "Nhún chân",
+      "emoji": "🦶",
+      "focus": "hero"
+    },
+    {
+      "id": "nm-xoay-tron",
+      "topic": "nhay-mua",
+      "title": "Xoay tròn",
+      "label": "Xoay tròn",
+      "emoji": "🔄",
+      "focus": "hero"
+    },
+    {
+      "id": "nm-gio-tay-cao",
+      "topic": "nhay-mua",
+      "title": "Giơ tay cao",
+      "label": "Giơ tay cao",
+      "emoji": "🙌",
+      "focus": "hero"
+    },
+    {
+      "id": "nm-nhay-nhe",
+      "topic": "nhay-mua",
+      "title": "Nhảy nhẹ",
+      "label": "Nhảy nhẹ",
+      "emoji": "🐰",
+      "focus": "hero"
+    },
+    {
+      "id": "nm-lac-lu",
+      "topic": "nhay-mua",
+      "title": "Lắc lư",
+      "label": "Lắc lư",
+      "emoji": "🎶",
+      "focus": "hero"
+    },
+    {
+      "id": "hs-to-do",
+      "topic": "hoa-si",
+      "title": "Tô đỏ",
+      "label": "Tô đỏ",
+      "emoji": "🔴",
+      "focus": "hero"
+    },
+    {
+      "id": "hs-to-vang",
+      "topic": "hoa-si",
+      "title": "Tô vàng",
+      "label": "Tô vàng",
+      "emoji": "🟡",
+      "focus": "hero"
+    },
+    {
+      "id": "hs-ve-vong-tron",
+      "topic": "hoa-si",
+      "title": "Vẽ vòng tròn",
+      "label": "Vẽ vòng tròn",
+      "emoji": "⭕",
+      "focus": "hero"
+    },
+    {
+      "id": "hs-go-trong",
+      "topic": "hoa-si",
+      "title": "Gõ nhịp",
+      "label": "Gõ trống",
+      "emoji": "🥁",
+      "focus": "hero"
+    },
+    {
+      "id": "hs-nghe-sao",
+      "topic": "hoa-si",
+      "title": "Nghe màu",
+      "label": "Bảng màu",
+      "emoji": "🎨",
+      "focus": "hero"
+    },
+    {
+      "id": "hs-dan-sao",
+      "topic": "hoa-si",
+      "title": "Dán sao",
+      "label": "Dán sao",
+      "emoji": "⭐",
+      "focus": "hero"
+    }
+  ]
+}

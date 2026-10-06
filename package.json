@@ -1,0 +1,29 @@
+{
+  "name": "be-gau-giai-cuu-tri-thuc",
+  "version": "1.0.0",
+  "description": "App học chơi cho trẻ dưới 5 tuổi — Bé Gấu Giải Cứu Tri Thức",
+  "private": true,
+  "scripts": {
+    "build:web": "node scripts/copy-www.js",
+    "sync": "npm run build:web && npx cap sync android",
+    "open:android": "npx cap open android",
+    "apk": "powershell -ExecutionPolicy Bypass -File scripts/build-apk.ps1",
+    "release:setup-keystore": "powershell -ExecutionPolicy Bypass -File scripts/setup-release-keystore.ps1",
+    "release:aab": "powershell -ExecutionPolicy Bypass -File scripts/build-aab.ps1",
+    "audit:lessons": "node scripts/audit-lesson-by-lesson.js",
+    "smoke:www": "node scripts/smoke-www.js",
+    "audit:content": "node scripts/audit-content-council.js",
+    "tint": "node scripts/generate-tint-svgs.js && node scripts/rebuild-explore-same-subject.js",
+    "sync:ai-colors": "node scripts/apply-ai-topic-colors.js all && node scripts/rebuild-so-chu-map.js && node scripts/rebuild-chu-latin.js",
+    "missing:ai": "node scripts/list-missing-ai-colors.js"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.2",
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/splash-screen": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.4"
+  }
+}

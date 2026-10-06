@@ -1,0 +1,1834 @@
+{
+  "summary": {
+    "generated": "2026-10-06T02:00:15.436Z",
+    "lessons": 107,
+    "dat": 107,
+    "datDieuKien": 0,
+    "khongDat": 0,
+    "findingsM1": 0,
+    "findingsM2": 0,
+    "findingsM3": 0
+  },
+  "findings": [],
+  "verdicts": [
+    {
+      "id": "mau-do",
+      "topicId": "mau",
+      "title": "Màu Đỏ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "mau-vang",
+      "topicId": "mau",
+      "title": "Màu Vàng",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "mau-xanh-duong",
+      "topicId": "mau",
+      "title": "Màu Xanh dương",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "mau-xanh-la",
+      "topicId": "mau",
+      "title": "Màu Xanh lá",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "mau-cam",
+      "topicId": "mau",
+      "title": "Màu Cam",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "mau-tim",
+      "topicId": "mau",
+      "title": "Màu Tím",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "mau-hong",
+      "topicId": "mau",
+      "title": "Màu Hồng",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "mau-nau",
+      "topicId": "mau",
+      "title": "Màu Nâu",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hinh-circle",
+      "topicId": "hinh",
+      "title": "Hình Tròn",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hinh-square",
+      "topicId": "hinh",
+      "title": "Hình Vuông",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hinh-triangle",
+      "topicId": "hinh",
+      "title": "Hình Tam giác",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hinh-rect",
+      "topicId": "hinh",
+      "title": "Hình Chữ nhật",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hinh-star",
+      "topicId": "hinh",
+      "title": "Hình Sao",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hinh-heart",
+      "topicId": "hinh",
+      "title": "Hình Tim",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hinh-oval",
+      "topicId": "hinh",
+      "title": "Hình Bầu dục",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-1",
+      "topicId": "so",
+      "title": "Số 1 — Một",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-2",
+      "topicId": "so",
+      "title": "Số 2 — Hai",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-3",
+      "topicId": "so",
+      "title": "Số 3 — Ba",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-4",
+      "topicId": "so",
+      "title": "Số 4 — Bốn",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-5",
+      "topicId": "so",
+      "title": "Số 5 — Năm",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-6",
+      "topicId": "so",
+      "title": "Số 6 — Sáu",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-7",
+      "topicId": "so",
+      "title": "Số 7 — Bảy",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-8",
+      "topicId": "so",
+      "title": "Số 8 — Tám",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-9",
+      "topicId": "so",
+      "title": "Số 9 — Chín",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "so-10",
+      "topicId": "so",
+      "title": "Số 10 — Mười",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-a",
+      "topicId": "chu",
+      "title": "Chữ A",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-b",
+      "topicId": "chu",
+      "title": "Chữ B",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-c",
+      "topicId": "chu",
+      "title": "Chữ C",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-d",
+      "topicId": "chu",
+      "title": "Chữ D",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-e",
+      "topicId": "chu",
+      "title": "Chữ E",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-f",
+      "topicId": "chu",
+      "title": "Chữ F",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-g",
+      "topicId": "chu",
+      "title": "Chữ G",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-h",
+      "topicId": "chu",
+      "title": "Chữ H",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-i",
+      "topicId": "chu",
+      "title": "Chữ I",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-j",
+      "topicId": "chu",
+      "title": "Chữ J",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-k",
+      "topicId": "chu",
+      "title": "Chữ K",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-l",
+      "topicId": "chu",
+      "title": "Chữ L",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-m",
+      "topicId": "chu",
+      "title": "Chữ M",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-n",
+      "topicId": "chu",
+      "title": "Chữ N",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-o",
+      "topicId": "chu",
+      "title": "Chữ O",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-p",
+      "topicId": "chu",
+      "title": "Chữ P",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-q",
+      "topicId": "chu",
+      "title": "Chữ Q",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-r",
+      "topicId": "chu",
+      "title": "Chữ R",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-s",
+      "topicId": "chu",
+      "title": "Chữ S",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-t",
+      "topicId": "chu",
+      "title": "Chữ T",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-u",
+      "topicId": "chu",
+      "title": "Chữ U",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-v",
+      "topicId": "chu",
+      "title": "Chữ V",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-w",
+      "topicId": "chu",
+      "title": "Chữ W",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-x",
+      "topicId": "chu",
+      "title": "Chữ X",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-y",
+      "topicId": "chu",
+      "title": "Chữ Y",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "chu-z",
+      "topicId": "chu",
+      "title": "Chữ Z",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-meo",
+      "topicId": "dong-vat",
+      "title": "Mèo",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-cho",
+      "topicId": "dong-vat",
+      "title": "Chó",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-ga",
+      "topicId": "dong-vat",
+      "title": "Gà",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-bo",
+      "topicId": "dong-vat",
+      "title": "Bò",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-heo",
+      "topicId": "dong-vat",
+      "title": "Heo",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-vit",
+      "topicId": "dong-vat",
+      "title": "Vịt",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-tho",
+      "topicId": "dong-vat",
+      "title": "Thỏ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-ca",
+      "topicId": "dong-vat",
+      "title": "Cá",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-chim",
+      "topicId": "dong-vat",
+      "title": "Chim",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-ho",
+      "topicId": "dong-vat",
+      "title": "Hổ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-voi",
+      "topicId": "dong-vat",
+      "title": "Voi",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dv-khi",
+      "topicId": "dong-vat",
+      "title": "Khỉ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-tao",
+      "topicId": "trai-cay",
+      "title": "Táo",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-chuoi",
+      "topicId": "trai-cay",
+      "title": "Chuối",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-cam",
+      "topicId": "trai-cay",
+      "title": "Cam",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-xoai",
+      "topicId": "trai-cay",
+      "title": "Xoài",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-dua-hau",
+      "topicId": "trai-cay",
+      "title": "Dưa hấu",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-nho",
+      "topicId": "trai-cay",
+      "title": "Nho",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-dau",
+      "topicId": "trai-cay",
+      "title": "Dâu",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "tc-dua",
+      "topicId": "trai-cay",
+      "title": "Dừa",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-bong",
+      "topicId": "do-vat",
+      "title": "Bóng",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-sach",
+      "topicId": "do-vat",
+      "title": "Sách",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-coc",
+      "topicId": "do-vat",
+      "title": "Cốc",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-thia",
+      "topicId": "do-vat",
+      "title": "Thìa",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-mu",
+      "topicId": "do-vat",
+      "title": "Mũ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-giay",
+      "topicId": "do-vat",
+      "title": "Giày",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-xe-hoi",
+      "topicId": "do-vat",
+      "title": "Xe hơi",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-xe-dap",
+      "topicId": "do-vat",
+      "title": "Xe đạp",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-tui",
+      "topicId": "do-vat",
+      "title": "Túi",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-ghe",
+      "topicId": "do-vat",
+      "title": "Ghế",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-giuong",
+      "topicId": "do-vat",
+      "title": "Giường",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "dvat-ban-chai",
+      "topicId": "do-vat",
+      "title": "Bàn chải",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "cx-vui",
+      "topicId": "cam-xuc",
+      "title": "Vui",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "cx-buon",
+      "topicId": "cam-xuc",
+      "title": "Buồn",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "cx-ngac-nhien",
+      "topicId": "cam-xuc",
+      "title": "Ngạc nhiên",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "cx-yeu-thuong",
+      "topicId": "cam-xuc",
+      "title": "Yêu thương",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "cx-gian-nhe",
+      "topicId": "cam-xuc",
+      "title": "Giận nhẹ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "cx-met",
+      "topicId": "cam-xuc",
+      "title": "Mệt",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "pt-xe-buyt",
+      "topicId": "phuong-tien",
+      "title": "Xe buýt",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "pt-may-bay",
+      "topicId": "phuong-tien",
+      "title": "Máy bay",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "pt-tau-lua",
+      "topicId": "phuong-tien",
+      "title": "Tàu lửa",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "pt-thuyen",
+      "topicId": "phuong-tien",
+      "title": "Thuyền",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "pt-xe-may",
+      "topicId": "phuong-tien",
+      "title": "Xe máy",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "pt-truc-thang",
+      "topicId": "phuong-tien",
+      "title": "Trực thăng",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "nm-vo-tay",
+      "topicId": "nhay-mua",
+      "title": "Vỗ tay",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "nm-nhun-chan",
+      "topicId": "nhay-mua",
+      "title": "Nhún chân",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "nm-xoay-tron",
+      "topicId": "nhay-mua",
+      "title": "Xoay tròn",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "nm-gio-tay-cao",
+      "topicId": "nhay-mua",
+      "title": "Giơ tay",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "nm-nhay-nhe",
+      "topicId": "nhay-mua",
+      "title": "Nhảy nhẹ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "nm-lac-lu",
+      "topicId": "nhay-mua",
+      "title": "Lắc lư",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hs-to-do",
+      "topicId": "hoa-si",
+      "title": "Tô đỏ",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hs-to-vang",
+      "topicId": "hoa-si",
+      "title": "Tô vàng",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hs-ve-vong-tron",
+      "topicId": "hoa-si",
+      "title": "Vẽ tròn",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hs-go-trong",
+      "topicId": "hoa-si",
+      "title": "Gõ trống",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hs-nghe-sao",
+      "topicId": "hoa-si",
+      "title": "Bảng màu",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    },
+    {
+      "id": "hs-dan-sao",
+      "topicId": "hoa-si",
+      "title": "Dán sao",
+      "status": "DAT",
+      "scores": {
+        "peda": 3,
+        "vis": 3,
+        "match": 3,
+        "gate": 3,
+        "safe": 3,
+        "avg": 3
+      },
+      "m1": 0,
+      "m2": 0,
+      "codes": []
+    }
+  ]
+}

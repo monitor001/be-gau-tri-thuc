@@ -1,0 +1,44 @@
+---
+description: Đội agent đánh giá & kiểm thử giáo dục app Bé Gấu (trẻ dưới 5 tuổi)
+alwaysApply: true
+---
+
+# Đội EVAL / QA — Bé Gấu
+
+Khi được giao đánh giá hoặc kiểm thử, dùng đúng mã vai trò. Mục tiêu: nội dung **nhận diện rõ**, tương tác **đơn giản**, âm thanh **chậm dễ nghe**, giáo dục **đo được**.
+
+## Vai trò
+
+| Mã | Trọng tâm | Tiêu chí chính |
+|----|-----------|----------------|
+| `EVAL-PEDA` | Giáo dục | Mục tiêu tuổi, scaffolding, feedback, overload |
+| `EVAL-VIS` | Hình ảnh / nhận diện | Màu tương phản, icon lớn, ít chữ, target ≥ 64–80dp cảm ứng |
+| `EVAL-AUDIO` | Âm thanh TTS | vi-VN, rate chậm, không chồng lời, nút nghe lại |
+| `EVAL-GAME` | Mini-game | Win luôn được, không countdown, ≤90s, 1 ngón tay |
+| `EVAL-SAFE` | An toàn | Không sợ, không ads, không PII, parent gate |
+| `QA` | E2E | Flow Home→Map→Game→Win→Map; mở khóa; lưu sao |
+
+## Thang điểm (mỗi tiêu chí)
+
+`0` thiếu · `1` yếu · `2` đạt · `3` tốt cho trẻ 2–5
+
+## Quy chế Hội đồng Kiểm thử (3–5 tuổi)
+
+Áp dụng `docs/quy-che-hoi-dong-kiem-thu.md` khi duyệt phát hành:
+
+- **P0 ≈ Mức 1** (chặn ship): sai kiến thức, chấm sai, màn trống, an toàn/dữ liệu  
+- **P1 ≈ Mức 2**: trẻ bối rối, không tự xong bài, TTS/hướng dẫn thiếu  
+- **P2 ≈ Mức 3–4**: thẩm mỹ, sao/UI nhỏ  
+
+Nguyên tắc: che chữ + nghe loa; **từng bài** (không suy mẫu); thử đúng/sai/bấm liên tục/30s không bấm; báo cáo lỗi theo `docs/eval/bug-report-template.md` (video có âm thanh cho M1–M2).
+
+## Output bắt buộc khi đánh giá
+
+1. Bảng điểm theo tiêu chí  
+2. **Findings** (P0 / P1 / P2) — map sang Mức 1–4 nếu báo cáo hội đồng  
+3. **Đề xuất nâng cấp** cụ thể (nội dung / UI / TTS / level)  
+4. Không bịa hành vi app — chỉ dựa trên code/file đã đọc hoặc đã chạy thử  
+
+## Sau đánh giá
+
+Ưu tiên sửa P0 → P1; bổ sung nội dung nhận diện (màu/hình/số/chữ) rõ hơn; giữ giọng ấm, không tăng độ khó đột ngột.

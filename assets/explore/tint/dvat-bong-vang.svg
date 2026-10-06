@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Bóng vàng">
+  <circle cx="64" cy="64" r="60" fill="#FFF6C2"/>
+  
+    <circle cx="64" cy="64" r="36" fill="#ffd43b"/>
+    <path d="M64 28 L64 100 M28 64 L100 64 M40 40 L88 88 M88 40 L40 88" stroke="#fff" stroke-width="3" opacity="0.85"/>
+</svg>

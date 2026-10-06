@@ -1,0 +1,35 @@
+---
+description: Tổ hợp Chuyên gia liên ngành (PEDA/GAME/GFX/AUDIO…) phân tích & kiểm thử nội dung Bé Gấu
+alwaysApply: false
+---
+
+# Tổ hợp Chuyên gia — Bé Gấu
+
+Khi user gọi **Tổ hợp Chuyên gia**, **hội nghị liên ngành**, hoặc phân tích nội dung đa lĩnh vực (sư phạm, đồ họa, game…):
+
+## Tổ chức
+
+1. Đọc `docs/to-hop-chuyen-gia.md` — 12 ghế chuyên môn.
+2. **Tổ hợp** = thiết kế / phân tích nội dung · **Hội đồng KT** = xác nhận trên build (`docs/eval/hoi-dong-chuyen-gia-kt.md`). Không gộp hai việc thành một người tự duyệt.
+3. Ưu tiên chạy **song song** nhiều agent, mỗi agent một mã ghế (`PEDA`, `GAME`, `GFX`, `STORY`, `AUDIO`/`VOICE`, `SAFE`, `CURR`, `UX`).
+
+## Output bắt buộc
+
+1. Bảng điểm 0–3 theo ghế  
+2. Findings P0 / P1 / P2  
+3. Đề xuất nâng cấp cụ thể  
+4. Chỉ dựa code/file đã đọc — không bịa  
+
+Lưu báo cáo vào `docs/eval/hoi-nghi-lien-nganh-YYYY-MM-DD.md` (mẫu: `hoi-nghi-lien-nganh-template.md`).
+
+## Chuẩn nội dung toddler
+
+- Tiếng Việt ấm, câu ngắn; 1 màn = 1 bài học  
+- GAME: tap/match nhẹ, ≤90s, không countdown áp lực  
+- GFX: icon lớn, không đáng sợ; captive = sương mist không lồng sắt  
+- AUDIO: TTS `vi-VN`, rate ~0.95 (không ép 0.8 với giọng AI), có nghe lại 
+- SAFE: không PII trẻ, không ads, parent gate  
+
+## Audit nhanh
+
+`node scripts/audit-council-data.js` trước khi kết luận data.

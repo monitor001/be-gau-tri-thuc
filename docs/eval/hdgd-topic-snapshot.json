@@ -1,0 +1,4161 @@
+{
+  "generated": "2026-10-05T09:19:37.248Z",
+  "council": "Hoi-dong-Chuyen-gia-Giao-duc",
+  "lessonCount": 107,
+  "topics": [
+    {
+      "id": "mau",
+      "title": "Rừng Màu Sắc",
+      "n": 8,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 0,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 0,
+      "friendImg": 8,
+      "sampleIds": [
+        "mau-do",
+        "mau-vang",
+        "mau-xanh-duong"
+      ],
+      "lessons": [
+        {
+          "id": "mau-do",
+          "title": "Màu Đỏ",
+          "teach": "Cô Sương đố vui! Bé giúp giải cứu Bạn Đỏ nhé! Nhiều thứ màu đỏ! Táo, dâu, cà chua… cùng nhìn màu đỏ nào!",
+          "explore": [
+            {
+              "label": "Quả táo",
+              "img": "assets/explore/mau/mau-do-qua-tao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Quả dâu",
+              "img": "assets/explore/mau/mau-do-qua-dau.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Cà chua",
+              "img": "assets/explore/mau/mau-do-ca-chua.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Xe cứu hỏa",
+              "img": "assets/explore/mau/mau-do-xe-cuu-hoa.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Bọ rùa",
+              "img": "assets/explore/mau/mau-do-bo-rua.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hoa hồng",
+              "img": "assets/explore/mau/mau-do-hoa-hong.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "mau-vang",
+          "title": "Màu Vàng",
+          "teach": "Cô Sương đố vui! Nhiều thứ màu vàng! Chuối, hoa mai, vịt con… cùng nhìn màu vàng nào!",
+          "explore": [
+            {
+              "label": "Quả chuối",
+              "img": "assets/explore/mau/mau-vang-qua-chuoi.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Gà con",
+              "img": "assets/explore/mau/mau-vang-ga-con.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hoa hướng dương",
+              "img": "assets/explore/mau/mau-vang-hoa-huong-duong.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Quả xoài chín",
+              "img": "assets/explore/mau/mau-vang-qua-xoai-chin.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hoa mai",
+              "img": "assets/explore/mau/mau-vang-hoa-mai.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Vịt con",
+              "img": "assets/explore/mau/mau-vang-vit-con.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "mau-xanh-duong",
+          "title": "Màu Xanh dương",
+          "teach": "Cô Sương đố vui! Cứu Bạn Xanh dương nào! Nhiều thứ màu xanh dương! Bầu trời, cá voi… cùng nhìn nào!",
+          "explore": [
+            {
+              "label": "Sóng biển",
+              "img": "assets/explore/mau/mau-xanh-duong-song-bien.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Cá voi",
+              "img": "assets/explore/mau/mau-xanh-duong-ca-voi.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Việt quất",
+              "img": "assets/explore/mau/mau-xanh-duong-viet-quat.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Quần jean",
+              "img": "assets/explore/mau/mau-xanh-duong-quan-jean.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Quyển sách",
+              "img": "assets/explore/mau/mau-xanh-duong-quyen-sach.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Xe xanh dương",
+              "img": "assets/explore/mau/mau-xanh-duong-xe-xanh-duong.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "mau-xanh-la",
+          "title": "Màu Xanh lá",
+          "teach": "Cứu Bạn Xanh lá cùng Cô Sương đố vui! Nhiều thứ màu xanh lá! Ếch, lá cây, dưa hấu… cùng nhìn nào!",
+          "explore": [
+            {
+              "label": "Con ếch",
+              "img": "assets/explore/mau/mau-xanh-la-con-ech.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Lá cây",
+              "img": "assets/explore/mau/mau-xanh-la-la-cay.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Dưa chuột",
+              "img": "assets/explore/mau/mau-xanh-la-dua-chuot.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Bông cải",
+              "img": "assets/explore/mau/mau-xanh-la-bong-cai.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Cây xanh",
+              "img": "assets/explore/mau/mau-xanh-la-cay-xanh.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Rau xanh",
+              "img": "assets/explore/mau/mau-xanh-la-rau-xanh.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "mau-cam",
+          "title": "Màu Cam",
+          "teach": "Cứu Bạn Cam nào! Nhiều thứ màu cam! Quả cam, cà rốt, cáo… cùng nhìn màu cam nào!",
+          "explore": [
+            {
+              "label": "Quả cam",
+              "img": "assets/explore/mau/mau-cam-qua-cam.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Cà rốt",
+              "img": "assets/explore/mau/mau-cam-ca-rot.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Con cáo",
+              "img": "assets/explore/mau/mau-cam-con-cao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Bóng rổ",
+              "img": "assets/explore/mau/mau-cam-bong-ro.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hình cam",
+              "img": "assets/explore/mau/mau-cam-hinh-cam.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Ô vuông cam",
+              "img": "assets/explore/mau/mau-cam-o-vuong-cam.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "mau-tim",
+          "title": "Màu Tím",
+          "teach": "Cứu Bạn Tím nào! Nhiều thứ màu tím! Nho, cà tím… cùng nhìn màu tím nào!",
+          "explore": [
+            {
+              "label": "Quả nho",
+              "img": "assets/explore/mau/mau-tim-qua-nho.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Cà tím",
+              "img": "assets/explore/mau/mau-tim-ca-tim.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Trái tim tím",
+              "img": "assets/explore/mau/mau-tim-trai-tim-tim.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Bóng tím",
+              "img": "assets/explore/mau/mau-tim-bong-tim.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Áo tím",
+              "img": "assets/explore/mau/mau-tim-ao-tim.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Ô tím",
+              "img": "assets/explore/mau/mau-tim-o-tim.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "mau-hong",
+          "title": "Màu Hồng",
+          "teach": "Cứu Bạn Hồng nào! Nhiều thứ màu hồng! Heo, hoa… cùng nhìn màu hồng nào!",
+          "explore": [
+            {
+              "label": "Con heo",
+              "img": "assets/explore/mau/mau-hong-con-heo.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Bông hoa",
+              "img": "assets/explore/mau/mau-hong-bong-hoa.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Chiếc nơ",
+              "img": "assets/explore/mau/mau-hong-chiec-no.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Trái tim hồng",
+              "img": "assets/explore/mau/mau-hong-trai-tim-hong.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Bánh vòng",
+              "img": "assets/explore/mau/mau-hong-banh-vong.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Áo hồng",
+              "img": "assets/explore/mau/mau-hong-ao-hong.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "mau-nau",
+          "title": "Màu Nâu",
+          "teach": "Cứu Bạn Nâu nào! Nhiều thứ màu nâu! Gấu bông, sô cô la… cùng nhìn màu nâu nào!",
+          "explore": [
+            {
+              "label": "Gấu nâu",
+              "img": "assets/explore/mau/mau-nau-gau-nau.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Sô cô la",
+              "img": "assets/explore/mau/mau-nau-so-co-la.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hộp nâu",
+              "img": "assets/explore/mau/mau-nau-hop-nau.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Khoai tây",
+              "img": "assets/explore/mau/mau-nau-khoai-tay.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Bánh quy",
+              "img": "assets/explore/mau/mau-nau-banh-quy.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hạt dẻ",
+              "img": "assets/explore/mau/mau-nau-hat-de.jpg",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hinh",
+      "title": "Đồi Hình Khối",
+      "n": 7,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 42,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 7,
+      "friendImg": 7,
+      "sampleIds": [
+        "hinh-circle",
+        "hinh-square",
+        "hinh-triangle"
+      ],
+      "lessons": [
+        {
+          "id": "hinh-circle",
+          "title": "Hình Tròn",
+          "teach": "Đây là hình Tròn. Hình Tròn có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là hình Tròn?",
+          "choices": [
+            "Tròn",
+            "Vuông"
+          ],
+          "explore": [
+            {
+              "label": "Hình tròn đỏ",
+              "img": "assets/explore/hinh-khoi/hinh-circle-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tròn vàng",
+              "img": "assets/explore/hinh-khoi/hinh-circle-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tròn xanh dương",
+              "img": "assets/explore/hinh-khoi/hinh-circle-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tròn xanh lá",
+              "img": "assets/explore/hinh-khoi/hinh-circle-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tròn cam",
+              "img": "assets/explore/hinh-khoi/hinh-circle-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tròn tím",
+              "img": "assets/explore/hinh-khoi/hinh-circle-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hinh-square",
+          "title": "Hình Vuông",
+          "teach": "Đây là hình Vuông. Hình Vuông có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là hình Vuông?",
+          "choices": [
+            "Vuông",
+            "Tròn"
+          ],
+          "explore": [
+            {
+              "label": "Hình vuông đỏ",
+              "img": "assets/explore/hinh-khoi/hinh-square-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hình vuông vàng",
+              "img": "assets/explore/hinh-khoi/hinh-square-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hình vuông xanh dương",
+              "img": "assets/explore/hinh-khoi/hinh-square-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hình vuông xanh lá",
+              "img": "assets/explore/hinh-khoi/hinh-square-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hình vuông cam",
+              "img": "assets/explore/hinh-khoi/hinh-square-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hình vuông tím",
+              "img": "assets/explore/hinh-khoi/hinh-square-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hinh-triangle",
+          "title": "Hình Tam giác",
+          "teach": "Đây là hình Tam giác. Hình Tam giác có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là hình Tam giác?",
+          "choices": [
+            "Tam giác",
+            "Tròn"
+          ],
+          "explore": [
+            {
+              "label": "Hình tam giác đỏ",
+              "img": "assets/explore/hinh-khoi/hinh-triangle-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tam giác vàng",
+              "img": "assets/explore/hinh-khoi/hinh-triangle-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tam giác xanh dương",
+              "img": "assets/explore/hinh-khoi/hinh-triangle-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tam giác xanh lá",
+              "img": "assets/explore/hinh-khoi/hinh-triangle-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tam giác cam",
+              "img": "assets/explore/hinh-khoi/hinh-triangle-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tam giác tím",
+              "img": "assets/explore/hinh-khoi/hinh-triangle-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hinh-rect",
+          "title": "Hình Chữ nhật",
+          "teach": "Đây là hình Chữ nhật. Hình Chữ nhật có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là hình Chữ nhật?",
+          "choices": [
+            "Chữ nhật",
+            "Tròn",
+            "Vuông"
+          ],
+          "explore": [
+            {
+              "label": "Hình chữ nhật đỏ",
+              "img": "assets/explore/hinh-khoi/hinh-rect-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hình chữ nhật vàng",
+              "img": "assets/explore/hinh-khoi/hinh-rect-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hình chữ nhật xanh dương",
+              "img": "assets/explore/hinh-khoi/hinh-rect-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hình chữ nhật xanh lá",
+              "img": "assets/explore/hinh-khoi/hinh-rect-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hình chữ nhật cam",
+              "img": "assets/explore/hinh-khoi/hinh-rect-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hình chữ nhật tím",
+              "img": "assets/explore/hinh-khoi/hinh-rect-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hinh-star",
+          "title": "Hình Sao",
+          "teach": "Đây là hình Sao. Hình Sao có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là hình Sao?",
+          "choices": [
+            "Sao",
+            "Tròn",
+            "Vuông"
+          ],
+          "explore": [
+            {
+              "label": "Hình sao đỏ",
+              "img": "assets/explore/hinh-khoi/hinh-star-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hình sao vàng",
+              "img": "assets/explore/hinh-khoi/hinh-star-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hình sao xanh dương",
+              "img": "assets/explore/hinh-khoi/hinh-star-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hình sao xanh lá",
+              "img": "assets/explore/hinh-khoi/hinh-star-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hình sao cam",
+              "img": "assets/explore/hinh-khoi/hinh-star-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hình sao tím",
+              "img": "assets/explore/hinh-khoi/hinh-star-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hinh-heart",
+          "title": "Hình Tim",
+          "teach": "Đây là hình Tim. Hình Tim có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là hình Tim?",
+          "choices": [
+            "Tim",
+            "Tròn",
+            "Vuông"
+          ],
+          "explore": [
+            {
+              "label": "Hình tim đỏ",
+              "img": "assets/explore/hinh-khoi/hinh-heart-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tim vàng",
+              "img": "assets/explore/hinh-khoi/hinh-heart-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tim xanh dương",
+              "img": "assets/explore/hinh-khoi/hinh-heart-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tim xanh lá",
+              "img": "assets/explore/hinh-khoi/hinh-heart-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tim cam",
+              "img": "assets/explore/hinh-khoi/hinh-heart-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tim tím",
+              "img": "assets/explore/hinh-khoi/hinh-heart-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hinh-oval",
+          "title": "Hình Bầu dục",
+          "teach": "Đây là hình Bầu dục. Hình Bầu dục có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là hình Bầu dục?",
+          "choices": [
+            "Bầu dục",
+            "Tròn",
+            "Vuông"
+          ],
+          "explore": [
+            {
+              "label": "Hình bầu dục đỏ",
+              "img": "assets/explore/hinh-khoi/hinh-oval-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hình bầu dục vàng",
+              "img": "assets/explore/hinh-khoi/hinh-oval-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hình bầu dục xanh dương",
+              "img": "assets/explore/hinh-khoi/hinh-oval-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hình bầu dục xanh lá",
+              "img": "assets/explore/hinh-khoi/hinh-oval-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hình bầu dục cam",
+              "img": "assets/explore/hinh-khoi/hinh-oval-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hình bầu dục tím",
+              "img": "assets/explore/hinh-khoi/hinh-oval-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "so",
+      "title": "Suối Đếm Số",
+      "n": 10,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 0,
+      "countItems": 20,
+      "countOk": 20,
+      "mapImg": 10,
+      "friendImg": 10,
+      "sampleIds": [
+        "so-1",
+        "so-2",
+        "so-3"
+      ],
+      "lessons": [
+        {
+          "id": "so-1",
+          "title": "Số 1 — Một",
+          "teach": "Đây là số 1. Bé đếm 1 cá, 1 sao nhé!",
+          "gate": "Đâu là số 1?",
+          "choices": [
+            "1",
+            "2"
+          ],
+          "explore": [
+            {
+              "label": "Số 1",
+              "img": "assets/explore/ai/so-1.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "1 cá",
+              "img": null,
+              "count": 1,
+              "imgOk": true
+            },
+            {
+              "label": "1 sao",
+              "img": null,
+              "count": 1,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-2",
+          "title": "Số 2 — Hai",
+          "teach": "Đây là số 2. Bé đếm 2 cá, 2 sao nhé!",
+          "gate": "Đâu là số 2?",
+          "choices": [
+            "2",
+            "1"
+          ],
+          "explore": [
+            {
+              "label": "Số 2",
+              "img": "assets/explore/ai/so-2.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "2 cá",
+              "img": null,
+              "count": 2,
+              "imgOk": true
+            },
+            {
+              "label": "2 sao",
+              "img": null,
+              "count": 2,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-3",
+          "title": "Số 3 — Ba",
+          "teach": "Đây là số 3. Bé đếm 3 cá, 3 sao nhé!",
+          "gate": "Đâu là số 3?",
+          "choices": [
+            "3",
+            "2"
+          ],
+          "explore": [
+            {
+              "label": "Số 3",
+              "img": "assets/explore/ai/so-3.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "3 cá",
+              "img": null,
+              "count": 3,
+              "imgOk": true
+            },
+            {
+              "label": "3 sao",
+              "img": null,
+              "count": 3,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-4",
+          "title": "Số 4 — Bốn",
+          "teach": "Đây là số 4. Bé đếm 4 cá, 4 sao nhé!",
+          "gate": "Đâu là số 4?",
+          "choices": [
+            "4",
+            "3",
+            "5"
+          ],
+          "explore": [
+            {
+              "label": "Số 4",
+              "img": "assets/explore/ai/so-4.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "4 cá",
+              "img": null,
+              "count": 4,
+              "imgOk": true
+            },
+            {
+              "label": "4 sao",
+              "img": null,
+              "count": 4,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-5",
+          "title": "Số 5 — Năm",
+          "teach": "Đây là số 5. Bé đếm 5 cá, 5 sao nhé!",
+          "gate": "Đâu là số 5?",
+          "choices": [
+            "5",
+            "4",
+            "6"
+          ],
+          "explore": [
+            {
+              "label": "Số 5",
+              "img": "assets/explore/ai/so-5.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "5 cá",
+              "img": null,
+              "count": 5,
+              "imgOk": true
+            },
+            {
+              "label": "5 sao",
+              "img": null,
+              "count": 5,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-6",
+          "title": "Số 6 — Sáu",
+          "teach": "Đây là số 6. Bé đếm 6 cá, 6 sao nhé!",
+          "gate": "Đâu là số 6?",
+          "choices": [
+            "6",
+            "5",
+            "7"
+          ],
+          "explore": [
+            {
+              "label": "Số 6",
+              "img": "assets/explore/ai/so-6.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "6 cá",
+              "img": null,
+              "count": 6,
+              "imgOk": true
+            },
+            {
+              "label": "6 sao",
+              "img": null,
+              "count": 6,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-7",
+          "title": "Số 7 — Bảy",
+          "teach": "Đây là số 7. Bé đếm 7 cá, 7 sao nhé!",
+          "gate": "Đâu là số 7?",
+          "choices": [
+            "7",
+            "6",
+            "8"
+          ],
+          "explore": [
+            {
+              "label": "Số 7",
+              "img": "assets/explore/ai/so-7.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "7 cá",
+              "img": null,
+              "count": 7,
+              "imgOk": true
+            },
+            {
+              "label": "7 sao",
+              "img": null,
+              "count": 7,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-8",
+          "title": "Số 8 — Tám",
+          "teach": "Đây là số 8. Bé đếm 8 cá, 8 sao nhé!",
+          "gate": "Đâu là số 8?",
+          "choices": [
+            "8",
+            "7",
+            "9"
+          ],
+          "explore": [
+            {
+              "label": "Số 8",
+              "img": "assets/explore/ai/so-8.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "8 cá",
+              "img": null,
+              "count": 8,
+              "imgOk": true
+            },
+            {
+              "label": "8 sao",
+              "img": null,
+              "count": 8,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-9",
+          "title": "Số 9 — Chín",
+          "teach": "Đây là số 9. Bé đếm 9 cá, 9 sao nhé!",
+          "gate": "Đâu là số 9?",
+          "choices": [
+            "9",
+            "8",
+            "10"
+          ],
+          "explore": [
+            {
+              "label": "Số 9",
+              "img": "assets/explore/ai/so-9.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "9 cá",
+              "img": null,
+              "count": 9,
+              "imgOk": true
+            },
+            {
+              "label": "9 sao",
+              "img": null,
+              "count": 9,
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "so-10",
+          "title": "Số 10 — Mười",
+          "teach": "Đây là số 10. Bé đếm 10 cá, 10 sao nhé!",
+          "gate": "Đâu là số 10?",
+          "choices": [
+            "10",
+            "9",
+            "1"
+          ],
+          "explore": [
+            {
+              "label": "Số 10",
+              "img": "assets/explore/ai/so-10.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "10 cá",
+              "img": null,
+              "count": 10,
+              "imgOk": true
+            },
+            {
+              "label": "10 sao",
+              "img": null,
+              "count": 10,
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chu",
+      "title": "Hang Chữ Latin",
+      "n": 26,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 0,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 26,
+      "friendImg": 26,
+      "sampleIds": [
+        "chu-a",
+        "chu-b",
+        "chu-c"
+      ],
+      "lessons": [
+        {
+          "id": "chu-a",
+          "title": "Chữ A",
+          "teach": "Đây là chữ A. Áo bắt đầu bằng chữ A!",
+          "gate": "Đâu là chữ A?",
+          "choices": [
+            "A",
+            "B"
+          ],
+          "explore": [
+            {
+              "label": "Chữ A",
+              "img": "assets/explore/chu/chu-a.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Áo",
+              "img": "assets/explore/ai/chu-a.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe A",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-b",
+          "title": "Chữ B",
+          "teach": "Đây là chữ B. Bò bắt đầu bằng chữ B!",
+          "gate": "Đâu là chữ B?",
+          "choices": [
+            "B",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ B",
+              "img": "assets/explore/chu/chu-b.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Bò",
+              "img": "assets/explore/ai/chu-b.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe B",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-c",
+          "title": "Chữ C",
+          "teach": "Đây là chữ C. Cá bắt đầu bằng chữ C!",
+          "gate": "Đâu là chữ C?",
+          "choices": [
+            "C",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ C",
+              "img": "assets/explore/chu/chu-c.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Cá",
+              "img": "assets/explore/ai/chu-c.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe C",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-d",
+          "title": "Chữ D",
+          "teach": "Đây là chữ D. Dê bắt đầu bằng chữ D!",
+          "gate": "Đâu là chữ D?",
+          "choices": [
+            "D",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ D",
+              "img": "assets/explore/chu/chu-d.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Dê",
+              "img": "assets/explore/ai/chu-d.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe D",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-e",
+          "title": "Chữ E",
+          "teach": "Đây là chữ E. Em bắt đầu bằng chữ E!",
+          "gate": "Đâu là chữ E?",
+          "choices": [
+            "E",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ E",
+              "img": "assets/explore/chu/chu-e.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Em",
+              "img": "assets/explore/ai/chu-e.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe E",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-f",
+          "title": "Chữ F",
+          "teach": "Đây là chữ F. Fan bắt đầu bằng chữ F!",
+          "gate": "Đâu là chữ F?",
+          "choices": [
+            "F",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ F",
+              "img": "assets/explore/chu/chu-f.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Fan",
+              "img": "assets/explore/ai/chu-f.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe F",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-g",
+          "title": "Chữ G",
+          "teach": "Đây là chữ G. Gấu bắt đầu bằng chữ G!",
+          "gate": "Đâu là chữ G?",
+          "choices": [
+            "G",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ G",
+              "img": "assets/explore/chu/chu-g.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Gấu",
+              "img": "assets/explore/ai/chu-g.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe G",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-h",
+          "title": "Chữ H",
+          "teach": "Đây là chữ H. Hoa bắt đầu bằng chữ H!",
+          "gate": "Đâu là chữ H?",
+          "choices": [
+            "H",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ H",
+              "img": "assets/explore/chu/chu-h.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Hoa",
+              "img": "assets/explore/ai/chu-h.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe H",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-i",
+          "title": "Chữ I",
+          "teach": "Đây là chữ I. Bé nhìn chữ I tờ nhé!",
+          "gate": "Đâu là chữ I?",
+          "choices": [
+            "I",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ I",
+              "img": "assets/explore/chu/chu-i.svg",
+              "imgOk": true
+            },
+            {
+              "label": "I tờ",
+              "img": "assets/explore/ai/chu-i.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe I",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-j",
+          "title": "Chữ J",
+          "teach": "Đây là chữ J. Juice bắt đầu bằng chữ J!",
+          "gate": "Đâu là chữ J?",
+          "choices": [
+            "J",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ J",
+              "img": "assets/explore/chu/chu-j.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Juice",
+              "img": "assets/explore/ai/chu-j.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe J",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-k",
+          "title": "Chữ K",
+          "teach": "Đây là chữ K. Kem bắt đầu bằng chữ K!",
+          "gate": "Đâu là chữ K?",
+          "choices": [
+            "K",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ K",
+              "img": "assets/explore/chu/chu-k.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Kem",
+              "img": "assets/explore/ai/chu-k.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe K",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-l",
+          "title": "Chữ L",
+          "teach": "Đây là chữ L. Lá bắt đầu bằng chữ L!",
+          "gate": "Đâu là chữ L?",
+          "choices": [
+            "L",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ L",
+              "img": "assets/explore/chu/chu-l.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Lá",
+              "img": "assets/explore/ai/chu-l.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe L",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-m",
+          "title": "Chữ M",
+          "teach": "Đây là chữ M. Mèo bắt đầu bằng chữ M!",
+          "gate": "Đâu là chữ M?",
+          "choices": [
+            "M",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ M",
+              "img": "assets/explore/chu/chu-m.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Mèo",
+              "img": "assets/explore/ai/chu-m.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe M",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-n",
+          "title": "Chữ N",
+          "teach": "Đây là chữ N. Nón bắt đầu bằng chữ N!",
+          "gate": "Đâu là chữ N?",
+          "choices": [
+            "N",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ N",
+              "img": "assets/explore/chu/chu-n.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Nón",
+              "img": "assets/explore/ai/chu-n.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe N",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-o",
+          "title": "Chữ O",
+          "teach": "Đây là chữ O. Ong bắt đầu bằng chữ O!",
+          "gate": "Đâu là chữ O?",
+          "choices": [
+            "O",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ O",
+              "img": "assets/explore/chu/chu-o.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Ong",
+              "img": "assets/explore/ai/chu-o.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe O",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-p",
+          "title": "Chữ P",
+          "teach": "Đây là chữ P. Pin bắt đầu bằng chữ P!",
+          "gate": "Đâu là chữ P?",
+          "choices": [
+            "P",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ P",
+              "img": "assets/explore/chu/chu-p.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Pin",
+              "img": "assets/explore/ai/chu-p.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe P",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-q",
+          "title": "Chữ Q",
+          "teach": "Đây là chữ Q. Quạt bắt đầu bằng chữ Q!",
+          "gate": "Đâu là chữ Q?",
+          "choices": [
+            "Q",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ Q",
+              "img": "assets/explore/chu/chu-q.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Quạt",
+              "img": "assets/explore/ai/chu-q.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe Q",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-r",
+          "title": "Chữ R",
+          "teach": "Đây là chữ R. Rùa bắt đầu bằng chữ R!",
+          "gate": "Đâu là chữ R?",
+          "choices": [
+            "R",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ R",
+              "img": "assets/explore/chu/chu-r.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Rùa",
+              "img": "assets/explore/ai/chu-r.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe R",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-s",
+          "title": "Chữ S",
+          "teach": "Đây là chữ S. Sách bắt đầu bằng chữ S!",
+          "gate": "Đâu là chữ S?",
+          "choices": [
+            "S",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ S",
+              "img": "assets/explore/chu/chu-s.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Sách",
+              "img": "assets/explore/ai/chu-s.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe S",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-t",
+          "title": "Chữ T",
+          "teach": "Đây là chữ T. Táo bắt đầu bằng chữ T!",
+          "gate": "Đâu là chữ T?",
+          "choices": [
+            "T",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ T",
+              "img": "assets/explore/chu/chu-t.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Táo",
+              "img": "assets/explore/ai/chu-t.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe T",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-u",
+          "title": "Chữ U",
+          "teach": "Đây là chữ U. Uống bắt đầu bằng chữ U!",
+          "gate": "Đâu là chữ U?",
+          "choices": [
+            "U",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ U",
+              "img": "assets/explore/chu/chu-u.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Uống",
+              "img": "assets/explore/ai/chu-u.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe U",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-v",
+          "title": "Chữ V",
+          "teach": "Đây là chữ V. Voi bắt đầu bằng chữ V!",
+          "gate": "Đâu là chữ V?",
+          "choices": [
+            "V",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ V",
+              "img": "assets/explore/chu/chu-v.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Voi",
+              "img": "assets/explore/ai/chu-v.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe V",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-w",
+          "title": "Chữ W",
+          "teach": "Đây là chữ W. Watermelon bắt đầu bằng chữ W!",
+          "gate": "Đâu là chữ W?",
+          "choices": [
+            "W",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ W",
+              "img": "assets/explore/chu/chu-w.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Watermelon",
+              "img": "assets/explore/ai/chu-w.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe W",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-x",
+          "title": "Chữ X",
+          "teach": "Đây là chữ X. Xe bắt đầu bằng chữ X!",
+          "gate": "Đâu là chữ X?",
+          "choices": [
+            "X",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ X",
+              "img": "assets/explore/chu/chu-x.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Xe",
+              "img": "assets/explore/ai/chu-x.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe X",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-y",
+          "title": "Chữ Y",
+          "teach": "Đây là chữ Y. Yêu bắt đầu bằng chữ Y!",
+          "gate": "Đâu là chữ Y?",
+          "choices": [
+            "Y",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ Y",
+              "img": "assets/explore/chu/chu-y.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Yêu",
+              "img": "assets/explore/ai/chu-y.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe Y",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "chu-z",
+          "title": "Chữ Z",
+          "teach": "Đây là chữ Z. Zebra bắt đầu bằng chữ Z!",
+          "gate": "Đâu là chữ Z?",
+          "choices": [
+            "Z",
+            "A"
+          ],
+          "explore": [
+            {
+              "label": "Chữ Z",
+              "img": "assets/explore/chu/chu-z.svg",
+              "imgOk": true
+            },
+            {
+              "label": "Zebra",
+              "img": "assets/explore/ai/chu-z.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nghe Z",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dong-vat",
+      "title": "Vườn Bạn Bè",
+      "n": 12,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 72,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 12,
+      "friendImg": 12,
+      "sampleIds": [
+        "dv-meo",
+        "dv-cho",
+        "dv-ga"
+      ],
+      "lessons": [
+        {
+          "id": "dv-meo",
+          "title": "Mèo",
+          "teach": "Đây là con Mèo. Mèo có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Mèo?",
+          "choices": [
+            "Mèo",
+            "Chó"
+          ],
+          "explore": [
+            {
+              "label": "Mèo đỏ",
+              "img": "assets/explore/dong-vat/dv-meo-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Mèo vàng",
+              "img": "assets/explore/dong-vat/dv-meo-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Mèo xanh dương",
+              "img": "assets/explore/dong-vat/dv-meo-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Mèo xanh lá",
+              "img": "assets/explore/dong-vat/dv-meo-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Mèo cam",
+              "img": "assets/explore/dong-vat/dv-meo-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Mèo tím",
+              "img": "assets/explore/dong-vat/dv-meo-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-cho",
+          "title": "Chó",
+          "teach": "Đây là con Chó. Chó có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Chó?",
+          "choices": [
+            "Chó",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Chó đỏ",
+              "img": "assets/explore/dong-vat/dv-cho-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Chó vàng",
+              "img": "assets/explore/dong-vat/dv-cho-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Chó xanh dương",
+              "img": "assets/explore/dong-vat/dv-cho-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Chó xanh lá",
+              "img": "assets/explore/dong-vat/dv-cho-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Chó cam",
+              "img": "assets/explore/dong-vat/dv-cho-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Chó tím",
+              "img": "assets/explore/dong-vat/dv-cho-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-ga",
+          "title": "Gà",
+          "teach": "Đây là con Gà. Gà có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Gà?",
+          "choices": [
+            "Gà",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Gà đỏ",
+              "img": "assets/explore/dong-vat/dv-ga-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Gà vàng",
+              "img": "assets/explore/dong-vat/dv-ga-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Gà xanh dương",
+              "img": "assets/explore/dong-vat/dv-ga-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Gà xanh lá",
+              "img": "assets/explore/dong-vat/dv-ga-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Gà cam",
+              "img": "assets/explore/dong-vat/dv-ga-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Gà tím",
+              "img": "assets/explore/dong-vat/dv-ga-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-bo",
+          "title": "Bò",
+          "teach": "Đây là con Bò. Bò có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Bò?",
+          "choices": [
+            "Bò",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Bò đỏ",
+              "img": "assets/explore/dong-vat/dv-bo-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Bò vàng",
+              "img": "assets/explore/dong-vat/dv-bo-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Bò xanh dương",
+              "img": "assets/explore/dong-vat/dv-bo-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Bò xanh lá",
+              "img": "assets/explore/dong-vat/dv-bo-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Bò cam",
+              "img": "assets/explore/dong-vat/dv-bo-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Bò tím",
+              "img": "assets/explore/dong-vat/dv-bo-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-heo",
+          "title": "Heo",
+          "teach": "Đây là con Heo. Heo có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Heo?",
+          "choices": [
+            "Heo",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Heo đỏ",
+              "img": "assets/explore/dong-vat/dv-heo-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Heo vàng",
+              "img": "assets/explore/dong-vat/dv-heo-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Heo xanh dương",
+              "img": "assets/explore/dong-vat/dv-heo-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Heo xanh lá",
+              "img": "assets/explore/dong-vat/dv-heo-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Heo cam",
+              "img": "assets/explore/dong-vat/dv-heo-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Heo tím",
+              "img": "assets/explore/dong-vat/dv-heo-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-vit",
+          "title": "Vịt",
+          "teach": "Đây là con Vịt. Vịt có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Vịt?",
+          "choices": [
+            "Vịt",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Vịt đỏ",
+              "img": "assets/explore/dong-vat/dv-vit-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Vịt vàng",
+              "img": "assets/explore/dong-vat/dv-vit-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Vịt xanh dương",
+              "img": "assets/explore/dong-vat/dv-vit-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Vịt xanh lá",
+              "img": "assets/explore/dong-vat/dv-vit-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Vịt cam",
+              "img": "assets/explore/dong-vat/dv-vit-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Vịt tím",
+              "img": "assets/explore/dong-vat/dv-vit-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-tho",
+          "title": "Thỏ",
+          "teach": "Đây là con Thỏ. Thỏ có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Thỏ?",
+          "choices": [
+            "Thỏ",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Thỏ đỏ",
+              "img": "assets/explore/dong-vat/dv-tho-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Thỏ vàng",
+              "img": "assets/explore/dong-vat/dv-tho-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Thỏ xanh dương",
+              "img": "assets/explore/dong-vat/dv-tho-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Thỏ xanh lá",
+              "img": "assets/explore/dong-vat/dv-tho-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Thỏ cam",
+              "img": "assets/explore/dong-vat/dv-tho-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Thỏ tím",
+              "img": "assets/explore/dong-vat/dv-tho-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-ca",
+          "title": "Cá",
+          "teach": "Đây là con Cá. Cá có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Cá?",
+          "choices": [
+            "Cá",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Cá đỏ",
+              "img": "assets/explore/dong-vat/dv-ca-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Cá vàng",
+              "img": "assets/explore/dong-vat/dv-ca-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Cá xanh dương",
+              "img": "assets/explore/dong-vat/dv-ca-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Cá xanh lá",
+              "img": "assets/explore/dong-vat/dv-ca-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Cá cam",
+              "img": "assets/explore/dong-vat/dv-ca-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Cá tím",
+              "img": "assets/explore/dong-vat/dv-ca-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-chim",
+          "title": "Chim",
+          "teach": "Đây là con Chim. Chim có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Chim?",
+          "choices": [
+            "Chim",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Chim đỏ",
+              "img": "assets/explore/dong-vat/dv-chim-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Chim vàng",
+              "img": "assets/explore/dong-vat/dv-chim-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Chim xanh dương",
+              "img": "assets/explore/dong-vat/dv-chim-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Chim xanh lá",
+              "img": "assets/explore/dong-vat/dv-chim-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Chim cam",
+              "img": "assets/explore/dong-vat/dv-chim-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Chim tím",
+              "img": "assets/explore/dong-vat/dv-chim-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-ho",
+          "title": "Hổ",
+          "teach": "Đây là con Hổ. Hổ có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Hổ?",
+          "choices": [
+            "Hổ",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Hổ đỏ",
+              "img": "assets/explore/dong-vat/dv-ho-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Hổ vàng",
+              "img": "assets/explore/dong-vat/dv-ho-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Hổ xanh dương",
+              "img": "assets/explore/dong-vat/dv-ho-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Hổ xanh lá",
+              "img": "assets/explore/dong-vat/dv-ho-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Hổ cam",
+              "img": "assets/explore/dong-vat/dv-ho-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Hổ tím",
+              "img": "assets/explore/dong-vat/dv-ho-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-voi",
+          "title": "Voi",
+          "teach": "Đây là con Voi. Voi có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Voi?",
+          "choices": [
+            "Voi",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Voi đỏ",
+              "img": "assets/explore/dong-vat/dv-voi-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Voi vàng",
+              "img": "assets/explore/dong-vat/dv-voi-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Voi xanh dương",
+              "img": "assets/explore/dong-vat/dv-voi-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Voi xanh lá",
+              "img": "assets/explore/dong-vat/dv-voi-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Voi cam",
+              "img": "assets/explore/dong-vat/dv-voi-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Voi tím",
+              "img": "assets/explore/dong-vat/dv-voi-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dv-khi",
+          "title": "Khỉ",
+          "teach": "Đây là con Khỉ. Khỉ có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là con Khỉ?",
+          "choices": [
+            "Khỉ",
+            "Mèo"
+          ],
+          "explore": [
+            {
+              "label": "Khỉ đỏ",
+              "img": "assets/explore/dong-vat/dv-khi-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Khỉ vàng",
+              "img": "assets/explore/dong-vat/dv-khi-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Khỉ xanh dương",
+              "img": "assets/explore/dong-vat/dv-khi-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Khỉ xanh lá",
+              "img": "assets/explore/dong-vat/dv-khi-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Khỉ cam",
+              "img": "assets/explore/dong-vat/dv-khi-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Khỉ tím",
+              "img": "assets/explore/dong-vat/dv-khi-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trai-cay",
+      "title": "Vườn Trái Cây",
+      "n": 8,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 48,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 8,
+      "friendImg": 8,
+      "sampleIds": [
+        "tc-tao",
+        "tc-chuoi",
+        "tc-cam"
+      ],
+      "lessons": [
+        {
+          "id": "tc-tao",
+          "title": "Táo",
+          "teach": "Đây là quả Táo. Táo có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Táo?",
+          "choices": [
+            "Táo",
+            "Chuối"
+          ],
+          "explore": [
+            {
+              "label": "Táo đỏ",
+              "img": "assets/explore/trai-cay/tc-tao-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Táo vàng",
+              "img": "assets/explore/trai-cay/tc-tao-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Táo xanh dương",
+              "img": "assets/explore/trai-cay/tc-tao-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Táo xanh lá",
+              "img": "assets/explore/trai-cay/tc-tao-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Táo cam",
+              "img": "assets/explore/trai-cay/tc-tao-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Táo tím",
+              "img": "assets/explore/trai-cay/tc-tao-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "tc-chuoi",
+          "title": "Chuối",
+          "teach": "Đây là quả Chuối. Chuối có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Chuối?",
+          "choices": [
+            "Chuối",
+            "Táo"
+          ],
+          "explore": [
+            {
+              "label": "Chuối đỏ",
+              "img": "assets/explore/trai-cay/tc-chuoi-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Chuối vàng",
+              "img": "assets/explore/trai-cay/tc-chuoi-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Chuối xanh dương",
+              "img": "assets/explore/trai-cay/tc-chuoi-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Chuối xanh lá",
+              "img": "assets/explore/trai-cay/tc-chuoi-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Chuối cam",
+              "img": "assets/explore/trai-cay/tc-chuoi-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Chuối tím",
+              "img": "assets/explore/trai-cay/tc-chuoi-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "tc-cam",
+          "title": "Cam",
+          "teach": "Đây là quả Cam. Cam có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Cam?",
+          "choices": [
+            "Cam",
+            "Táo"
+          ],
+          "explore": [
+            {
+              "label": "Cam đỏ",
+              "img": "assets/explore/trai-cay/tc-cam-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Cam vàng",
+              "img": "assets/explore/trai-cay/tc-cam-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Cam xanh dương",
+              "img": "assets/explore/trai-cay/tc-cam-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Cam xanh lá",
+              "img": "assets/explore/trai-cay/tc-cam-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Cam cam",
+              "img": "assets/explore/trai-cay/tc-cam-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Cam tím",
+              "img": "assets/explore/trai-cay/tc-cam-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "tc-xoai",
+          "title": "Xoài",
+          "teach": "Đây là quả Xoài. Xoài có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Xoài?",
+          "choices": [
+            "Xoài",
+            "Táo"
+          ],
+          "explore": [
+            {
+              "label": "Xoài đỏ",
+              "img": "assets/explore/trai-cay/tc-xoai-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Xoài vàng",
+              "img": "assets/explore/trai-cay/tc-xoai-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Xoài xanh dương",
+              "img": "assets/explore/trai-cay/tc-xoai-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Xoài xanh lá",
+              "img": "assets/explore/trai-cay/tc-xoai-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Xoài cam",
+              "img": "assets/explore/trai-cay/tc-xoai-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Xoài tím",
+              "img": "assets/explore/trai-cay/tc-xoai-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "tc-dua-hau",
+          "title": "Dưa hấu",
+          "teach": "Đây là quả Dưa hấu. Dưa hấu có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Dưa hấu?",
+          "choices": [
+            "Dưa hấu",
+            "Táo"
+          ],
+          "explore": [
+            {
+              "label": "Dưa hấu đỏ",
+              "img": "assets/explore/trai-cay/tc-dua-hau-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Dưa hấu vàng",
+              "img": "assets/explore/trai-cay/tc-dua-hau-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Dưa hấu xanh dương",
+              "img": "assets/explore/trai-cay/tc-dua-hau-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Dưa hấu xanh lá",
+              "img": "assets/explore/trai-cay/tc-dua-hau-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Dưa hấu cam",
+              "img": "assets/explore/trai-cay/tc-dua-hau-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Dưa hấu tím",
+              "img": "assets/explore/trai-cay/tc-dua-hau-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "tc-nho",
+          "title": "Nho",
+          "teach": "Đây là quả Nho. Nho có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Nho?",
+          "choices": [
+            "Nho",
+            "Táo"
+          ],
+          "explore": [
+            {
+              "label": "Nho đỏ",
+              "img": "assets/explore/trai-cay/tc-nho-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Nho vàng",
+              "img": "assets/explore/trai-cay/tc-nho-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Nho xanh dương",
+              "img": "assets/explore/trai-cay/tc-nho-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Nho xanh lá",
+              "img": "assets/explore/trai-cay/tc-nho-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Nho cam",
+              "img": "assets/explore/trai-cay/tc-nho-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Nho tím",
+              "img": "assets/explore/trai-cay/tc-nho-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "tc-dau",
+          "title": "Dâu",
+          "teach": "Đây là quả Dâu. Dâu có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Dâu?",
+          "choices": [
+            "Dâu",
+            "Táo"
+          ],
+          "explore": [
+            {
+              "label": "Dâu đỏ",
+              "img": "assets/explore/trai-cay/tc-dau-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Dâu vàng",
+              "img": "assets/explore/trai-cay/tc-dau-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Dâu xanh dương",
+              "img": "assets/explore/trai-cay/tc-dau-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Dâu xanh lá",
+              "img": "assets/explore/trai-cay/tc-dau-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Dâu cam",
+              "img": "assets/explore/trai-cay/tc-dau-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Dâu tím",
+              "img": "assets/explore/trai-cay/tc-dau-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "tc-dua",
+          "title": "Dừa",
+          "teach": "Đây là quả Dừa. Dừa có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là quả Dừa?",
+          "choices": [
+            "Dừa",
+            "Táo"
+          ],
+          "explore": [
+            {
+              "label": "Dừa đỏ",
+              "img": "assets/explore/trai-cay/tc-dua-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Dừa vàng",
+              "img": "assets/explore/trai-cay/tc-dua-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Dừa xanh dương",
+              "img": "assets/explore/trai-cay/tc-dua-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Dừa xanh lá",
+              "img": "assets/explore/trai-cay/tc-dua-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Dừa cam",
+              "img": "assets/explore/trai-cay/tc-dua-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Dừa tím",
+              "img": "assets/explore/trai-cay/tc-dua-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "do-vat",
+      "title": "Nhà Đồ Vật",
+      "n": 12,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 72,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 12,
+      "friendImg": 12,
+      "sampleIds": [
+        "dvat-bong",
+        "dvat-sach",
+        "dvat-coc"
+      ],
+      "lessons": [
+        {
+          "id": "dvat-bong",
+          "title": "Bóng",
+          "teach": "Đây là Bóng. Bóng có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Bóng?",
+          "choices": [
+            "Bóng",
+            "Sách"
+          ],
+          "explore": [
+            {
+              "label": "Bóng đỏ",
+              "img": "assets/explore/do-vat/dvat-bong-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Bóng vàng",
+              "img": "assets/explore/do-vat/dvat-bong-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Bóng xanh dương",
+              "img": "assets/explore/do-vat/dvat-bong-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Bóng xanh lá",
+              "img": "assets/explore/do-vat/dvat-bong-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Bóng cam",
+              "img": "assets/explore/do-vat/dvat-bong-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Bóng tím",
+              "img": "assets/explore/do-vat/dvat-bong-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-sach",
+          "title": "Sách",
+          "teach": "Đây là Sách. Sách có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Sách?",
+          "choices": [
+            "Sách",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Sách đỏ",
+              "img": "assets/explore/do-vat/dvat-sach-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Sách vàng",
+              "img": "assets/explore/do-vat/dvat-sach-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Sách xanh dương",
+              "img": "assets/explore/do-vat/dvat-sach-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Sách xanh lá",
+              "img": "assets/explore/do-vat/dvat-sach-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Sách cam",
+              "img": "assets/explore/do-vat/dvat-sach-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Sách tím",
+              "img": "assets/explore/do-vat/dvat-sach-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-coc",
+          "title": "Cốc",
+          "teach": "Đây là Cốc. Cốc có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Cốc?",
+          "choices": [
+            "Cốc",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Cốc đỏ",
+              "img": "assets/explore/do-vat/dvat-coc-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Cốc vàng",
+              "img": "assets/explore/do-vat/dvat-coc-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Cốc xanh dương",
+              "img": "assets/explore/do-vat/dvat-coc-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Cốc xanh lá",
+              "img": "assets/explore/do-vat/dvat-coc-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Cốc cam",
+              "img": "assets/explore/do-vat/dvat-coc-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Cốc tím",
+              "img": "assets/explore/do-vat/dvat-coc-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-thia",
+          "title": "Thìa",
+          "teach": "Đây là Thìa. Thìa có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Thìa?",
+          "choices": [
+            "Thìa",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Thìa đỏ",
+              "img": "assets/explore/do-vat/dvat-thia-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Thìa vàng",
+              "img": "assets/explore/do-vat/dvat-thia-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Thìa xanh dương",
+              "img": "assets/explore/do-vat/dvat-thia-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Thìa xanh lá",
+              "img": "assets/explore/do-vat/dvat-thia-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Thìa cam",
+              "img": "assets/explore/do-vat/dvat-thia-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Thìa tím",
+              "img": "assets/explore/do-vat/dvat-thia-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-mu",
+          "title": "Mũ",
+          "teach": "Đây là Mũ. Mũ có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Mũ?",
+          "choices": [
+            "Mũ",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Mũ đỏ",
+              "img": "assets/explore/do-vat/dvat-mu-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Mũ vàng",
+              "img": "assets/explore/do-vat/dvat-mu-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Mũ xanh dương",
+              "img": "assets/explore/do-vat/dvat-mu-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Mũ xanh lá",
+              "img": "assets/explore/do-vat/dvat-mu-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Mũ cam",
+              "img": "assets/explore/do-vat/dvat-mu-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Mũ tím",
+              "img": "assets/explore/do-vat/dvat-mu-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-giay",
+          "title": "Giày",
+          "teach": "Đây là Giày. Giày có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Giày?",
+          "choices": [
+            "Giày",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Giày đỏ",
+              "img": "assets/explore/do-vat/dvat-giay-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Giày vàng",
+              "img": "assets/explore/do-vat/dvat-giay-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Giày xanh dương",
+              "img": "assets/explore/do-vat/dvat-giay-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Giày xanh lá",
+              "img": "assets/explore/do-vat/dvat-giay-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Giày cam",
+              "img": "assets/explore/do-vat/dvat-giay-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Giày tím",
+              "img": "assets/explore/do-vat/dvat-giay-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-xe-hoi",
+          "title": "Xe hơi",
+          "teach": "Đây là Xe hơi. Xe hơi có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Xe hơi?",
+          "choices": [
+            "Xe hơi",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Xe hơi đỏ",
+              "img": "assets/explore/do-vat/dvat-xe-hoi-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Xe hơi vàng",
+              "img": "assets/explore/do-vat/dvat-xe-hoi-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Xe hơi xanh dương",
+              "img": "assets/explore/do-vat/dvat-xe-hoi-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Xe hơi xanh lá",
+              "img": "assets/explore/do-vat/dvat-xe-hoi-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Xe hơi cam",
+              "img": "assets/explore/do-vat/dvat-xe-hoi-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Xe hơi tím",
+              "img": "assets/explore/do-vat/dvat-xe-hoi-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-xe-dap",
+          "title": "Xe đạp",
+          "teach": "Đây là Xe đạp. Xe đạp có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Xe đạp?",
+          "choices": [
+            "Xe đạp",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Xe đạp đỏ",
+              "img": "assets/explore/do-vat/dvat-xe-dap-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Xe đạp vàng",
+              "img": "assets/explore/do-vat/dvat-xe-dap-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Xe đạp xanh dương",
+              "img": "assets/explore/do-vat/dvat-xe-dap-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Xe đạp xanh lá",
+              "img": "assets/explore/do-vat/dvat-xe-dap-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Xe đạp cam",
+              "img": "assets/explore/do-vat/dvat-xe-dap-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Xe đạp tím",
+              "img": "assets/explore/do-vat/dvat-xe-dap-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-tui",
+          "title": "Túi",
+          "teach": "Đây là Túi. Túi có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Túi?",
+          "choices": [
+            "Túi",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Túi đỏ",
+              "img": "assets/explore/do-vat/dvat-tui-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Túi vàng",
+              "img": "assets/explore/do-vat/dvat-tui-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Túi xanh dương",
+              "img": "assets/explore/do-vat/dvat-tui-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Túi xanh lá",
+              "img": "assets/explore/do-vat/dvat-tui-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Túi cam",
+              "img": "assets/explore/do-vat/dvat-tui-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Túi tím",
+              "img": "assets/explore/do-vat/dvat-tui-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-ghe",
+          "title": "Ghế",
+          "teach": "Đây là Ghế. Ghế có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Ghế?",
+          "choices": [
+            "Ghế",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Ghế đỏ",
+              "img": "assets/explore/do-vat/dvat-ghe-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Ghế vàng",
+              "img": "assets/explore/do-vat/dvat-ghe-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Ghế xanh dương",
+              "img": "assets/explore/do-vat/dvat-ghe-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Ghế xanh lá",
+              "img": "assets/explore/do-vat/dvat-ghe-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Ghế cam",
+              "img": "assets/explore/do-vat/dvat-ghe-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Ghế tím",
+              "img": "assets/explore/do-vat/dvat-ghe-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-giuong",
+          "title": "Giường",
+          "teach": "Đây là Giường. Giường có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Giường?",
+          "choices": [
+            "Giường",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Giường đỏ",
+              "img": "assets/explore/do-vat/dvat-giuong-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Giường vàng",
+              "img": "assets/explore/do-vat/dvat-giuong-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Giường xanh dương",
+              "img": "assets/explore/do-vat/dvat-giuong-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Giường xanh lá",
+              "img": "assets/explore/do-vat/dvat-giuong-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Giường cam",
+              "img": "assets/explore/do-vat/dvat-giuong-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Giường tím",
+              "img": "assets/explore/do-vat/dvat-giuong-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "dvat-ban-chai",
+          "title": "Bàn chải",
+          "teach": "Đây là Bàn chải. Bàn chải có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Bàn chải?",
+          "choices": [
+            "Bàn chải",
+            "Bóng"
+          ],
+          "explore": [
+            {
+              "label": "Bàn chải đỏ",
+              "img": "assets/explore/do-vat/dvat-ban-chai-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Bàn chải vàng",
+              "img": "assets/explore/do-vat/dvat-ban-chai-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Bàn chải xanh dương",
+              "img": "assets/explore/do-vat/dvat-ban-chai-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Bàn chải xanh lá",
+              "img": "assets/explore/do-vat/dvat-ban-chai-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Bàn chải cam",
+              "img": "assets/explore/do-vat/dvat-ban-chai-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Bàn chải tím",
+              "img": "assets/explore/do-vat/dvat-ban-chai-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-xuc",
+      "title": "Góc Cảm Xúc",
+      "n": 6,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 0,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 6,
+      "friendImg": 6,
+      "sampleIds": [
+        "cx-vui",
+        "cx-buon",
+        "cx-ngac-nhien"
+      ],
+      "lessons": [
+        {
+          "id": "cx-vui",
+          "title": "Vui",
+          "teach": "Đây là mặt Vui. Bé vui thì cười!",
+          "gate": "Mặt nào đang Vui?",
+          "choices": [
+            "Vui",
+            "Buồn"
+          ],
+          "explore": [
+            {
+              "label": "Mặt vui",
+              "img": "assets/explore/ai/cx-vui.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Cười",
+              "img": "assets/explore/ai/cx-vui.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói vui",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "cx-buon",
+          "title": "Buồn",
+          "teach": "Đây là mặt Buồn. Buồn có nước mắt.",
+          "gate": "Mặt nào đang Buồn?",
+          "choices": [
+            "Buồn",
+            "Vui"
+          ],
+          "explore": [
+            {
+              "label": "Mặt buồn",
+              "img": "assets/explore/ai/cx-buon.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nước mắt",
+              "img": "assets/explore/ai/cx-buon.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói buồn",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "cx-ngac-nhien",
+          "title": "Ngạc nhiên",
+          "teach": "Đây là mặt Ngạc nhiên. Miệng tròn Ồ!",
+          "gate": "Mặt nào đang Ngạc nhiên?",
+          "choices": [
+            "Ngạc nhiên",
+            "Vui"
+          ],
+          "explore": [
+            {
+              "label": "Mặt ngạc nhiên",
+              "img": "assets/explore/ai/cx-ngac-nhien.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Ồ!",
+              "img": "assets/explore/ai/cx-ngac-nhien.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói Ồ",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "cx-yeu-thuong",
+          "title": "Yêu thương",
+          "teach": "Đây là mặt Yêu thương. Có trái tim ấm áp!",
+          "gate": "Mặt nào đang Yêu thương?",
+          "choices": [
+            "Yêu thương",
+            "Buồn"
+          ],
+          "explore": [
+            {
+              "label": "Mặt yêu thương",
+              "img": "assets/explore/ai/cx-yeu-thuong.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Trái tim",
+              "img": "assets/explore/ai/cx-yeu-thuong.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói yêu",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "cx-gian-nhe",
+          "title": "Giận nhẹ",
+          "teach": "Đây là mặt Giận nhẹ. Hơi giận, rồi hết!",
+          "gate": "Mặt nào đang Giận nhẹ?",
+          "choices": [
+            "Giận nhẹ",
+            "Vui"
+          ],
+          "explore": [
+            {
+              "label": "Mặt giận nhẹ",
+              "img": "assets/explore/ai/cx-gian-nhe.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hơi giận",
+              "img": "assets/explore/ai/cx-gian-nhe.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói giận",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "cx-met",
+          "title": "Mệt",
+          "teach": "Đây là mặt Mệt. Mệt thì muốn ngủ!",
+          "gate": "Mặt nào đang Mệt?",
+          "choices": [
+            "Mệt",
+            "Vui"
+          ],
+          "explore": [
+            {
+              "label": "Mặt mệt",
+              "img": "assets/explore/ai/cx-met.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Ngáp",
+              "img": "assets/explore/ai/cx-met.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói mệt",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phuong-tien",
+      "title": "Bến Phương Tiện",
+      "n": 6,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 36,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 6,
+      "friendImg": 6,
+      "sampleIds": [
+        "pt-xe-buyt",
+        "pt-may-bay",
+        "pt-tau-lua"
+      ],
+      "lessons": [
+        {
+          "id": "pt-xe-buyt",
+          "title": "Xe buýt",
+          "teach": "Đây là Xe buýt. Xe buýt có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Xe buýt?",
+          "choices": [
+            "Xe buýt",
+            "Máy bay"
+          ],
+          "explore": [
+            {
+              "label": "Xe buýt đỏ",
+              "img": "assets/explore/phuong-tien/pt-xe-buyt-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Xe buýt vàng",
+              "img": "assets/explore/phuong-tien/pt-xe-buyt-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Xe buýt xanh dương",
+              "img": "assets/explore/phuong-tien/pt-xe-buyt-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Xe buýt xanh lá",
+              "img": "assets/explore/phuong-tien/pt-xe-buyt-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Xe buýt cam",
+              "img": "assets/explore/phuong-tien/pt-xe-buyt-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Xe buýt tím",
+              "img": "assets/explore/phuong-tien/pt-xe-buyt-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "pt-may-bay",
+          "title": "Máy bay",
+          "teach": "Đây là Máy bay. Máy bay có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Máy bay?",
+          "choices": [
+            "Máy bay",
+            "Xe buýt"
+          ],
+          "explore": [
+            {
+              "label": "Máy bay đỏ",
+              "img": "assets/explore/phuong-tien/pt-may-bay-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Máy bay vàng",
+              "img": "assets/explore/phuong-tien/pt-may-bay-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Máy bay xanh dương",
+              "img": "assets/explore/phuong-tien/pt-may-bay-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Máy bay xanh lá",
+              "img": "assets/explore/phuong-tien/pt-may-bay-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Máy bay cam",
+              "img": "assets/explore/phuong-tien/pt-may-bay-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Máy bay tím",
+              "img": "assets/explore/phuong-tien/pt-may-bay-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "pt-tau-lua",
+          "title": "Tàu lửa",
+          "teach": "Đây là Tàu lửa. Tàu lửa có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Tàu lửa?",
+          "choices": [
+            "Tàu lửa",
+            "Xe buýt"
+          ],
+          "explore": [
+            {
+              "label": "Tàu lửa đỏ",
+              "img": "assets/explore/phuong-tien/pt-tau-lua-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Tàu lửa vàng",
+              "img": "assets/explore/phuong-tien/pt-tau-lua-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Tàu lửa xanh dương",
+              "img": "assets/explore/phuong-tien/pt-tau-lua-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Tàu lửa xanh lá",
+              "img": "assets/explore/phuong-tien/pt-tau-lua-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Tàu lửa cam",
+              "img": "assets/explore/phuong-tien/pt-tau-lua-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Tàu lửa tím",
+              "img": "assets/explore/phuong-tien/pt-tau-lua-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "pt-thuyen",
+          "title": "Thuyền",
+          "teach": "Đây là Thuyền. Thuyền có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Thuyền?",
+          "choices": [
+            "Thuyền",
+            "Xe buýt"
+          ],
+          "explore": [
+            {
+              "label": "Thuyền đỏ",
+              "img": "assets/explore/phuong-tien/pt-thuyen-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Thuyền vàng",
+              "img": "assets/explore/phuong-tien/pt-thuyen-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Thuyền xanh dương",
+              "img": "assets/explore/phuong-tien/pt-thuyen-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Thuyền xanh lá",
+              "img": "assets/explore/phuong-tien/pt-thuyen-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Thuyền cam",
+              "img": "assets/explore/phuong-tien/pt-thuyen-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Thuyền tím",
+              "img": "assets/explore/phuong-tien/pt-thuyen-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "pt-xe-may",
+          "title": "Xe máy",
+          "teach": "Đây là Xe máy. Xe máy có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Xe máy?",
+          "choices": [
+            "Xe máy",
+            "Xe buýt"
+          ],
+          "explore": [
+            {
+              "label": "Xe máy đỏ",
+              "img": "assets/explore/phuong-tien/pt-xe-may-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Xe máy vàng",
+              "img": "assets/explore/phuong-tien/pt-xe-may-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Xe máy xanh dương",
+              "img": "assets/explore/phuong-tien/pt-xe-may-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Xe máy xanh lá",
+              "img": "assets/explore/phuong-tien/pt-xe-may-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Xe máy cam",
+              "img": "assets/explore/phuong-tien/pt-xe-may-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Xe máy tím",
+              "img": "assets/explore/phuong-tien/pt-xe-may-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "pt-truc-thang",
+          "title": "Trực thăng",
+          "teach": "Đây là Trực thăng. Trực thăng có nhiều màu! Bé nhìn nào!",
+          "gate": "Đâu là Trực thăng?",
+          "choices": [
+            "Trực thăng",
+            "Xe buýt"
+          ],
+          "explore": [
+            {
+              "label": "Trực thăng đỏ",
+              "img": "assets/explore/phuong-tien/pt-truc-thang-do.jpg",
+              "colorId": "do",
+              "imgOk": true
+            },
+            {
+              "label": "Trực thăng vàng",
+              "img": "assets/explore/phuong-tien/pt-truc-thang-vang.jpg",
+              "colorId": "vang",
+              "imgOk": true
+            },
+            {
+              "label": "Trực thăng xanh dương",
+              "img": "assets/explore/phuong-tien/pt-truc-thang-xanh-duong.jpg",
+              "colorId": "xanh-duong",
+              "imgOk": true
+            },
+            {
+              "label": "Trực thăng xanh lá",
+              "img": "assets/explore/phuong-tien/pt-truc-thang-xanh-la.jpg",
+              "colorId": "xanh-la",
+              "imgOk": true
+            },
+            {
+              "label": "Trực thăng cam",
+              "img": "assets/explore/phuong-tien/pt-truc-thang-cam.jpg",
+              "colorId": "cam",
+              "imgOk": true
+            },
+            {
+              "label": "Trực thăng tím",
+              "img": "assets/explore/phuong-tien/pt-truc-thang-tim.jpg",
+              "colorId": "tim",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nhay-mua",
+      "title": "Sân Nhảy Múa",
+      "n": 6,
+      "missingImg": 0,
+      "filler": 0,
+      "colorExplore": 0,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 6,
+      "friendImg": 6,
+      "sampleIds": [
+        "nm-vo-tay",
+        "nm-nhun-chan",
+        "nm-xoay-tron"
+      ],
+      "lessons": [
+        {
+          "id": "nm-vo-tay",
+          "title": "Vỗ tay",
+          "teach": "Bé vỗ tay nào!",
+          "gate": "Đâu là vỗ tay?",
+          "choices": [
+            "Vỗ tay",
+            "Nhún chân"
+          ],
+          "explore": [
+            {
+              "label": "Vỗ tay",
+              "img": "assets/explore/ai/nm-vo-tay.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hai tay",
+              "img": "assets/explore/ai/nm-vo-tay.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói vỗ tay",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "nm-nhun-chan",
+          "title": "Nhún chân",
+          "teach": "Bé nhún chân nhẹ nào!",
+          "gate": "Đâu là nhún chân?",
+          "choices": [
+            "Nhún chân",
+            "Vỗ tay"
+          ],
+          "explore": [
+            {
+              "label": "Nhún chân",
+              "img": "assets/explore/ai/nm-nhun-chan.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Chân nhún",
+              "img": "assets/explore/ai/nm-nhun-chan.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói nhún chân",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "nm-xoay-tron",
+          "title": "Xoay tròn",
+          "teach": "Bé xoay tròn nhẹ nào!",
+          "gate": "Đâu là xoay tròn?",
+          "choices": [
+            "Xoay tròn",
+            "Vỗ tay"
+          ],
+          "explore": [
+            {
+              "label": "Xoay tròn",
+              "img": "assets/explore/ai/nm-xoay-tron.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Quay vòng",
+              "img": "assets/explore/ai/nm-xoay-tron.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói xoay tròn",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "nm-gio-tay-cao",
+          "title": "Giơ tay",
+          "teach": "Bé giơ tay cao nào!",
+          "gate": "Đâu là giơ tay cao?",
+          "choices": [
+            "Giơ tay",
+            "Vỗ tay"
+          ],
+          "explore": [
+            {
+              "label": "Giơ tay",
+              "img": "assets/explore/ai/nm-gio-tay-cao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Tay cao",
+              "img": "assets/explore/ai/nm-gio-tay-cao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói giơ tay",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "nm-nhay-nhe",
+          "title": "Nhảy nhẹ",
+          "teach": "Bé nhảy nhẹ như thỏ nào!",
+          "gate": "Đâu là nhảy nhẹ?",
+          "choices": [
+            "Nhảy nhẹ",
+            "Vỗ tay"
+          ],
+          "explore": [
+            {
+              "label": "Nhảy nhẹ",
+              "img": "assets/explore/ai/nm-nhay-nhe.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nhảy như thỏ",
+              "img": "assets/explore/ai/nm-nhay-nhe.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói nhảy nhẹ",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "nm-lac-lu",
+          "title": "Lắc lư",
+          "teach": "Bé lắc lư vui nào!",
+          "gate": "Đâu là lắc lư?",
+          "choices": [
+            "Lắc lư",
+            "Vỗ tay"
+          ],
+          "explore": [
+            {
+              "label": "Lắc lư",
+              "img": "assets/explore/ai/nm-lac-lu.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Lắc người",
+              "img": "assets/explore/ai/nm-lac-lu.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói lắc lư",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoa-si",
+      "title": "Góc Họa Sĩ",
+      "n": 6,
+      "missingImg": 0,
+      "filler": 2,
+      "colorExplore": 0,
+      "countItems": 0,
+      "countOk": 0,
+      "mapImg": 6,
+      "friendImg": 6,
+      "sampleIds": [
+        "hs-to-do",
+        "hs-to-vang",
+        "hs-ve-vong-tron"
+      ],
+      "lessons": [
+        {
+          "id": "hs-to-do",
+          "title": "Tô đỏ",
+          "teach": "Bé tô màu đỏ nào!",
+          "gate": "Đâu là tô màu đỏ?",
+          "choices": [
+            "Tô đỏ",
+            "Tô vàng"
+          ],
+          "explore": [
+            {
+              "label": "Tô đỏ",
+              "img": "assets/explore/ai/hs-to-do.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Màu đỏ",
+              "img": "assets/explore/ai/hs-to-do.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói tô đỏ",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hs-to-vang",
+          "title": "Tô vàng",
+          "teach": "Bé tô màu vàng nào!",
+          "gate": "Đâu là tô màu vàng?",
+          "choices": [
+            "Tô vàng",
+            "Tô đỏ"
+          ],
+          "explore": [
+            {
+              "label": "Tô vàng",
+              "img": "assets/explore/ai/hs-to-vang.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Màu vàng",
+              "img": "assets/explore/ai/hs-to-vang.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói tô vàng",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hs-ve-vong-tron",
+          "title": "Vẽ tròn",
+          "teach": "Bé vẽ hình tròn nào!",
+          "gate": "Đâu là vẽ hình tròn?",
+          "choices": [
+            "Vẽ tròn",
+            "Tô đỏ"
+          ],
+          "explore": [
+            {
+              "label": "Vẽ tròn",
+              "img": "assets/explore/ai/hs-ve-vong-tron.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Hình tròn",
+              "img": "assets/explore/ai/hs-ve-vong-tron.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói vẽ tròn",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hs-go-trong",
+          "title": "Gõ trống",
+          "teach": "Bé gõ trống vui nào!",
+          "gate": "Đâu là gõ trống?",
+          "choices": [
+            "Gõ trống",
+            "Tô đỏ"
+          ],
+          "explore": [
+            {
+              "label": "Gõ trống",
+              "img": "assets/explore/ai/hs-go-trong.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Trống",
+              "img": "assets/explore/ai/hs-go-trong.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói gõ trống",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hs-nghe-sao",
+          "title": "Bảng màu",
+          "teach": "Đây là bảng màu. Bé nhìn màu nào!",
+          "gate": "Đâu là bảng màu?",
+          "choices": [
+            "Bảng màu",
+            "Trống"
+          ],
+          "explore": [
+            {
+              "label": "Bảng màu",
+              "img": "assets/explore/ai/hs-nghe-sao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Cọ vẽ",
+              "img": "assets/explore/ai/hs-nghe-sao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói bảng màu",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        },
+        {
+          "id": "hs-dan-sao",
+          "title": "Dán sao",
+          "teach": "Bé dán ngôi sao nào!",
+          "gate": "Đâu là dán sao?",
+          "choices": [
+            "Dán sao",
+            "Tô đỏ"
+          ],
+          "explore": [
+            {
+              "label": "Dán sao",
+              "img": "assets/explore/ai/hs-dan-sao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Ngôi sao",
+              "img": "assets/explore/ai/hs-dan-sao.jpg",
+              "imgOk": true
+            },
+            {
+              "label": "Nói dán sao",
+              "img": "assets/explore/ai/shared-nghe.jpg",
+              "imgOk": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

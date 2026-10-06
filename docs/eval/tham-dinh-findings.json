@@ -1,0 +1,220 @@
+{
+  "generated": "2026-10-05T09:19:29.433Z",
+  "lessonsJsonMtime": "2026-10-05T09:04:22.758Z",
+  "findings": [
+    {
+      "level": 3,
+      "topicId": "mau",
+      "lessonId": "mau-vang",
+      "msg": "Hoa mai dùng emoji cúc trắng — che chữ dễ lẫn; nên SVG hoa mai vàng",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "mau",
+      "lessonId": "mau-vang",
+      "msg": "Xoài chín emoji đỏ-cam — đúng quả, ít gợi ý vàng thuần",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "dong-vat",
+      "lessonId": "dv-vit",
+      "msg": "Vịt trời emoji — OK bài động vật; có thể dùng vit-con-vang.svg thống nhất",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "?",
+      "lessonId": "chu-ab",
+      "msg": "Hang Chữ: cơm 🍚 không gắn Â — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "?",
+      "lessonId": "chu-ac",
+      "msg": "Hang Chữ: cà phê ☕ không gắn Â — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "?",
+      "lessonId": "chu-dd",
+      "msg": "Hang Chữ: bóng đèn 💡 không gắn Đ — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "chu",
+      "lessonId": "chu-e",
+      "msg": "Hang Chữ: em bé 👶 không gắn E — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "?",
+      "lessonId": "chu-ec",
+      "msg": "Hang Chữ: giường 🛏️ không gắn Ê — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "chu",
+      "lessonId": "chu-i",
+      "msg": "Hang Chữ: giấy 📄 không gắn I — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "?",
+      "lessonId": "chu-om",
+      "msg": "Hang Chữ: xe 🚗 không gắn Ô — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "?",
+      "lessonId": "chu-ox",
+      "msg": "Hang Chữ: ngạc nhiên 😮 không gắn Ơ — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "chu",
+      "lessonId": "chu-q",
+      "msg": "Hang Chữ: quạt 🪭 hiếm — trẻ khó đoán Q — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    },
+    {
+      "level": 3,
+      "topicId": "?",
+      "lessonId": "chu-uw",
+      "msg": "Hang Chữ: gương 🪞 không gắn Ư — nên thêm SVG chữ lớn",
+      "seat": "ND-VIS"
+    }
+  ],
+  "scores": [
+    {
+      "topicId": "mau",
+      "lessons": 8,
+      "m1": 0,
+      "m2": 0,
+      "m3": 2,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "hinh",
+      "lessons": 7,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "so",
+      "lessons": 10,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "chu",
+      "lessons": 26,
+      "m1": 0,
+      "m2": 0,
+      "m3": 3,
+      "peda": 2,
+      "vis": 2,
+      "curr": 2,
+      "avg": "2.0"
+    },
+    {
+      "topicId": "dong-vat",
+      "lessons": 12,
+      "m1": 0,
+      "m2": 0,
+      "m3": 1,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "trai-cay",
+      "lessons": 8,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "do-vat",
+      "lessons": 12,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "cam-xuc",
+      "lessons": 6,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "phuong-tien",
+      "lessons": 6,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "nhay-mua",
+      "lessons": 6,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    },
+    {
+      "topicId": "hoa-si",
+      "lessons": 6,
+      "m1": 0,
+      "m2": 0,
+      "m3": 0,
+      "peda": 3,
+      "vis": 2,
+      "curr": 3,
+      "avg": "2.7"
+    }
+  ]
+}

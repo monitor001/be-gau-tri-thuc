@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "lang": "vi-VN",
+    "defaultRate": 0.8,
+    "defaultPitch": 1.1,
+    "notes": "Script TTS sẵn cho Bé Gấu. Câu ngắn, 1 ý/câu. priority: critical | high | normal."
+  },
+  "entries": [
+    {
+      "id": "home.intro.1",
+      "text": "Ồ! Các ngôi sao đi chơi lạc rồi.",
+      "rate": 0.8,
+      "priority": "normal"
+    },
+    {
+      "id": "home.intro.2",
+      "text": "Đừng sợ nhé — bé Gấu sẽ tìm các bạn!",
+      "rate": 0.8,
+      "priority": "normal"
+    },
+    {
+      "id": "home.intro.3",
+      "text": "Đom Đóm Lấp dẫn đường, Sóc Bản Đồ giữ bản đồ.",
+      "rate": 0.8,
+      "priority": "normal"
+    },
+    {
+      "id": "home.intro.4",
+      "text": "Cùng nắm tay, bắt đầu hành trình dịu dàng nào!",
+      "rate": 0.8,
+      "priority": "normal"
+    },
+    {
+      "id": "map.welcome",
+      "text": "Bản đồ tri thức đây rồi! Bé chọn một vùng nào!",
+      "rate": 0.8,
+      "priority": "high"
+    },
+    {
+      "id": "region.enter.rung-mau-sac",
+      "text": "Vào Rừng Màu Sắc! Cùng tìm màu với bé Gấu nhé!",
+      "rate": 0.8,
+      "priority": "high"
+    },
+    {
+      "id": "region.enter.doi-hinh-khoi",
+      "text": "Lên Đồi Hình Khối! Tròn, vuông, tam giác đây rồi!",
+      "rate": 0.8,
+      "priority": "high"
+    },
+    {
+      "id": "region.enter.suoi-dem-so",
+      "text": "Ra Suối Đếm Số! Cùng đếm chậm với bé Gấu nào!",
+      "rate": 0.8,
+      "priority": "high"
+    },
+    {
+      "id": "region.enter.hang-chu-cai",
+      "text": "Vào Hang Chữ Cái ấm áp! Chào các chữ cái!",
+      "rate": 0.8,
+      "priority": "high"
+    },
+    {
+      "id": "region.enter.vuon-ban-be",
+      "text": "Tới Vườn Bạn Bè! Chào các bạn động vật!",
+      "rate": 0.8,
+      "priority": "high"
+    },
+    {
+      "id": "feedback.correct",
+      "text": "Đúng rồi! Bé giỏi lắm!",
+      "rate": 0.8,
+      "priority": "critical"
+    },
+    {
+      "id": "feedback.retry",
+      "text": "Thử lại cùng bé Gấu nhé!",
+      "rate": 0.8,
+      "priority": "critical"
+    },
+    {
+      "id": "feedback.hint",
+      "text": "Chạm vào đây nhé, bé Gấu chờ bé!",
+      "rate": 0.8,
+      "priority": "high"
+    },
+    {
+      "id": "feedback.win",
+      "text": "Yay! Ngôi sao tri thức đã về nhà!",
+      "rate": 0.8,
+      "priority": "critical"
+    },
+    {
+      "id": "ending.1",
+      "text": "Năm ngôi sao bay lên — bầu trời sáng lại rồi!",
+      "rate": 0.8,
+      "priority": "normal"
+    },
+    {
+      "id": "ending.2",
+      "text": "Tri thức không cần đánh nhau. Chỉ cần chơi cùng nhau!",
+      "rate": 0.8,
+      "priority": "normal"
+    },
+    {
+      "id": "ending.3",
+      "text": "Cảm ơn bé đã đi cùng bé Gấu. Mai mình chơi tiếp nhé!",
+      "rate": 0.8,
+      "priority": "normal"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "defaults": {
+    "hintAfterMs": 8000,
+    "maxDurationMs": 90000,
+    "failMode": "retry-soft",
+    "lives": null,
+    "countdown": false
+  },
+  "games": {
+    "color-tap": {
+      "id": "color-tap",
+      "region": "rung-mau-sac",
+      "titleVi": "Chạm màu cùng bé Gấu",
+      "input": "tap",
+      "levels": [
+        {
+          "id": "color-tap-01",
+          "ageBand": "2-3",
+          "promptVi": "Chạm quả bóng đỏ giúp bé Gấu nhé!",
+          "promptAudio": "sfx/prompt-mau-do.mp3",
+          "targetColor": "red",
+          "targetCount": 3,
+          "choices": [
+            { "id": "c1", "color": "red", "assetId": "ball-red", "labelVi": "Đỏ" },
+            { "id": "c2", "color": "yellow", "assetId": "ball-yellow", "labelVi": "Vàng" }
+          ],
+          "distractCount": 0,
+          "layout": "row-2",
+          "rewardStar": "star-color"
+        },
+        {
+          "id": "color-tap-02",
+          "ageBand": "2-3",
+          "promptVi": "Tìm lá vàng trên cây nào!",
+          "promptAudio": "sfx/prompt-mau-vang.mp3",
+          "targetColor": "yellow",
+          "targetCount": 3,
+          "choices": [
+            { "id": "c1", "color": "yellow", "assetId": "leaf-yellow", "labelVi": "Vàng" },
+            { "id": "c2", "color": "red", "assetId": "leaf-red", "labelVi": "Đỏ" },
+            { "id": "c3", "color": "blue", "assetId": "leaf-blue", "labelVi": "Xanh dương" }
+          ],
+          "distractCount": 1,
+          "layout": "row-3",
+          "rewardStar": "star-color"
+        },
+        {
+          "id": "color-tap-03",
+          "ageBand": "4-5",
+          "promptVi": "Ngôi sao xanh dương đang lạc — chạm đúng nhé!",
+          "promptAudio": "sfx/prompt-mau-xanh-duong.mp3",
+          "targetColor": "blue",
+          "targetCount": 5,
+          "choices": [
+            { "id": "c1", "color": "blue", "assetId": "star-blue", "labelVi": "Xanh dương" },
+            { "id": "c2", "color": "green", "assetId": "star-green", "labelVi": "Xanh lá" },
+            { "id": "c3", "color": "red", "assetId": "star-red", "labelVi": "Đỏ" },
+            { "id": "c4", "color": "orange", "assetId": "star-orange", "labelVi": "Cam" }
+          ],
+          "distractCount": 2,
+          "layout": "grid-2x2",
+          "nearColors": ["blue", "green"],
+          "rewardStar": "star-color"
+        }
+      ]
+    },
+    "shape-fit": {
+      "id": "shape-fit",
+      "region": "doi-hinh-khoi",
+      "titleVi": "Vá đường hình khối",
+      "input": "drag-or-tap-tap",
+      "levels": [
+        {
+          "id": "shape-fit-01",
+          "ageBand": "2-3",
+          "promptVi": "Kéo hình tròn vào lỗ tròn giúp bé Gấu!",
+          "promptAudio": "sfx/prompt-hinh-tron.mp3",
+          "pieces": [
+            { "id": "p1", "shape": "circle", "assetId": "piece-circle", "rotation": 0 },
+            { "id": "p2", "shape": "square", "assetId": "piece-square", "rotation": 0 }
+          ],
+          "slots": [
+            { "id": "s1", "shape": "circle", "assetId": "hole-circle" },
+            { "id": "s2", "shape": "square", "assetId": "hole-square" }
+          ],
+          "allowRotate": false,
+          "preferInput": "tap-tap",
+          "rewardStar": "star-shape"
+        },
+        {
+          "id": "shape-fit-02",
+          "ageBand": "4-5",
+          "promptVi": "Ba hình lạc đường — ghép đúng để mở lối lên đồi!",
+          "promptAudio": "sfx/prompt-hinh-ba.mp3",
+          "pieces": [
+            { "id": "p1", "shape": "circle", "assetId": "piece-circle", "rotation": 0 },
+            { "id": "p2", "shape": "square", "assetId": "piece-square", "rotation": 0 },
+            { "id": "p3", "shape": "triangle", "assetId": "piece-triangle", "rotation": 0 }
+          ],
+          "slots": [
+            { "id": "s1", "shape": "triangle", "assetId": "hole-triangle" },
+            { "id": "s2", "shape": "circle", "assetId": "hole-circle" },
+            { "id": "s3", "shape": "square", "assetId": "hole-square" }
+          ],
+          "allowRotate": false,
+          "preferInput": "drag",
+          "rewardStar": "star-shape"
+        }
+      ]
+    },
+    "count-together": {
+      "id": "count-together",
+      "region": "suoi-dem-so",
+      "titleVi": "Đếm cùng bé Gấu",
+      "input": "tap-count-then-pick",
+      "levels": [
+        {
+          "id": "count-together-01",
+          "ageBand": "2-3",
+          "promptVi": "Đếm quả táo rồi chọn số đúng nhé!",
+          "promptAudio": "sfx/prompt-dem-tao.mp3",
+          "items": [
+            { "id": "i1", "assetId": "apple" },
+            { "id": "i2", "assetId": "apple" },
+            { "id": "i3", "assetId": "apple" }
+          ],
+          "correctNumber": 3,
+          "numberChoices": [2, 3],
+          "requireTapEach": true,
+          "layout": "row",
+          "rewardStar": "star-count"
+        },
+        {
+          "id": "count-together-02",
+          "ageBand": "4-5",
+          "promptVi": "Suối có bao nhiêu viên sỏi sáng?",
+          "promptAudio": "sfx/prompt-dem-soi.mp3",
+          "items": [
+            { "id": "i1", "assetId": "pebble-glow" },
+            { "id": "i2", "assetId": "pebble-glow" },
+            { "id": "i3", "assetId": "pebble-glow" },
+            { "id": "i4", "assetId": "pebble-glow" },
+            { "id": "i5", "assetId": "pebble-glow" },
+            { "id": "i6", "assetId": "pebble-glow" },
+            { "id": "i7", "assetId": "pebble-glow" }
+          ],
+          "correctNumber": 7,
+          "numberChoices": [5, 6, 7, 8],
+          "requireTapEach": false,
+          "layout": "grid-2-row",
+          "rewardStar": "star-count"
+        }
+      ]
+    },
+    "letter-pick": {
+      "id": "letter-pick",
+      "region": "hang-chu-cai",
+      "titleVi": "Thắp đèn chữ cái",
+      "input": "tap",
+      "levels": [
+        {
+          "id": "letter-pick-01",
+          "ageBand": "2-3",
+          "promptVi": "Quả táo bắt đầu bằng chữ nào?",
+          "promptAudio": "sfx/prompt-chu-a.mp3",
+          "rounds": [
+            {
+              "id": "r1",
+              "imageAssetId": "img-tao",
+              "wordVi": "Táo",
+              "correctLetter": "A",
+              "choices": ["A", "B"]
+            },
+            {
+              "id": "r2",
+              "imageAssetId": "img-bong",
+              "wordVi": "Bóng",
+              "correctLetter": "B",
+              "choices": ["A", "B"]
+            }
+          ],
+          "case": "upper",
+          "rewardStar": "star-letter"
+        },
+        {
+          "id": "letter-pick-02",
+          "ageBand": "4-5",
+          "promptVi": "Chọn chữ cái đầu của tranh trong hang!",
+          "promptAudio": "sfx/prompt-chu-hang.mp3",
+          "rounds": [
+            {
+              "id": "r1",
+              "imageAssetId": "img-meo",
+              "wordVi": "Mèo",
+              "correctLetter": "M",
+              "choices": ["M", "N", "B"]
+            },
+            {
+              "id": "r2",
+              "imageAssetId": "img-ca",
+              "wordVi": "Cá",
+              "correctLetter": "C",
+              "choices": ["C", "O", "D"]
+            },
+            {
+              "id": "r3",
+              "imageAssetId": "img-ong",
+              "wordVi": "Ong",
+              "correctLetter": "O",
+              "choices": ["A", "O", "U", "C"]
+            }
+          ],
+          "case": "upper",
+          "rewardStar": "star-letter"
+        }
+      ]
+    },
+    "friend-match": {
+      "id": "friend-match",
+      "region": "vuon-ban-be",
+      "titleVi": "Đưa bạn về nhà",
+      "input": "drag-or-tap-tap",
+      "levels": [
+        {
+          "id": "friend-match-01",
+          "ageBand": "2-3",
+          "promptVi": "Đưa từng bạn về đúng nhà ấm nhé!",
+          "promptAudio": "sfx/prompt-ban-ve-nha.mp3",
+          "pairs": [
+            {
+              "id": "pair1",
+              "from": { "id": "dog", "assetId": "friend-dog", "labelVi": "Cún" },
+              "to": { "id": "kennel", "assetId": "home-kennel", "labelVi": "Nhà cún" }
+            },
+            {
+              "id": "pair2",
+              "from": { "id": "fish", "assetId": "friend-fish", "labelVi": "Cá" },
+              "to": { "id": "bowl", "assetId": "home-bowl", "labelVi": "Bể cá" }
+            }
+          ],
+          "extraTargets": [],
+          "theme": "animal-home",
+          "preferInput": "tap-tap",
+          "rewardStar": "star-friend"
+        },
+        {
+          "id": "friend-match-02",
+          "ageBand": "4-5",
+          "promptVi": "Ghép bạn với nhà hoặc cảm xúc phù hợp!",
+          "promptAudio": "sfx/prompt-ban-cam-xuc.mp3",
+          "pairs": [
+            {
+              "id": "pair1",
+              "from": { "id": "rabbit", "assetId": "friend-rabbit", "labelVi": "Thỏ" },
+              "to": { "id": "carrot-house", "assetId": "home-carrot", "labelVi": "Nhà cà rốt" }
+            },
+            {
+              "id": "pair2",
+              "from": { "id": "bird", "assetId": "friend-bird", "labelVi": "Chim" },
+              "to": { "id": "nest", "assetId": "home-nest", "labelVi": "Tổ chim" }
+            },
+            {
+              "id": "pair3",
+              "from": { "id": "face-sad", "assetId": "emo-sad", "labelVi": "Buồn" },
+              "to": { "id": "hug", "assetId": "emo-hug", "labelVi": "Ôm an ủi" }
+            }
+          ],
+          "extraTargets": [
+            { "id": "distractor-ball", "assetId": "home-ball", "labelVi": "Bóng (không dùng)" }
+          ],
+          "theme": "animal-home-emotion",
+          "preferInput": "drag",
+          "rewardStar": "star-friend"
+        }
+      ]
+    }
+  }
+}

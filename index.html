@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="theme-color" content="#7ec8e3" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+  <meta name="screen-orientation" content="landscape" />
+  <title>Bé Gấu Giải Cứu Tri Thức</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- HOME -->
+    <section id="screen-home" class="screen active">
+      <div class="sky"></div>
+      <div class="home-hero">
+        <p class="brand">Bé Gấu</p>
+        <h1>Giải Cứu Tri Thức</h1>
+        <p class="tagline">Mỗi màn một bài · Khám phá cùng trợ lý</p>
+        <div class="bear-stage" aria-hidden="true">
+          <div class="bear">
+            <div class="ear left"></div><div class="ear right"></div>
+            <div class="face">
+              <div class="eye left"></div><div class="eye right"></div>
+              <div class="nose"></div><div class="smile"></div>
+            </div>
+            <div class="hat"></div>
+          </div>
+          <div class="firefly"></div>
+        </div>
+        <div class="speech-row">
+          <p id="intro-line" class="speech">Mỗi bài học là một cuộc khám phá nhỏ!</p>
+          <button type="button" class="btn speak" data-speak="intro" aria-label="Nghe lại">🔊</button>
+        </div>
+        <p class="xu-badge home-xu">🪙 <span id="xu-home">0</span> Xu Gấu</p>
+        <div class="cta-row">
+          <button type="button" class="btn primary huge" id="btn-play">Khám phá nào!</button>
+          <button type="button" class="btn secondary" id="btn-shop-home">🎁 Đổi thưởng</button>
+        </div>
+        <button type="button" class="btn ghost" id="btn-parent">Người lớn</button>
+        <p id="home-voice-warn" class="home-voice-warn" role="status" hidden></p>
+      </div>
+    </section>
+
+    <!-- BẢN ĐỒ PHIÊU LƯU (giấy cổ + đảo) — bố cục cột, không absolute che nội dung -->
+    <section id="screen-topics" class="screen map-screen adventure-map-screen">
+      <header class="topbar map-topbar map-chrome">
+        <button type="button" class="btn icon" id="btn-topics-home" aria-label="Về nhà">⌂</button>
+        <h2 id="map-title">Bản đồ tri thức</h2>
+        <div class="map-top-right">
+          <button type="button" class="btn icon friends-fab" id="btn-friends-map" aria-label="Bạn bè đã cứu" title="Danh sách bạn bè">💛</button>
+          <p class="star-badge" id="stars-topics" title="Sao bài học">★ <span class="star-value">0</span></p>
+          <p class="xu-badge" id="xu-topics" title="Xu Gấu">🪙 <span class="xu-value">0</span></p>
+          <button type="button" class="btn icon parent-fab" id="btn-parent-map" aria-label="Người lớn" title="Người lớn cần trả lời câu hỏi">👤</button>
+        </div>
+      </header>
+      <div class="map-content" id="map-content">
+        <div class="map-viewport adventure-viewport" id="map-viewport" aria-label="Bản đồ tri thức">
+          <div class="map-world-bg adventure-bg" aria-hidden="true"></div>
+          <svg class="map-route-svg" id="map-route-svg" aria-hidden="true"></svg>
+          <div class="adv-board map-nodes-layer" id="map-nodes"></div>
+        </div>
+        <!-- Sóc Nhí nổi góc: nói xong rồi biến mất — không chiếm hàng ngang -->
+        <aside class="map-pop-npc" id="map-pop-npc" hidden aria-live="polite">
+          <button type="button" class="map-pop-figure" id="btn-map-pop" aria-label="Nghe Sóc Nhí">
+            <img src="assets/npc/soc.svg" alt="" class="map-pop-img" width="72" height="72" />
+            <span class="map-pop-name">Sóc Nhí</span>
+          </button>
+          <p class="map-pop-bubble" id="map-pop-bubble">Hôm nay bé muốn đi đâu nào?</p>
+        </aside>
+      </div>
+      <div id="npc-map-strip" class="npc-map-strip" hidden aria-hidden="true"></div>
+      <p id="map-prompt" class="sr-only">Hôm nay bé muốn đi đâu nào?</p>
+    </section>
+
+    <!-- MÀN TRONG VÙNG — bản đồ phiêu lưu (đảo + đường) -->
+    <section id="screen-lessons" class="screen map-screen adventure-map-screen lessons-adventure-screen">
+      <header class="topbar map-topbar map-chrome">
+        <button type="button" class="btn icon" id="btn-lessons-back" aria-label="Về bản đồ">←</button>
+        <h2 id="lessons-title">Màn học</h2>
+        <div class="map-top-right">
+          <p class="star-badge" id="stars-lessons">★ <span class="star-value">0</span></p>
+          <p class="xu-badge" id="xu-lessons">🪙 <span class="xu-value">0</span></p>
+        </div>
+      </header>
+      <div class="map-content lessons-content" id="lessons-content">
+        <div class="map-viewport adventure-viewport" id="lesson-viewport" aria-label="Bản đồ các màn">
+          <div class="map-world-bg adventure-bg lesson-adv-bg" id="lesson-adv-bg" aria-hidden="true"></div>
+          <svg class="map-route-svg" id="lesson-route-svg" aria-hidden="true"></svg>
+          <div class="adv-board map-nodes-layer" id="lesson-nodes"></div>
+        </div>
+        <aside class="map-pop-npc" id="lesson-pop-npc" hidden aria-live="polite">
+          <button type="button" class="map-pop-figure" id="btn-lesson-pop" aria-label="Nghe hướng dẫn">
+            <img src="assets/npc/dom-dom.svg" alt="" class="map-pop-img" id="lesson-pop-img" width="72" height="72" />
+            <span class="map-pop-name" id="lesson-pop-name">Đom Đóm</span>
+          </button>
+          <p class="map-pop-bubble" id="lesson-pop-bubble">Bé chọn một bạn nhé!</p>
+        </aside>
+      </div>
+      <div id="lessons-npc" class="npc-companion" hidden aria-hidden="true"></div>
+    </section>
+
+    <!-- EXPLORE / GIẢI CỨU -->
+    <section id="screen-explore" class="screen stage-theme">
+      <div class="stage-bg" id="explore-stage-bg" aria-hidden="true"></div>
+      <header class="topbar">
+        <button type="button" class="btn icon" id="btn-explore-back" aria-label="Về danh sách">←</button>
+        <h2 id="explore-title">Khám phá</h2>
+        <div id="stage-dots" class="stage-dots" aria-label="Bước nhìn"></div>
+      </header>
+      <div class="rescue-banner" id="explore-rescue-banner">
+        <span class="rescue-challenger" aria-hidden="true">🌫️</span>
+        <p class="rescue-line" id="explore-rescue-line">Bạn Gấu ơi, cứu mình với!</p>
+        <span class="rescue-friend" id="explore-rescue-friend" aria-hidden="true">🌟</span>
+      </div>
+      <div class="explore-layout rescue-play-layout">
+        <div class="captive-panel" id="explore-captive" aria-label="Bạn đang chờ giải cứu">
+          <div class="captive-cage is-held">
+            <span class="captive-suong" aria-hidden="true">🌫️</span>
+            <span class="captive-emoji" id="explore-captive-emoji">🍎</span>
+            <span class="captive-cloud" aria-hidden="true"></span>
+          </div>
+          <p class="captive-name" id="explore-captive-name">Bạn Đỏ</p>
+          <p class="captive-status" id="explore-captive-status">Đang chờ bé giúp!</p>
+        </div>
+        <div class="explore-main">
+          <div id="npc-companion" class="npc-companion npc-companion-hero npc-compact" hidden></div>
+          <div class="explore-stage">
+            <div id="explore-items" class="explore-items" hidden></div>
+            <button type="button" class="explore-hero hint-bounce is-hidden" id="explore-hero" hidden aria-label="Chạm để nghe">
+              <span class="explore-emoji" id="explore-emoji"></span>
+              <span class="explore-label" id="explore-label"></span>
+            </button>
+            <p class="explore-teach sr-only" id="explore-teach"></p>
+            <div class="cta-row">
+              <button type="button" class="btn speak" id="btn-explore-hear" aria-label="Nghe lại">🔊</button>
+              <button type="button" class="btn primary huge" id="btn-to-gate">Cứu bạn nào!</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- GATE / ĐỐ VUI -->
+    <section id="screen-gate" class="screen stage-theme">
+      <div class="stage-bg" id="gate-stage-bg" aria-hidden="true"></div>
+      <header class="topbar">
+        <button type="button" class="btn icon" id="btn-gate-back" aria-label="Về khám phá">←</button>
+        <h2 id="gate-title">Đố vui cứu bạn!</h2>
+        <div class="stage-dots" aria-label="Bước đoán">
+          <span class="stage-dot"></span><span class="stage-dot is-on"></span>
+        </div>
+      </header>
+      <div class="rescue-banner compact" id="gate-rescue-banner">
+        <span class="rescue-challenger" aria-hidden="true">🌫️</span>
+        <p class="rescue-line" id="gate-rescue-line">Trả lời đúng để cứu bạn!</p>
+        <span class="rescue-friend" id="gate-rescue-friend" aria-hidden="true">🌟</span>
+      </div>
+      <div class="gate-rescue-row">
+        <div class="captive-panel compact" id="gate-captive" aria-label="Bạn đang chờ giải cứu">
+          <div class="captive-cage is-held">
+            <span class="captive-suong" aria-hidden="true">🌫️</span>
+            <span class="captive-emoji" id="gate-captive-emoji">🍎</span>
+            <span class="captive-cloud" aria-hidden="true"></span>
+          </div>
+          <p class="captive-name" id="gate-captive-name">Bạn Đỏ</p>
+        </div>
+        <div id="gate-npc" class="npc-companion npc-companion-hero npc-compact"></div>
+      </div>
+      <p class="prompt visible-prompt" id="gate-prompt"></p>
+      <div class="feedback" id="gate-feedback"></div>
+      <div class="friend-help-row" id="friend-help-row" hidden>
+        <button type="button" class="btn secondary" id="btn-friend-help">💛 Nhờ bạn giúp</button>
+      </div>
+      <div class="playfield" id="gate-choices"></div>
+    </section>
+
+    <!-- REWARD / GIẢI CỨU XONG -->
+    <section id="screen-reward" class="screen stage-theme">
+      <div class="stage-bg" id="reward-stage-bg" aria-hidden="true"></div>
+      <div class="win-card">
+        <div class="captive-panel free" id="reward-captive" aria-hidden="true">
+          <div class="captive-cage is-free">
+            <span class="captive-emoji" id="reward-friend-emoji">🌟</span>
+            <span class="captive-sparkles" aria-hidden="true">✨</span>
+          </div>
+          <p class="captive-status">Tự do rồi!</p>
+        </div>
+        <h2 id="reward-title">Giải cứu thành công!</h2>
+        <p id="reward-text" class="speech soft">Bạn về với bé rồi!</p>
+        <div id="reward-stars" class="reward-stars" aria-label="Sao nhận được"></div>
+        <p class="xu-badge big">🪙 +<span id="reward-xu">5</span> · Tổng: <span id="reward-total">0</span></p>
+        <div class="cta-row">
+          <button type="button" class="btn primary huge" id="btn-reward-next">Chơi tiếp nào!</button>
+        </div>
+        <div class="cta-row reward-more">
+          <button type="button" class="btn icon" id="btn-reward-friends" aria-label="Bạn bè" title="Bạn bè">💛</button>
+          <button type="button" class="btn icon" id="btn-reward-shop" aria-label="Đổi thưởng" title="Đổi thưởng">🎁</button>
+          <button type="button" class="btn icon" id="btn-reward-topics" aria-label="Bản đồ" title="Bản đồ">🗺️</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- DANH SÁCH BẠN BÈ -->
+    <section id="screen-friends" class="screen">
+      <header class="topbar">
+        <button type="button" class="btn icon" id="btn-friends-back" aria-label="Quay lại">←</button>
+        <h2>Bạn bè đã cứu</h2>
+        <p class="star-badge" id="friends-count">💛 0</p>
+      </header>
+      <p class="map-prompt" id="friends-prompt">Những bạn bé đã giải cứu sẽ ở đây!</p>
+      <div class="friends-grid" id="friends-list" aria-label="Danh sách bạn bè"></div>
+    </section>
+
+    <!-- ĐỔI THƯỞNG (shop kiểu game) -->
+    <section id="screen-shop" class="screen shop-screen">
+      <header class="topbar shop-topbar">
+        <button type="button" class="btn icon" id="btn-shop-back" aria-label="Quay lại">←</button>
+        <h2>Đổi thưởng</h2>
+        <button type="button" class="btn speak" id="btn-shop-speak" aria-label="Nghe hướng dẫn">🔊</button>
+      </header>
+
+      <div class="shop-wallet" aria-live="polite">
+        <div class="shop-wallet-coin" aria-hidden="true">🪙</div>
+        <div class="shop-wallet-body">
+          <p class="shop-wallet-label">Xu Gấu của bé</p>
+          <p class="shop-wallet-value"><span id="xu-shop">0</span></p>
+        </div>
+        <p class="shop-wallet-flow">Qua cửa → lấy xu → đổi quà!</p>
+      </div>
+
+      <div class="shop-collection">
+        <div class="shop-collection-head">
+          <span aria-hidden="true">📦</span>
+          <h3>Bộ sưu tập</h3>
+          <span class="shop-collection-count" id="shop-owned-count">0</span>
+        </div>
+        <div class="shop-collection-row" id="owned-tip" aria-label="Quà đã đổi"></div>
+      </div>
+
+      <div class="shop-catalog-head">
+        <span aria-hidden="true">🎁</span>
+        <h3>Chọn quà đổi</h3>
+      </div>
+      <div class="shop-grid" id="shop-list" aria-label="Danh sách quà đổi thưởng"></div>
+
+      <div class="shop-toast" id="shop-toast" hidden role="status">
+        <span class="shop-toast-emoji" id="shop-toast-emoji">🎁</span>
+        <p class="shop-toast-text" id="shop-toast-text">Yay! Đổi thành công!</p>
+      </div>
+    </section>
+
+    <dialog id="parent-gate">
+      <form method="dialog" class="gate-form">
+        <h3>Dành cho người lớn</h3>
+        <p id="gate-q-wrap">Gõ số <strong id="gate-q"></strong> bằng chữ số</p>
+        <input type="number" id="gate-a" inputmode="numeric" autocomplete="off" />
+        <p class="tip" id="gate-err" role="status"></p>
+        <div class="cta-row">
+          <button type="submit" class="btn primary" value="ok">Vào</button>
+          <button type="submit" class="btn ghost" value="cancel">Quay lại</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="play-break-dialog">
+      <form method="dialog" class="gate-form">
+        <h3>Nghỉ một chút nhé!</h3>
+        <p class="tip" id="play-break-msg">Bé đã chơi khá lâu. Cùng đứng dậy vươn vai với bố mẹ!</p>
+        <div class="cta-row">
+          <button type="submit" class="btn primary" value="ok">Được rồi</button>
+        </div>
+      </form>
+    </dialog>
+
+    <!-- Cài đặt người lớn (vào sau phép tính) -->
+    <section id="screen-parent" class="screen parent-screen">
+      <header class="topbar">
+        <button type="button" class="btn icon" id="btn-parent-back" aria-label="Quay lại">←</button>
+        <h2>Cài đặt người lớn</h2>
+        <span class="star-badge" id="parent-voice-count" title="Số câu đã ghi">0</span>
+      </header>
+
+      <div class="parent-tabs" role="tablist">
+        <button type="button" class="parent-tab-btn is-active" id="parent-tab-overview-btn" data-tab="overview">Tổng quan</button>
+        <button type="button" class="parent-tab-btn" id="parent-tab-voices-btn" data-tab="voices">🎙️ Ghi âm lời đọc</button>
+      </div>
+
+      <div class="parent-tab-panel" data-tab="overview">
+        <div class="parent-overview-card">
+          <p>Tiến độ: <strong id="parent-progress">0</strong> màn đã qua cửa</p>
+          <p>Xu Gấu: <strong id="parent-xu">0</strong></p>
+          <p class="tip">1 màn = 1 bài · Không tài khoản trẻ · Không quảng cáo trong chơi</p>
+          <p class="tip">Ghi âm lưu trên máy — thay TTS khi bé chơi.</p>
+          <p id="parent-voice-health" class="parent-voice-health" role="status" hidden></p>
+          <label class="parent-filter-label" for="parent-play-limit">Giới hạn thời gian chơi</label>
+          <select id="parent-play-limit" class="parent-topic-filter" aria-label="Giới hạn chơi">
+            <option value="0">Tắt nhắc nghỉ</option>
+            <option value="15">Nhắc sau 15 phút</option>
+            <option value="30">Nhắc sau 30 phút</option>
+            <option value="45">Nhắc sau 45 phút</option>
+          </select>
+          <div class="cta-row parent-overview-actions">
+            <button type="button" class="btn secondary" id="btn-sound-toggle">🔊 Âm thanh: Bật</button>
+            <button type="button" class="btn secondary" id="btn-test-tts">Nghe thử TTS</button>
+            <button type="button" class="btn secondary" id="btn-reset">Chơi lại từ đầu</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="parent-tab-panel" data-tab="voices" hidden>
+        <p class="tip parent-voice-help">
+          Ưu tiên ghi <strong>Feedback đúng / thử lại</strong> trước (bé nghe nhiều nhất).
+          Chạm 🎙️ để ghi · ⏹ để dừng. Có ghi âm thì app dùng giọng đó thay TTS.
+        </p>
+        <p id="parent-voice-storage" class="tip parent-voice-storage">Đã ghi 0 câu · ~0 B trên máy</p>
+        <div class="cta-row parent-mic-actions">
+          <button type="button" class="btn secondary" id="btn-parent-mic-perm">🎤 Cho phép micro</button>
+          <button type="button" class="btn ghost" id="btn-parent-open-settings">⚙️ Mở Cài đặt máy</button>
+        </div>
+        <label class="parent-filter-label" for="parent-topic-filter">Chủ đề</label>
+        <select id="parent-topic-filter" class="parent-topic-filter" aria-label="Chọn chủ đề"></select>
+        <p class="parent-audio-status" id="parent-audio-status" role="status"></p>
+        <div class="parent-lesson-list" id="parent-lesson-list"></div>
+        <button type="button" class="btn ghost" id="btn-parent-clear-voices">Xóa hết ghi âm</button>
+      </div>
+    </section>
+  </div>
+  <script src="js/lessons-data.js"></script>
+  <script src="js/tts.js"></script>
+  <script src="js/voice-pack.js"></script>
+  <script src="js/sfx.js"></script>
+  <script src="js/npc.js"></script>
+  <script src="js/friends.js"></script>
+  <script src="js/map-world.js"></script>
+  <script src="js/parent-audio.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

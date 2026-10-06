@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="hinh heart do">
+  <circle cx="64" cy="64" r="60" fill="#FFE3E3"/>
+  <path fill="#e03131" d="M64 98 C64 98 28 74 28 50 C28 36 38 28 48 28 C56 28 62 34 64 40 C66 34 72 28 80 28 C90 28 100 36 100 50 C100 74 64 98 64 98 Z"/>
+</svg>

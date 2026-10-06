@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Dâu vàng">
+  <circle cx="64" cy="64" r="60" fill="#FFF6C2"/>
+  
+    <path d="M64 36 C48 36 40 52 42 68 C46 92 64 108 64 108 C64 108 82 92 86 68 C88 52 80 36 64 36 Z" fill="#ffd43b"/>
+    <ellipse cx="64" cy="34" rx="16" ry="8" fill="#2F9E44"/>
+    <circle cx="54" cy="60" r="2.5" fill="#ffea9d"/>
+    <circle cx="68" cy="70" r="2.5" fill="#ffea9d"/>
+    <circle cx="60" cy="80" r="2.5" fill="#ffea9d"/>
+</svg>

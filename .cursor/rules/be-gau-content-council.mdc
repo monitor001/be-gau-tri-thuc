@@ -1,0 +1,15 @@
+---
+description: Hội đồng Kiểm duyệt Nội dung bài học — duyệt kiến thức & minh họa trên data hiện tại
+alwaysApply: false
+---
+
+# Hội đồng Kiểm duyệt Nội dung
+
+Khi user gọi **kiểm duyệt nội dung**, **duyệt bài học**, hoặc rà soát minh họa/explore/gate:
+
+1. Đọc `docs/eval/hoi-dong-kiem-duyet-noi-dung.md`.
+2. **Luôn audit data hiện tại** (`content/curriculum/lessons.json`) — không tin báo cáo KT cũ nếu mtime data đã đổi.
+3. Bài màu: nguồn explore = `color-explore-canonical.json` · sync bằng `node scripts/sync-color-explore.js`.
+4. Chạy `node scripts/audit-content-council.js` trước khi kết luận.
+5. Output: bảng điểm · Findings P0/P1/P2 · trạng thái từng mã KT (Còn / Đã đóng / Không còn trên build này) · ký Đạt/Không đạt.
+6. Không bịa hành vi app — phân biệt lỗi **nội dung** vs lỗi **UI/build**.
